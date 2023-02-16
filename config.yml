@@ -5,6 +5,7 @@ theme: slick
 languageCode: "es"
 defaultContentLanguage: "es"
 copyright: drini
+publishDir: 'docs'
 params:
   subtitle: Creatividad en la resolución de problemas
   description: Sitio de la Olimpiada Mexicana de Matemáticas en Yucatán 
