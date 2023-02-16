@@ -32,9 +32,9 @@ services:
     limit: 0
 menu:
   main:
-    - identifier: instrucciones
-      name: Instrucciones generales
-      url: /posts/instrucciones2023
+    - identifier: info
+      name: Información general
+      url: /posts/info2023
       weight: 1
     - identifier: acceso
       name: Acceso al examen
