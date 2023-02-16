@@ -1,0 +1,87 @@
+baseURL: http://example.org/
+languageCode: es
+title: Olimpiada Mexicana de Matemáticas en Yucatán
+theme: slick
+languageCode: "es"
+defaultContentLanguage: "es"
+copyright: Some Author — All rights reserved.
+publishDir: "docs"
+params:
+  subtitle: Creatividad en la resolución de problemas
+  description: Sitio de la Olimpiada Mexicana de Matemáticas en Yucatán 
+  dateFmt: 'Mon, 02 Jan 2006 15:04:05 MST'
+  errorPageText: '¡Uay! La página no se encuentra...'
+  showNavHeader: true
+  showRssLink: false
+  showFullContent: true
+  showEmptyPagination: true
+  showMeta: false
+  showMetaDates: true
+  showMetaLinks: true
+  opengraph: false
+  schema: false
+  twitter_cards: false
+taxonomies:
+  tags: tags
+  categories: categories
+  series: series
+author:
+  name: Some Author
+  email: mail@example.org
+services:
+  rss:
+    limit: 0
+menu:
+  main:
+    - identifier: acceso
+      name: Acceso al examen
+      url: /posts/acceso2023
+      weight: 1
+    - identifier: entrega
+      name: Entrega de respuestas
+      url: /posts/entrega2023
+      weight: 1
+    #- identifier: post
+    #  name: Posts
+    #  title: All posts
+    #  url: /posts/
+    #  weight: 1
+    #- identifier: categories
+    #  name: Categories
+    # title: All categories
+    #  url: /categories/
+    #  weight: 2
+    #- identifier: tags
+    #  name: Tags
+    #  title: All tags
+    #  url: /tags/
+    #  weight: 2
+    #- identifier: series
+    #  name: Series
+    #  title: All series
+    #  url: /series/
+    #  weight: 2
+  meta:
+    - identifier: categories
+      name: Categories
+      weight: 1
+    - identifier: series
+      name: Series
+      weight: 2
+    - identifier: tags
+      name: Tags
+      weight: 3
+  footer:
+    - name: FMAT-UADY
+      title: Facultad de Matemáticas
+      url: 'https://www.matematicas.uady.mx/omm'
+      weight: 1
+    - name: OMM
+      title: OMM
+      url: 'https://ommenlinea.org'
+      weight: 2
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: -1
+
