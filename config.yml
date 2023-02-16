@@ -4,8 +4,7 @@ title: Olimpiada Mexicana de Matemáticas en Yucatán
 theme: slick
 languageCode: "es"
 defaultContentLanguage: "es"
-copyright: Some Author — All rights reserved.
-publishDir: "docs"
+copyright: drini
 params:
   subtitle: Creatividad en la resolución de problemas
   description: Sitio de la Olimpiada Mexicana de Matemáticas en Yucatán 
