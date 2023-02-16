@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>2023 on Olimpiada Mexicana de Matemáticas en Yucatán</title>
-		<link>http://ommyuc.org/series/2023/</link>
+		<link>http://morfismo.github.io/ommyucweb/series/2023/</link>
 		<description>Recent content in 2023 on Olimpiada Mexicana de Matemáticas en Yucatán</description>
 		<generator>Hugo 0.110.0 -- gohugo.io</generator>
 		<language>es</language>
@@ -9,23 +9,23 @@
 		<webMaster>mail@example.org (Some Author)</webMaster>
 		<copyright>drini</copyright>
 		<lastBuildDate>Wed, 15 Feb 2023 09:27:01 -0600</lastBuildDate>
-		<atom:link href="http://ommyuc.org/series/2023/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://morfismo.github.io/ommyucweb/series/2023/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Información 2023</title>
-			<link>http://ommyuc.org/posts/info2023/</link>
+			<link>http://morfismo.github.io/ommyucweb/posts/info2023/</link>
 			<pubDate>Wed, 15 Feb 2023 09:27:01 -0600</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">http://ommyuc.org/posts/info2023/</guid>
+			<guid isPermaLink="true">http://morfismo.github.io/ommyucweb/posts/info2023/</guid>
 			<description>&lt;h2 id=&#34;información-adicional&#34;&gt;Información adicional&lt;/h2&gt;
 &lt;p&gt;Como ejemplo, ponemos a disposición un ejemplo de examen del año pasado y un ejemplo de cómo es la plataforma de entrega de respuestas&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://ommyuc.org/archivo/2022/2022-SECUNDARIA.pdf&#34;&gt;Examen Secundaria 2022 (PDF)&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://morfismo.github.io/ommyucweb/archivo/2022/2022-SECUNDARIA.pdf&#34;&gt;Examen Secundaria 2022 (PDF)&lt;/a&gt;&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd48Nz7ptZiC0ei3H56FCp-2xyU-CMgH2kJMEor2ASQDFC5UA/viewform?usp=sf_link&#34;&gt;Plataforma de Entrega 2022 (Primaria)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Cualquier duda o consulta adicional, puede enviar correo a &lt;strong&gt;&lt;a href=&#34;mailto:ommyuc@gmail.com&#34;&gt;ommyuc@gmail.com&lt;/a&gt;&lt;/strong&gt; o contactar al Comité Organizador por &lt;strong&gt;Telegram o Whatsapp&lt;/strong&gt; al 9993 229 482.&lt;/p&gt;
 &lt;h2 id=&#34;material-de-preparación&#34;&gt;Material de preparación&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://ommyuc.org/archivo/2023/convocatoria-2023.pdf&#34;&gt;Convocatoria&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://morfismo.github.io/ommyucweb/archivo/2023/convocatoria-2023.pdf&#34;&gt;Convocatoria&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://intranet.matematicas.uady.mx/omm/materiales&#34;&gt;Exámenes anteriores y material de preparación&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i?_pos=2&amp;amp;_sid=377d6fe44&amp;amp;_ss=r&#34;&gt;Libro: 20 temas selectos de matemáticas en educación básica, volumen 1&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://libreria.uady.mx/products/la-olimpiada-mexicana-de-matematicas-en-yucatan?_pos=1&amp;amp;_sid=02a776b67&amp;amp;_ss=r&#34;&gt;Libro: La Olimpiada de Matemáticas en Yucatán, los primeros 30 años&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;

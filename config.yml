@@ -1,4 +1,4 @@
-baseURL: http://ommyuc.org
+baseURL: http://morfismo.github.io/ommyucweb
 languageCode: "es"
 title: "Olimpiada Mexicana de Matemáticas en Yucatán"
 theme: "slick"
@@ -6,6 +6,8 @@ languageCode: "es"
 defaultContentLanguage: "es"
 copyright: "drini"
 publishDir: 'docs'
+relativeURLS: false
+canonifyURLs: true
 params:
   subtitle: "Creatividad en la resolución de problemas"
   description: "Sitio de la Olimpiada Mexicana de Matemáticas en Yucatán" 
