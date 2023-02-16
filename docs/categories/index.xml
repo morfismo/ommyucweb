@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Olimpiada Mexicana de Matemáticas en Yucatán</title>
-		<link>http://morfismo.github.io/ommyucweb/categories/</link>
+		<link>http://ommyuc.org/categories/</link>
 		<description>Recent content in Categories on Olimpiada Mexicana de Matemáticas en Yucatán</description>
 		<generator>Hugo 0.110.0 -- gohugo.io</generator>
 		<language>es</language>
@@ -9,6 +9,6 @@
 		<webMaster>mail@example.org (Some Author)</webMaster>
 		<copyright>drini</copyright>
 		<lastBuildDate>Wed, 15 Feb 2023 09:27:01 -0600</lastBuildDate>
-		<atom:link href="http://morfismo.github.io/ommyucweb/categories/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://ommyuc.org/categories/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
