@@ -30,6 +30,6 @@ Durante el examen:
 
 | PRIMARIA         | SECUNDARIA                                    | BACHILLERATO          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](2023-PRIMARIA.pdf)  |  [Secundaria (1º, 2º, 3º)](2023-SECUNDARIA.pdf) |  [Bachillerato (1º, 2º)](2023-BACHILLERATO.pdf) |
+| [Primaria (4º,5º, 6º)](archivo/2023/2023-PRIMARIA.pdf)  |  [Secundaria (1º, 2º, 3º)](archivo/2023/2023-SECUNDARIA.pdf) |  [Bachillerato (1º, 2º)](archivo/2023/2023-BACHILLERATO.pdf) |
 
 ¡Mucho éxito!
