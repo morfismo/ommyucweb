@@ -13,7 +13,7 @@ params:
   showNavHeader: true
   showRssLink: false
   showFullContent: true
-  showEmptyPagination: true
+  showEmptyPagination: false
   showMeta: false
   showMetaDates: true
   showMetaLinks: true
@@ -44,10 +44,6 @@ menu:
       name: Entrega de respuestas
       url: /posts/entrega2023
       weight: 3
-    - identifier: constancias
-      name: Subir constancia
-      url: /posts/constancias2023
-      weight: 4
     #- identifier: post
     #  name: Posts
     #  title: All posts
