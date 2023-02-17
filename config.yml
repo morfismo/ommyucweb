@@ -7,7 +7,7 @@ defaultContentLanguage: "es"
 copyright: "drini"
 publishDir: 'docs'
 relativeURLS: false
-canonifyURLs: true
+#canonifyURLs: true
 params:
   subtitle: "Creatividad en la resolución de problemas"
   description: "Sitio de la Olimpiada Mexicana de Matemáticas en Yucatán" 
