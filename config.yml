@@ -1,5 +1,4 @@
-#baseURL: http://morfismo.github.io/ommyucweb/
-baseUrl: https://ommyuc.org
+baseURL: http://morfismo.github.io/ommyucweb/
 languageCode: "es"
 title: "Olimpiada Mexicana de Matemáticas en Yucatán"
 theme: "slick"
