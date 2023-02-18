@@ -37,8 +37,8 @@ services:
 menu:
   main:
     - identifier: info
-      name: Información general
-      url: /posts/info2023
+      name: ¡Prepárate!
+      url: https://intranet.matematicas.uady.mx/omm/materiales
       weight: 1
     - identifier: acceso
       name: Acceso al examen
