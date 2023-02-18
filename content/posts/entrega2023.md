@@ -15,7 +15,7 @@ series:
 
 ## ENTREGA DE RESPUESTAS
 
-Si ya terminaste el examen (o si ya es la hora límite, 13:00), entra al enlace que te corresponda para enviarnos tus respuestas.
+Si ya terminaste el examen (o si ya es la hora límite, 13:30), entra al enlace que te corresponda para enviarnos tus respuestas.
 
 **Instrucciones.**
 

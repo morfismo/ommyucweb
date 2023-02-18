@@ -30,7 +30,7 @@ Durante el examen:
 * **Cuando termines de intentar el examen, ve a la sección [Entrega]({{< ref "/posts/entrega2023" >}}) para registrar tus datos y tus respuestas**.
 * Tienes como límite hasta las 13:00 para intentar el examen, a esa hora deberás subir tus respuestas si no has acabado. 
 
-| **EL EXAMEN INICIA A LAS 11:00** | **TERMINA A LAS 1:00 PM** |
+| **EL EXAMEN INICIA A LAS 11:00** | **TERMINA A LAS 1:30 PM** |
 | --------------------------------- | --------------------- |
 
 Enlaces de acceso:
