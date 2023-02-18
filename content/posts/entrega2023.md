@@ -58,5 +58,4 @@ Usa alguno de los siguientes enlaces para subir tu constancia escolar.
 
 **Si los enlaces no funcionan, enviarla por correo a ommyuc@gmail.com**
 
-Cualquier duda o problema durante la aplicación, puede enviar correo a **ommyuc@gmail.com** o contactar al Comité Organizador por **Telegram o Whatsapp** al 9993 229 482.
 
