@@ -55,7 +55,7 @@ Usa alguno de los siguientes enlaces para subir tu constancia escolar.
 
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/MlnaXZlbhZzC5mYtuN3Z)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/s1Z6p7EKgA5VLB1KaDMU) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Jo6oo3Mqq1pOW1eqLQY7) |
+| [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |
 
 **Si no tienes la constancia en este momento** (por ejemplo, si no la envió a tiempo la escuela), no te preocupes, presentas ahorita y la envías durante la semana que viene a este correo:  ommyuc@gmail.com , **pero sólo si no la tienes ahora y te la dan en los próximos días.** (Si la tienes ahorita, súbela en los enlaces de arriba)  
 
