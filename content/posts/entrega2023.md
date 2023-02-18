@@ -52,7 +52,7 @@ También puedes usar alguno de los siguientes enlaces (son los mismos que aparec
 
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](#)  |  [Secundaria (1º, 2º, 3º)](#) |  [Bachillerato (1º, 2º)](#) |
+| [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/MlnaXZlbhZzC5mYtuN3Z)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/s1Z6p7EKgA5VLB1KaDMU) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Jo6oo3Mqq1pOW1eqLQY7) |
 
 
 
