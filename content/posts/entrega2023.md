@@ -57,8 +57,7 @@ Usa alguno de los siguientes enlaces para subir tu constancia escolar.
 | -------------- | -------------------------------------- | ----------------- |
 | [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |
 
-**Si no tienes la constancia en este momento** (por ejemplo, si no la envió a tiempo la escuela), no te preocupes, presentas ahorita y la envías durante la semana que viene a este correo:  ommyuc@gmail.com , **pero sólo si no la tienes ahora y te la dan en los próximos días.** (Si la tienes ahorita, súbela en los enlaces de arriba)  
-
+**Si los enlaces no funcionan, enviarla por correo a ommyuc@gmail.com**
 
 Cualquier duda o problema durante la aplicación, puede enviar correo a **ommyuc@gmail.com** o contactar al Comité Organizador por **Telegram o Whatsapp** al 9993 229 482.
 
