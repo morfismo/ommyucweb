@@ -53,3 +53,8 @@ También puedes usar alguno de los siguientes enlaces (son los mismos que aparec
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |
 | [Primaria (4º,5º, 6º)](#)  |  [Secundaria (1º, 2º, 3º)](#) |  [Bachillerato (1º, 2º)](#) |
+
+
+
+Cualquier duda o problema durante la aplicación, puede enviar correo a **ommyuc@gmail.com** o contactar al Comité Organizador por **Telegram o Whatsapp** al 9993 229 482.
+
