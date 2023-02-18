@@ -41,7 +41,6 @@ Una vez que registres tus datos, **aparecerán en la pantalla las preguntas del 
 
 Por favor, sigue el enlace que corresponde a tu nivel escolar
 
-## DEBIDO A LOS PROBLEMAS EN EL ACCESO AL PDF, LA HORA DE ENTREGA SE EXTIENDE HASTA LAS 13:30
 
 | ENTREGA RESPUESTAS         | ENTREGA RESPUESTAS                                    | ENTREGA RESPUESTAS         |
 | -------------- | -------------------------------------- | ----------------- |

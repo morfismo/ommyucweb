@@ -15,7 +15,6 @@ series:
 
 ## ACCESO AL EXAMEN
 
-## DEBIDO A LOS PROBLEMAS EN EL ACCESO AL PDF, LA HORA DE ENTREGA SE EXTIENDE HASTA LAS 13:30
 
 Antes de abrir el examen, recuerda las siguientes instrucciones:
 * No puedes usar calculadora, celular o computadora para ayudarte con las operaciones.
