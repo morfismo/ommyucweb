@@ -35,6 +35,6 @@ Enlaces de acceso:
 
 | PRIMARIA         | SECUNDARIA                                    | BACHILLERATO          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](archivo/2023/2023-PRIMARIA.pdf)  |  [Secundaria (1º, 2º, 3º)](archivo/2023/2023-SECUNDARIA.pdf) |  [Bachillerato (1º, 2º)](archivo/2023/2023-BACHILLERATO.pdf) |
+| [Primaria (4º,5º, 6º)](archivo/2023/2023-PRIMARIA.PDF)  |  [Secundaria (1º, 2º, 3º)](archivo/2023/2023-SECUNDARIA.PDF) |  [Bachillerato (1º, 2º)](archivo/2023/2023-BACHILLERATO.PDF) |
 
 ¡Mucho éxito!
