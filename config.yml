@@ -42,7 +42,7 @@ menu:
       weight: 1
     - identifier: acceso
       name: Acceso al examen
-      url: /posts/acceso2023
+      url: http://ommyuc.org
       weight: 2
     - identifier: entrega
       name: Entrega de respuestas
