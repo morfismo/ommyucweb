@@ -47,14 +47,12 @@ Por favor, sigue el enlace que corresponde a tu nivel escolar
 
 **3. Entrega de la constancia escolar**
 
-Después de registrar tus respuestas, aparecerá un enlace donde puedes subir tu constancia escolar.
-También puedes usar alguno de los siguientes enlaces (son los mismos que aparecen al final de la entrega).
+Usa alguno de los siguientes enlaces para subir tu constancia escolar.
+*Tip: tu escuela o tus padres pueden adelantar este paso subiéndolas mientras presentas.*
 
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |
 | [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/MlnaXZlbhZzC5mYtuN3Z)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/s1Z6p7EKgA5VLB1KaDMU) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Jo6oo3Mqq1pOW1eqLQY7) |
-
-
 
 Cualquier duda o problema durante la aplicación, puede enviar correo a **ommyuc@gmail.com** o contactar al Comité Organizador por **Telegram o Whatsapp** al 9993 229 482.
 
