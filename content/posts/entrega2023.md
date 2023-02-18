@@ -43,7 +43,7 @@ Por favor, sigue el enlace que corresponde a tu nivel escolar
 
 | ENTREGA RESPUESTAS         | ENTREGA RESPUESTAS                                    | ENTREGA RESPUESTAS         |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](#)  |  [Secundaria (1º, 2º, 3º)](#) |  [Bachillerato (1º, 2º)](#) |
+| [Primaria (4º,5º, 6º)](https://docs.google.com/forms/d/e/1FAIpQLScFrYLezgB9CquIvQXqn6WoVgb4b_DDv1WEUWohqL8EKcTXdA/viewform?usp=sf_link)  |  [Secundaria (1º, 2º, 3º)](https://docs.google.com/forms/d/e/1FAIpQLSdTLKjfhmxsw6vvQHqR7h4chlrhDXt1dKd767j04swJdJuJHw/viewform?usp=sf_link) |  [Bachillerato (1º, 2º)](https://docs.google.com/forms/d/e/1FAIpQLSfhj1yJUifq7fxD7znIK8Z8jRTE9mbd8bL97qrq1GFjF7sJ5A/viewform?usp=sf_link) |
 
 **3. Entrega de la constancia escolar**
 
