@@ -48,7 +48,8 @@ Por favor, sigue el enlace que corresponde a tu nivel escolar
 **3. Entrega de la constancia escolar**
 
 Usa alguno de los siguientes enlaces para subir tu constancia escolar.
-*Tip: tu escuela o tus padres pueden adelantar este paso subiéndolas mientras presentas.*
+
+*Tip: tu escuela o tus padres pueden adelantar este paso subiéndola mientras presentas.*
 
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |

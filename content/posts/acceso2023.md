@@ -28,8 +28,9 @@ Durante el examen:
 * **Cuando termines de intentar el examen, ve a la sección [Entrega]({{< ref "/posts/entrega2023" >}}) para registrar tus datos y tus respuestas**.
 * Tienes como límite hasta las 13:00 para intentar el examen, a esa hora deberás subir tus respuestas si no has acabado. 
 
+**EL EXAMEN INICIA A LAS 11:00**
 | PRIMARIA         | SECUNDARIA                                    | BACHILLERATO          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](archivo/2023/2023-PRIMARIA.pdf)  |  [Secundaria (1º, 2º, 3º)](archivo/2023/2023-SECUNDARIA.pdf) |  [Bachillerato (1º, 2º)](archivo/2023/2023-BACHILLERATO.pdf) |
+| [Primaria (4º,5º, 6º)](#)  |  [Secundaria (1º, 2º, 3º)](#) |  [Bachillerato (1º, 2º)](#) |
 
 ¡Mucho éxito!
