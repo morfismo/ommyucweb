@@ -55,7 +55,7 @@ Usa alguno de los siguientes enlaces para subir tu constancia escolar.
 
 | CONSTANCIA ESCOLAR         | CONSTANCIA ESCOLAR                                    | CONSTANCIA ESCOLAR          |
 | -------------- | -------------------------------------- | ----------------- |
-| [Primaria (4º,5º, 6º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy)  |  [Secundaria (1º, 2º, 3º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |  [Bachillerato (1º, 2º)](https://www.dropbox.com/request/Mtv00Si2lOrWspBFO3jy) |
+| [Primaria (4º,5º, 6º)](https://correouady-my.sharepoint.com/:f:/g/personal/pedro_sanchez_correo_uady_mx/EnZUb2Nq4n1BiM8Wg_AgC-0B43ySbZceokFQcBjNIsjGCw)  |  [Secundaria (1º, 2º, 3º)](https://correouady-my.sharepoint.com/:f:/g/personal/pedro_sanchez_correo_uady_mx/EnZUb2Nq4n1BiM8Wg_AgC-0B43ySbZceokFQcBjNIsjGCw) |  [Bachillerato (1º, 2º)](https://correouady-my.sharepoint.com/:f:/g/personal/pedro_sanchez_correo_uady_mx/EnZUb2Nq4n1BiM8Wg_AgC-0B43ySbZceokFQcBjNIsjGCw) |
 
 **Si los enlaces no funcionan, enviarla por correo a ommyuc@gmail.com**
 
