@@ -37,6 +37,9 @@ services:
 menu:
   main:
     - identifier: info
+      name: Convocatoria
+      url: /posts/info2023
+    - identifier: materiales
       name: ¡Prepárate!
       url: https://intranet.matematicas.uady.mx/omm/materiales
       weight: 1
