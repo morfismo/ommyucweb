@@ -3,7 +3,7 @@ title: "Entrega2023"
 slug: entrega2023
 description: null
 date: 2023-02-12T09:40:30-06:00
-type: posts
+type: pages
 draft: false
 categories:
 - General
