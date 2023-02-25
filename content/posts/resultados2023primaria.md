@@ -66,3 +66,38 @@ Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de
 | Cristofer Jesus  Pallotta Escobar  | Irving Gael Caamal Chan            | Royer Andrés sierra galvan            |
 | Dair Emmanuel Borges Herrera       | Jose Angel Villalobos Quintal      | Santiago Chavarria Luna               |
 | Danna Montserrath Álvarez Chablé   | Karen Renata Canché Uc             | Victoria Elizabeth Pinzón López       |
+
+### Quinto de Primaria
+
+| NOMBRE                                | NOMBRE                                | NOMBRE                             |
+|---------------------------------------|---------------------------------------|------------------------------------|
+| Aarón Isaías Poot Navarrete           | Emilio Madrid Díaz                    | Óscar Andres Chan Balam            |
+| Alfredo Manjarrez Rodríguez           | Fabrizzio Alejandro Speroni Gutiérrez | Óscar David Euán Maldonado         |
+| Ana Sofía Basto Escalante             | Glendy Helen Ávila Polanco            | Sandra Julissa Escalante Pool      |
+| Ana Sofía Valenzuela Aguilar          | Isabella Valentina Araujo Zapata      | Santiago Alejandro González Farfán |
+| André Emanuel Ku Ek                   | José Antonio Bernal Massa             | Santiago Canto Castellanos         |
+| Ángela Patricia Cimé Hercila          | José Antonio Salas Zoghbi             | Sara Angelli Narváez Campos        |
+| Carla Regina Díaz Oropeza             | José Carlos Rodríguez Camacho         | Sebastian Arteaga Cuevas           |
+| Cesar Emiliano Puc Canche             | Karla Valeria Cime Mendoza            | Solis Jiménez Jared Samuel         |
+| Christian Elizabeth Castillo Prado    | Lourdes Toledo Velázquez              | Teobaldo Joel de la Rosa Lopez     |
+| Cristhy Guadalupe Villalobos Granados | Mateo Humberto Cruz Escobedo          | Victor Gerardo Vázquez Basto       |
+| Cristian Eugenio González Ramos       | Matteo Aguilar Baquedano              | Yamileth del Rosario Vera Chi      |
+| Dominic Sagredo Buenfil               | Mauricio Antonio Gómez Llanes         |   |
+
+### Sexto de Primaria
+
+| NOMBRE                            | NOMBRE                              | NOMBRE                             |
+|-----------------------------------|-------------------------------------|------------------------------------|
+| Alexis González de Dios           | Felipe Gabriel González Salazar     | Joryet Joselin Quijano Hernández   |
+| Alexis Roman Noh Noh              | Fernando Joel Lara Esquivel         | Leonardo Aguilar Jiménez           |
+| Angel Rafael Herrera Pinzon       | Gema Yonané Alvarez Antuña          | Manuel Patricio Várguez Dzul       |
+| Angelica Yamileth Sanchez Ramirez | Gladys Elizabeth Navarro Aguilar    | María Victoria Hernández Chay      |
+| Bianca Noemí González Coronado    | Guillermo Alexander Baeza Domínguez | Nicolás de Jesús González Farfán   |
+| Carlos Humberto Quintal González  | Hisae Sayumi Chan Esquivel          | Óscar Gama Molina                  |
+| Daniela de Angeles Cruz Canul     | Ileana Anahí Bacelis Tun            | Pedro Alejandro Colorado Gutiérrez |
+| Diego Iván Vega Tinal             | Ingrid Aylin Herrera Tzab           | Regina Aracely Puc Chacón          |
+| Diego Uriel Canul Durán           | Isidro Joaquín Escamilla Vega       | Santiago Abisai Noh Dzul           |
+| Elliott Aquiles Torrentez Couoh   | Javier Alfredo Euan Barea           | Sergio Gabriel Díaz Rodríguez      |
+| Emilio Arturo Peraza Balam        | Jireh Guadalupe Canul Hernandez     | Sofía Guadalupe Collí Morales      |
+| Erick Santiago Vázquez Bonilla    | Joaquín Giovanni Cocom Canto        | Vanessa Beatríz Poot Hernández     |
+| Fabrizzio Thadeus Gutiérrez Cruz  | Jorge Alexander Kuyoc Ceme          |  |
