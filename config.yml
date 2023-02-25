@@ -44,6 +44,10 @@ menu:
       name: ¡Prepárate!
       url: https://intranet.matematicas.uady.mx/omm/materiales
       weight: 1
+    - identifier: resultados2023
+      name: Resultados de la primera ronda
+      url: /posts/resultados2023
+      weight: 2
     #- identifier: post
     #  name: Posts
     #  title: All posts
