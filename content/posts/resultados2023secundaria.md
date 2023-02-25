@@ -65,7 +65,7 @@ Las puntuaciones para clasificar a la siguiente ronda en 1º, 2º y 3er grado de
 | Dana Karen Medina González       | Joaquín Emanuel Tut Aké            | Paola Silvanna Escalante Lopez      |
 | David Ezequiel Chan Uc           | Jonathan Alexander Pech Cardeña    | Rafael Reyes Pérez Ulloa            |
 | David Jasair Martín Morales      | Jorge Uriel Itzincab Puch          | Samuel José Bacab Dzul              |
-| Diego Manuel Gamboa Interián     | José MIguel Salas Zoghbi           | Valeria Puerto González             |
+| Diego Manuel Gamboa Interián     | José Miguel Salas Zoghbi           | Valeria Puerto González             |
 | Edith Rocío Chuc Poot            | Keyra Camila Liy Solís             |                                     |
 | Erick Woodhouse Santos           | Kimberly Amairany Cetina Kih       | |
 
