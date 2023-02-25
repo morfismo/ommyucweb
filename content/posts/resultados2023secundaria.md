@@ -24,7 +24,7 @@ A continuación presentamos la clave de respuestas correctas, para que cada alum
 |------------|-----------|------------|-----------|-------------|-----------|
 | Problema 1 | 961       | Problema 5 | 994         | Problema 9  | 210       |
 | Problema 2 | 602      | Problema 6 | 126       | Problema 10 | 10       |
-| Problema 3 | 4       | Problema 7 | 405       | Problema 11 | 405       |
+| Problema 3 | 4       | Problema 7 | 405       | Problema 11 | 537       |
 | Problema 4 | 630         | Problema 8 | 15       | Problema 12 | 18207        |
 
 Las puntuaciones para clasificar a la siguiente ronda en 1º, 2º y 3er grado de Secundaria son, respectivamente: 
