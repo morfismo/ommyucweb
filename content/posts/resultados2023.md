@@ -13,7 +13,7 @@ series:
 -
 ---
 
-### Listado de alumnos invitados a presentar la segunda ronda  del Examen Estatal.
+### Listado de alumnos invitados a presentar la segunda ronda  del Examen Estatal 2023.
 
 *Las listas son preliminares, en caso de existir algún error o aclaración necesaria, ponemos a su disposición el correo de la Olimpiada para realizar correcciones o cambios pertinentes: ommyuc@gmail.com . Más adelante publicaremos los listados en versión PDF.*
 
