@@ -16,7 +16,7 @@ series:
 
 A continuación presentamos la clave de respuestas correctas, para que cada alumno pueda determinar su puntuación de forma individual, recordando que los primeros 4 problemas valen 1 punto, los siguientes 4 valen 2 puntos, y los últimos 4 valen 3 puntos.
 
-**Los procedimientos detallados de solución se encuentran en el canal de YouTube de la Olimpiada: [https://youtube.com/@ommyuc](https://youtube.com/@ommyuc)**
+**Los procedimientos detallados de solución se publicarán en el canal de YouTube de la Olimpiada: [https://youtube.com/@ommyuc](https://youtube.com/@ommyuc)**
 
 **RESPUESTAS DEL EXAMEN**
 
@@ -93,3 +93,5 @@ Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de
 | Emilio Arturo Peraza Balam        | Jireh Guadalupe Canul Hernandez     | Sofía Guadalupe Collí Morales      |
 | Erick Santiago Vázquez Bonilla    | Joaquín Giovanni Cocom Canto        | Vanessa Beatríz Poot Hernández     |
 | Fabrizzio Thadeus Gutiérrez Cruz  | Jorge Alexander Kuyoc Ceme          |  |
+
+Cualquier error o aclaración pertinente, se agradece indicarlo al correo de la Olimpiada para poder hacer la corrección ommyuc@gmail.org .
