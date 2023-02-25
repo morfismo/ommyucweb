@@ -82,6 +82,6 @@ Las puntuaciones para clasificar a la siguiente ronda en 1º, 2º y 3er grado de
 | Fátima del Rubí Martínez Sosa      | Luis Israel Pool Cupul         | Valeria Ruz González             |
 | Fernando Igor Medina Góngora       | María José Santos Hurtado      | Ximena López Carrillo            |
 | Héctor Damián Alonzo Salas         | Mariela Ortiz Guzmán           |                                  |
-| Itzhari Carballo Ochoa             | Martínez Sosa Ricardo Emanuel  |
+| Itzhari Carballo Ochoa             | Martínez Sosa Ricardo Emanuel  | |
 
 Cualquier error o aclaración pertinente, se agradece indicarlo al correo de la Olimpiada para poder hacer la corrección ommyuc@gmail.org .
