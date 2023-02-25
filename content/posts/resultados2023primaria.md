@@ -16,24 +16,16 @@ series:
 
 A continuación presentamos la clave de respuestas correctas, para que cada alumno pueda determinar su puntuación de forma individual, recordando que los primeros 4 problemas valen 1 punto, los siguientes 4 valen 2 puntos, y los últimos 4 valen 3 puntos.
 
-Los procedimientos detallados de solución se encuentran en el canal de YouTube de la Olimpiada: [https://youtube.com/@ommyuc](https://youtube.com/@ommyuc)
+**Los procedimientos detallados de solución se encuentran en el canal de YouTube de la Olimpiada: [https://youtube.com/@ommyuc](https://youtube.com/@ommyuc)**
 
 **RESPUESTAS DEL EXAMEN**
 
-| PROBLEMA    | RESPUESTA |
-|-------------|-----------|
-| Problema 1  | 121       |
-| Problema 2  | 2112      |
-| Problema 3  | 225       |
-| Problema 4  | 4         |
-| Problema 5  | 4         |
-| Problema 6  | 602       |
-| Problema 7  | 206       |
-| Problema 8  | 994       |
-| Problema 9  | 537       |
-| Problema 10 | 126       |
-| Problema 11 | 405       |
-| Problema 12 | 72        |
+| PROBLEMA   | RESPUESTA | PROBLEMA   | RESPUESTA | PROBLEMA    | RESPUESTA |
+|------------|-----------|------------|-----------|-------------|-----------|
+| Problema 1 | 121       | Problema 5 | 4         | Problema 9  | 537       |
+| Problema 2 | 2112      | Problema 6 | 602       | Problema 10 | 126       |
+| Problema 3 | 225       | Problema 7 | 206       | Problema 11 | 405       |
+| Problema 4 | 4         | Problema 8 | 994       | Problema 12 | 72        |
 
 Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de primaria son, respectivamente: 
 
