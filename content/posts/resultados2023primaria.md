@@ -61,7 +61,7 @@ Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de
 | Ana Regina Medina Esparza          | Gabriel González Cen               | Maryángel Dorantes León               |
 | Ángel  Adrián Koyoc  Can           | Gael Antonio Aguilar Valdivia      | Matías Eduardo Cámara Kú              |
 | Brian Josep Ek Xool                | Génesis Andrea Chuc Canché         | Mauricio Amador López                 |
-| Camila Corzo Gorra                 | Gerard Alexander Canche Manzanero  | Mauro Alberto Pérez Cárdenas          |
+| Camila Corzo Gorra                 | Gerard Alexander Canché Manzanero  | Mauro Alberto Pérez Cárdenas          |
 | Carlos Fernando Torres Acosta      | Ian Alejandro Garcia Alvarez       | Mercedes Monserrat Manzanilla Fuentes |
 | Cristofer Jesus  Pallotta Escobar  | Irving Gael Caamal Chan            | Royer Andrés sierra galvan            |
 | Dair Emmanuel Borges Herrera       | Jose Angel Villalobos Quintal      | Santiago Chavarria Luna               |
@@ -78,7 +78,7 @@ Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de
 | André Emanuel Ku Ek                   | José Antonio Bernal Massa             | Santiago Canto Castellanos         |
 | Ángela Patricia Cimé Hercila          | José Antonio Salas Zoghbi             | Sara Angelli Narváez Campos        |
 | Carla Regina Díaz Oropeza             | José Carlos Rodríguez Camacho         | Sebastian Arteaga Cuevas           |
-| Cesar Emiliano Puc Canche             | Karla Valeria Cime Mendoza            | Solis Jiménez Jared Samuel         |
+| Cesar Emiliano Puc Canché             | Karla Valeria Cime Mendoza            | Solis Jiménez Jared Samuel         |
 | Christian Elizabeth Castillo Prado    | Lourdes Toledo Velázquez              | Teobaldo Joel de la Rosa Lopez     |
 | Cristhy Guadalupe Villalobos Granados | Mateo Humberto Cruz Escobedo          | Victor Gerardo Vázquez Basto       |
 | Cristian Eugenio González Ramos       | Matteo Aguilar Baquedano              | Yamileth del Rosario Vera Chi      |
