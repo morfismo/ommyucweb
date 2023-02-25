@@ -73,7 +73,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Angelica Yamileth Sanchez Ramirez | Gladys Elizabeth Navarro Aguilar    | María Victoria Hernández Chay      |
 | Bianca Noemí González Coronado    | Guillermo Alexander Baeza Domínguez | Nicolás de Jesús González Farfán   |
 | Carlos Humberto Quintal González  | Hisae Sayumi Chan Esquivel          | Óscar Gama Molina                  |
-| Daniela de Angeles Cruz Canul     | Ileana Anahí Bacelis Tun            | Pedro Alejandro Colorado Gutiérrez |
+| Daniela de los Ángeles Cruz Canul     | Ileana Anahí Bacelis Tun            | Pedro Alejandro Colorado Gutiérrez |
 | Diego Iván Vega Tinal             | Ingrid Aylin Herrera Tzab           | Regina Aracely Puc Chacón          |
 | Diego Uriel Canul Durán           | Isidro Joaquín Escamilla Vega       | Santiago Abisai Noh Dzul           |
 | Elliott Aquiles Torrentez Couoh   | Javier Alfredo Euan Barea           | Sergio Gabriel Díaz Rodríguez      |
