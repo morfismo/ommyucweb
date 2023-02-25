@@ -42,7 +42,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Brian Josep Ek Xool                | Génesis Andrea Chuc Canché         | Mauricio Amador López                 |
 | Camila Corzo Gorra                 | Gerard Alexander Canché Manzanero  | Mauro Alberto Pérez Cárdenas          |
 | Carlos Fernando Torres Acosta      | Ian Alejandro Garcia Alvarez       | Mercedes Monserrat Manzanilla Fuentes |
-| Cristofer Jesus  Pallotta Escobar  | Irving Gael Caamal Chan            | Royer Andrés sierra galvan            |
+| Cristofer Jesus Pallotta Escobar  | Irving Gael Caamal Chan            | Royer Andrés sierra galvan            |
 | Dair Emmanuel Borges Herrera       | Jose Angel Villalobos Quintal      | Santiago Chavarria Luna               |
 | Danna Montserrath Álvarez Chablé   | Karen Renata Canché Uc             | Victoria Elizabeth Pinzón López       |
 
@@ -86,30 +86,30 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 
 | NOMBRE                              | NOMBRE                        | NOMBRE                            |
 |-------------------------------------|-------------------------------|-----------------------------------|
-| Abraham Ismael Pavón Tuyub          | Gonzalo Escalante Vidal       | Luna Marian Dorantes Chan         |
-| Adrián Leandro Poot Tec             | Heriberto Córdova Navarro     | Matías Noé Speelman Miranda       |
-| Ángel Lizarraga Manzanilla          | Irene Villalobos Pérez        | Mónica Alejandra Vecino Ojeda     |
-| Christopher Rafael Rodríguez Moguel | Jessy Valeria Gamboa Pérez    | Pat Sánchez Dafne Esperanza       |
-| Dasha Yaretzi Pool Bacab            | Jesús Emiliano Escobedo Mena  | Ricardo Arturo Zúñiga José        |
-| David Alejandro Polanco Rojas       | Joel Ancona García            | Roger Mathieu Domínguez Rodríguez |
-| David Alejandro Puc Pinzón          | José Matías Pisté Chan        | Samantha Alejandra Pech Aguilar   |
-| Francisco Javier Lara Rubio         | Joyce Montserrat Chablé Canul | Xavi Wualberto Rincón Rodríguez   |
+| Abraham Ismael Pavón Tuyub          | Gonzalo Escalante Vidal       |  Matías Noé Speelman Miranda        |
+| Adrián Leandro Poot Tec             | Heriberto Córdova Navarro     |  Mónica Alejandra Vecino Ojeda      |
+| Ángel Lizarraga Manzanilla          | Irene Villalobos Pérez        |  Pat Sánchez Dafne Esperanza    |
+| Christopher Rafael Rodríguez Moguel | Jessy Valeria Gamboa Pérez    |  Ricardo Arturo Zúñiga José      |
+| Dasha Yaretzi Pool Bacab            | Jesús Emiliano Escobedo Mena  |  Roger Mathieu Domínguez Rodríguez       |
+| David Alejandro Polanco Rojas       | Joel Ancona García            | Samantha Alejandra Pech Aguilar|
+| David Alejandro Puc Pinzón          | José Matías Pisté Chan        | Xavi Wualberto Rincón Rodríguez   |
+| Francisco Javier Lara Rubio         | Joyce Montserrat Chablé Canul |    |
 | Geyder Abdiel Castillo Kumul        | Juan Antonio Solís Sánchez    | | 
 
 ### Segundo de Secundaria
 
 | NOMBRE                           | NOMBRE                             | NOMBRE                              |
 |----------------------------------|------------------------------------|-------------------------------------|
-| Alejandro André Manzano Sánchez  | Fabricio Alexander Bestard Aguilar | Limberth Fernando Chac Ku           |
-| Antonio Enrique Zapata Caballero | Gael Armando Bolaina García        | Lindsay Alejandra Sierra Galvan     |
-| Argenis Leonel Mukul Salinas     | Gonzalo Bolio González del Valle   | Miguel Jareth Herrera Chan          |
-| Argimiro Córdova Navarro         | Holly Priscila Trujillo Patraca    | Mildred Estefany Pedraza Sánchez    |
-| Christopher Guidiun Borges       | Jehú Alfonso Martínez Mora         | Monserrat del Rosario Contreras Hau |
-| Dana Karen Medina González       | Joaquín Emanuel Tut Aké            | Paola Silvanna Escalante Lopez      |
-| David Ezequiel Chan Uc           | Jonathan Alexander Pech Cardeña    | Rafael Reyes Pérez Ulloa            |
-| David Jasair Martín Morales      | Jorge Uriel Itzincab Puch          | Samuel José Bacab Dzul              |
-| Diego Manuel Gamboa Interián     | José Miguel Salas Zoghbi           | Valeria Puerto González             |
-| Edith Rocío Chuc Poot            | Keyra Camila Liy Solís             |                                     |
+| Alejandro André Manzano Sánchez  | Fabricio Alexander Bestard Aguilar |  Luna Marian Dorantes Chan          |
+| Antonio Enrique Zapata Caballero | Gael Armando Bolaina García        | Limberth Fernando Chac Ku     |
+| Argenis Leonel Mukul Salinas     | Gonzalo Bolio González del Valle   | Lindsay Alejandra Sierra Galván          |
+| Argimiro Córdova Navarro         | Holly Priscila Trujillo Patraca    | Miguel Jareth Herrera Chan    |
+| Christopher Guidiun Borges       | Jehú Alfonso Martínez Mora         | Mildred Estefany Pedraza Sánchez |
+| Dana Karen Medina González       | Joaquín Emanuel Tut Aké            | Monserrat del Rosario Contreras Hau  |
+| David Ezequiel Chan Uc           | Jonathan Alexander Pech Cardeña    | Paola Silvanna Escalante Lopez     |
+| David Jasair Martín Morales      | Jorge Uriel Itzincab Puch          | Rafael Reyes Pérez Ulloa           |
+| Diego Manuel Gamboa Interián     | José Miguel Salas Zoghbi           |  Samuel José Bacab Dzul              |
+| Edith Rocío Chuc Poot            | Keyra Camila Liy Solís             |  Valeria Puerto González     |
 | Erick Woodhouse Santos           | Kimberly Amairany Cetina Kih       | |
 
 ### Tercero de Secundaria
