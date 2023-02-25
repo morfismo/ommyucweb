@@ -103,7 +103,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Alejandro André Manzano Sánchez  | Fabricio Alexander Bestard Aguilar | Limberth Fernando Chac Ku           |
 | Antonio Enrique Zapata Caballero | Gael Armando Bolaina García        | Lindsay Alejandra Sierra Galvan     |
 | Argenis Leonel Mukul Salinas     | Gonzalo Bolio González del Valle   | Miguel Jareth Herrera Chan          |
-| Argimiro Cordova Navarro         | Holly Priscila Trujillo Patraca    | Mildred Estefany Pedraza Sánchez    |
+| Argimiro Córdova Navarro         | Holly Priscila Trujillo Patraca    | Mildred Estefany Pedraza Sánchez    |
 | Christopher Guidiun Borges       | Jehú Alfonso Martínez Mora         | Monserrat del Rosario Contreras Hau |
 | Dana Karen Medina González       | Joaquín Emanuel Tut Aké            | Paola Silvanna Escalante Lopez      |
 | David Ezequiel Chan Uc           | Jonathan Alexander Pech Cardeña    | Rafael Reyes Pérez Ulloa            |
