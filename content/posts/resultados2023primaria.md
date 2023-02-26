@@ -82,8 +82,8 @@ Las puntuaciones para clasificar a la siguiente ronda en 4º, 5º y 6º grado de
 |-----------------------------------|-------------------------------------|------------------------------------|
 | Alexis González de Dios           | Felipe Gabriel González Salazar     | Joryet Joselin Quijano Hernández   |
 | Alexis Roman Noh Noh              | Fernando Joel Lara Esquivel         | Leonardo Aguilar Jiménez           |
-| Angel Rafael Herrera Pinzon       | Gema Yonané Alvarez Antuña          | Manuel Patricio Várguez Dzul       |
-| Angelica Yamileth Sanchez Ramirez | Gladys Elizabeth Navarro Aguilar    | María Victoria Hernández Chay      |
+| Ángel Rafael Herrera Pinzón       | Gema Yonané Alvarez Antuña          | Manuel Patricio Várguez Dzul       |
+| Angélica Yamileth Sánchez Ramírez | Gladys Elizabeth Navarro Aguilar    | María Victoria Hernández Chay      |
 | Bianca Noemí González Coronado    | Guillermo Alexander Baeza Domínguez | Nicolás de Jesús González Farfán   |
 | Carlos Humberto Quintal González  | Hisae Sayumi Chan Esquivel          | Óscar Gama Molina                  |
 | Daniela de los Ángeles Cruz Canul     | Ileana Anahí Bacelis Tun            | Pedro Alejandro Colorado Gutiérrez |
