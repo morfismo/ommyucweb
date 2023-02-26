@@ -45,7 +45,7 @@ Las puntuaciones para clasificar a la siguiente ronda en 1º y 2º grado de Bach
 | NOMBRE                         | NOMBRE                           | NOMBRE                        |
 |--------------------------------|----------------------------------|-------------------------------|
 | Abel Ramsés Sánchez Cano       | Francisco Daniel Lechuga Miranda | María Cristina Castillo López |
-| Alonso Sánchez Aldo Sebastián  | Gonzalo Rogelio Ko Chunab        | Maria Jimena Pinto Mijares    |
+| Alonso Sánchez Aldo Sebastián  | Gonzalo Rogelio Ko Chunab        | María Jimena Pinto Mijares    |
 | Ana Regina Lavadores Graniel   | Gustavo Luis Martínez Ortega     | Matilde Villanueva Barajas    |
 | Angel Martín Gamboa Pech       | Isabel Zhong Zhang               | Mauricio Horcasitas Farah     |
 | Antonio Esau Cob Uribe         | José Abelardo Pérez Solís        | Nicolás Lire Aguilar          |
@@ -54,14 +54,14 @@ Las puntuaciones para clasificar a la siguiente ronda en 1º y 2º grado de Bach
 | Cristian de Jesús Palomo Chim  | Kevin Geovanny Mendez López      | Samantha Priego Zamora        |
 | Diego Alexander Flores Jiménez | Leonardo Argáez                  | Sebastián Escalante Rubio     |
 | Edgar Andrey Caamal López      | Lizette Andrea Cabrera Canul     | Sofía Berenice Quintal López  |
-| Eliezer Adonai Collí Arias     | Luis Antonio Pacheco Sanmiguel   | Uriel Edmundo Luna Estrada    |
+| Eliezer Adonai Colli Arias     | Luis Antonio Pacheco Sanmiguel   | Uriel Edmundo Luna Estrada    |
 | Emiliano Guevara Hernández     | Luis Rogelio Moo Ricalde         | Valeria Sarahi González Cen   |
 | Estela Berenice Alonzo Cetzal  | Manuel Eduardo Solis Quintal     | |
 
 ### Segundo de Bachillerato
 | NOMBRE                          | NOMBRE                          | NOMBRE                             |
 |---------------------------------|---------------------------------|------------------------------------|
-| Abril Andrea Lavadores Graniel  | Collí López Abraham Emanuel     | Miguel Sail Celis Canul            |
+| Abril Andrea Lavadores Graniel  | Colli López Abraham Emanuel     | Miguel Sail Celis Canul            |
 | Alberto Rafael Gamboa Chel      | David Aurelio Chan Baas         | Myrka Alessandra Quetzal Alvarado  |
 | Alejandro Palacios Reyes        | Edwin Efraín Chan Euan          | Paola Ramos Téllez                 |
 | Amairani Guadalupe Euán Pérez   | Enrique Palma García            | Pradas Rubio Mauricio              |

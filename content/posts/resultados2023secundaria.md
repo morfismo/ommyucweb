@@ -77,7 +77,7 @@ Las puntuaciones para clasificar a la siguiente ronda en 1º, 2º y 3er grado de
 | NOMBRE                             | NOMBRE                         | NOMBRE                           |
 |------------------------------------|--------------------------------|----------------------------------|
 | Aldo Patricio Avila Basulto        | Jared Orlando Cordova Ruiz     | Mauricio Ayón Peraza             |
-| Andrés Gerardo Hernándex Hernández | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
+| Andrés Gerardo Hernández Hernández | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
 | Anthony Jeshua Alzina Pech         | Joseph Jael Tenorio Canul      | Oscar Guillermo Rodriguez Cab    |
 | Christian Reyes Gutiérrez          | Juan José Viera Canché         | Siloé Guadalupe Pereira Martínez |
 | Diego Jiménez Hernández            | Juan Ramón López Espinosa      | Sofia Julieta Dominguez Euan     |

@@ -77,7 +77,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Diego Iván Vega Tinal             | Ingrid Aylin Herrera Tzab           | Regina Aracely Puc Chacón          |
 | Diego Uriel Canul Durán           | Isidro Joaquín Escamilla Vega       | Santiago Abisai Noh Dzul           |
 | Elliott Aquiles Torrentez Couoh   | Javier Alfredo Euan Barea           | Sergio Gabriel Díaz Rodríguez      |
-| Emilio Arturo Peraza Balam        | Jireh Guadalupe Canul Hernandez     | Sofía Guadalupe Collí Morales      |
+| Emilio Arturo Peraza Balam        | Jireh Guadalupe Canul Hernandez     | Sofía Guadalupe Colli Morales      |
 | Erick Santiago Vázquez Bonilla    | Joaquín Giovanni Cocom Canto        | Vanessa Beatríz Poot Hernández     |
 | Fabrizzio Thadeus Gutiérrez Cruz  | Jorge Alexander Kuyoc Ceme          |  |
 
@@ -117,7 +117,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | NOMBRE                             | NOMBRE                         | NOMBRE                           |
 |------------------------------------|--------------------------------|----------------------------------|
 | Aldo Patricio Avila Basulto        | Jared Orlando Cordova Ruiz     | Mauricio Ayón Peraza             |
-| Andrés Gerardo Hernándex Hernández | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
+| Andrés Gerardo Hernández Hernández | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
 | Anthony Jeshua Alzina Pech         | Joseph Jael Tenorio Canul      | Oscar Guillermo Rodriguez Cab    |
 | Christian Reyes Gutiérrez          | Juan José Viera Canché         | Siloé Guadalupe Pereira Martínez |
 | Diego Jiménez Hernández            | Juan Ramón López Espinosa      | Sofia Julieta Dominguez Euan     |
@@ -133,7 +133,7 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | NOMBRE                         | NOMBRE                           | NOMBRE                        |
 |--------------------------------|----------------------------------|-------------------------------|
 | Abel Ramsés Sánchez Cano       | Francisco Daniel Lechuga Miranda | María Cristina Castillo López |
-| Alonso Sánchez Aldo Sebastián  | Gonzalo Rogelio Ko Chunab        | Maria Jimena Pinto Mijares    |
+| Alonso Sánchez Aldo Sebastián  | Gonzalo Rogelio Ko Chunab        | María Jimena Pinto Mijares    |
 | Ana Regina Lavadores Graniel   | Gustavo Luis Martínez Ortega     | Matilde Villanueva Barajas    |
 | Angel Martín Gamboa Pech       | Isabel Zhong Zhang               | Mauricio Horcasitas Farah     |
 | Antonio Esau Cob Uribe         | José Abelardo Pérez Solís        | Nicolás Lire Aguilar          |
@@ -142,14 +142,14 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Cristian de Jesús Palomo Chim  | Kevin Geovanny Mendez López      | Samantha Priego Zamora        |
 | Diego Alexander Flores Jiménez | Leonardo Argáez                  | Sebastián Escalante Rubio     |
 | Edgar Andrey Caamal López      | Lizette Andrea Cabrera Canul     | Sofía Berenice Quintal López  |
-| Eliezer Adonai Collí Arias     | Luis Antonio Pacheco Sanmiguel   | Uriel Edmundo Luna Estrada    |
+| Eliezer Adonai Colli Arias     | Luis Antonio Pacheco Sanmiguel   | Uriel Edmundo Luna Estrada    |
 | Emiliano Guevara Hernández     | Luis Rogelio Moo Ricalde         | Valeria Sarahi González Cen   |
 | Estela Berenice Alonzo Cetzal  | Manuel Eduardo Solis Quintal     | |
 
 ### Segundo de Bachillerato
 | NOMBRE                          | NOMBRE                          | NOMBRE                             |
 |---------------------------------|---------------------------------|------------------------------------|
-| Abril Andrea Lavadores Graniel  | Collí López Abraham Emanuel     | Miguel Sail Celis Canul            |
+| Abril Andrea Lavadores Graniel  | Colli López Abraham Emanuel     | Miguel Sail Celis Canul            |
 | Alberto Rafael Gamboa Chel      | David Aurelio Chan Baas         | Myrka Alessandra Quetzal Alvarado  |
 | Alejandro Palacios Reyes        | Edwin Efraín Chan Euan          | Paola Ramos Téllez                 |
 | Amairani Guadalupe Euán Pérez   | Enrique Palma García            | Pradas Rubio Mauricio              |
