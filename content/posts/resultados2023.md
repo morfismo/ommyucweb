@@ -96,36 +96,37 @@ Los procedimientos de solución detallados los estaremos publicando durante toda
 | Francisco Javier Lara Rubio         | Joyce Montserrat Chablé Canul |    |
 | Geyder Abdiel Castillo Kumul        | Juan Antonio Solís Sánchez    | | 
 
+
 ### Segundo de Secundaria
 
 | NOMBRE                           | NOMBRE                             | NOMBRE                              |
 |----------------------------------|------------------------------------|-------------------------------------|
-| Alejandro André Manzano Sánchez  | Fabricio Alexander Bestard Aguilar |  Luna Marian Dorantes Chan          |
-| Antonio Enrique Zapata Caballero | Gael Armando Bolaina García        | Limberth Fernando Chac Ku     |
-| Argenis Leonel Mukul Salinas     | Gonzalo Bolio González del Valle   | Lindsay Alejandra Sierra Galván          |
-| Argimiro Córdova Navarro         | Holly Priscila Trujillo Patraca    | Miguel Jareth Herrera Chan    |
-| Christopher Guidiun Borges       | Jehú Alfonso Martínez Mora         | Mildred Estefany Pedraza Sánchez |
-| Dana Karen Medina González       | Joaquín Emanuel Tut Aké            | Monserrat del Rosario Contreras Hau  |
-| David Ezequiel Chan Uc           | Jonathan Alexander Pech Cardeña    | Paola Silvanna Escalante Lopez     |
-| David Jasair Martín Morales      | Jorge Uriel Itzincab Puch          | Rafael Reyes Pérez Ulloa           |
-| Diego Manuel Gamboa Interián     | José Miguel Salas Zoghbi           |  Samuel José Bacab Dzul              |
-| Edith Rocío Chuc Poot            | Keyra Camila Liy Solís             |  Valeria Puerto González     |
-| Erick Woodhouse Santos           | Kimberly Amairany Cetina Kih       | |
+| Alejandro André Manzano Sánchez  | Fabricio Alexander Bestard Aguilar | Luna Marian Dorantes Chan           |
+| Antonio Enrique Zapata Caballero | Gonzalo Bolio González del Valle   | Limberth Fernando Chac Ku           |
+| Argenis Leonel Mukul Salinas     | Holly Priscila Trujillo Patraca    | Lindsay Alejandra Sierra Galván     |
+| Argimiro Córdova Navarro         | Jehú Alfonso Martínez Mora         | Miguel Jareth Herrera Chan          |
+| Christopher Guidiun Borges       | Joaquín Emanuel Tut Aké            | Mildred Estefany Pedraza Sánchez    |
+| Dana Karen Medina González       | Jonathan Alexander Pech Cardeña    | Monserrat del Rosario Contreras Hau |
+| David Ezequiel Chan Uc           | Jorge Uriel Itzincab Puch          | Paola Silvanna Escalante Lopez      |
+| David Jasair Martín Morales      | José Miguel Salas Zoghbi           | Rafael Reyes Pérez Ulloa            |
+| Diego Manuel Gamboa Interián     | Keyra Camila Liy Solís             | Samuel José Bacab Dzul              |
+| Edith Rocío Chuc Poot            | Kimberly Amairany Cetina Kih       | Valeria Puerto González             |
+| Erick Woodhouse Santos           |
 
 ### Tercero de Secundaria
 
 | NOMBRE                             | NOMBRE                         | NOMBRE                           |
 |------------------------------------|--------------------------------|----------------------------------|
-| Aldo Patricio Avila Basulto        | Jared Orlando Cordova Ruiz     | Mauricio Ayón Peraza             |
-| Andrés Gerardo Hernández Hernández | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
-| Anthony Jeshua Alzina Pech         | Joseph Jael Tenorio Canul      | Oscar Guillermo Rodriguez Cab    |
-| Christian Reyes Gutiérrez          | Juan José Viera Canché         | Siloé Guadalupe Pereira Martínez |
-| Diego Jiménez Hernández            | Juan Ramón López Espinosa      | Sofia Julieta Dominguez Euan     |
-| Enrique Jackson Ajuria             | Luis Alberto Jiménez Duperón   | Uriel Fernando Cachón Esparza    |
-| Fátima del Rubí Martínez Sosa      | Luis Israel Pool Cupul         | Valeria Ruz González             |
-| Fernando Igor Medina Góngora       | María José Santos Hurtado      | Ximena López Carrillo            |
-| Héctor Damián Alonzo Salas         | Mariela Ortiz Guzmán           |                                  |
-| Itzhari Carballo Ochoa             | Martínez Sosa Ricardo Emanuel  |
+| Aldo Patricio Avila Basulto        | Itzhari Carballo Ochoa         | Martínez Sosa Ricardo Emanuel    |
+| Andrés Gerardo Hernández Hernández | Jared Orlando Cordova Ruiz     | Mauricio Ayón Peraza             |
+| Anthony Jeshua Alzina Pech         | Jorge Antonio Gutiérrez Jacobo | Mely Guadalupe Noh Lopez         |
+| Christian Reyes Gutiérrez          | Joseph Jael Tenorio Canul      | Oscar Guillermo Rodriguez Cab    |
+| Diego Jiménez Hernández            | Juan José Viera Canché         | Siloé Guadalupe Pereira Martínez |
+| Enrique Jackson Ajuria             | Juan Ramón López Espinosa      | Sofia Julieta Dominguez Euan     |
+| Fátima del Rubí Martínez Sosa      | Luis Alberto Jiménez Duperón   | Uriel Fernando Cachón Esparza    |
+| Fernando Igor Medina Góngora       | Luis Israel Pool Cupul         | Valeria Ruz González             |
+| Gael Armando Bolaina García        | María José Santos Hurtado      | Ximena López Carrillo            |
+| Héctor Damián Alonzo Salas         | Mariela Ortiz Guzmán           |
 
 
 ### Primero de Bachillerato
