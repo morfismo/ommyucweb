@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>avisos on Olimpiada Mexicana de Matemáticas en Yucatán</title>
+		<link>http://ommyuc.org/categories/avisos/</link>
+		<description>Recent content in avisos on Olimpiada Mexicana de Matemáticas en Yucatán</description>
+		<generator>Hugo 0.110.0 -- gohugo.io</generator>
+		<language>es</language>
+		<managingEditor>ommyuc@gmail.com (Pedro Sanchez)</managingEditor>
+		<webMaster>ommyuc@gmail.com (Pedro Sanchez)</webMaster>
+		<copyright>drini</copyright>
+		<lastBuildDate>Mon, 20 Feb 2023 13:27:07 -0600</lastBuildDate>
+		<atom:link href="http://ommyuc.org/categories/avisos/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>junta2023</title>
+			<link>http://ommyuc.org/posts/junta2023/</link>
+			<pubDate>Mon, 20 Feb 2023 13:27:07 -0600</pubDate>
+			<author>ommyuc@gmail.com (Pedro Sanchez)</author>
+			<guid isPermaLink="true">http://ommyuc.org/posts/junta2023/</guid>
+			<description>&lt;h3 id=&#34;recordatorio-sobre-junta-informativa&#34;&gt;RECORDATORIO SOBRE JUNTA INFORMATIVA&lt;/h3&gt;
+&lt;p&gt;La junta informativa del sábado 4 de febrero es &lt;strong&gt;VIRTUAL&lt;/strong&gt; (no acudan a la Facultad de Matemáticas).&lt;/p&gt;
+&lt;p&gt;Los acceso de ingreso a las distintas juntas (y sus horarios) &lt;strong&gt;se enviaron a los correos que los alumnos registraron durante el examen&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Atte. - El Comité Organizador de la OMMYUC&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>
