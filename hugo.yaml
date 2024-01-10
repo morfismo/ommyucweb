@@ -1,0 +1,46 @@
+# Hugo configuration file
+title: OMM Yucatán
+languageCode: en-us
+baseURL: https://ommyuc.org
+#canonifyURLs: true
+# import hextra as module
+module:
+  imports:
+  - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: Información
+      pageRef: /info
+      weight: 1
+    - name: ¡Prepárate!
+      pageRef: /material
+      weight: 2
+    - name: Contacto ↗
+      url: "mailto://ommyuc@gmail.com"
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: facebook
+      weight: 5
+      url: "https://facebook.com/OMMYucatan"
+      params:
+        icon: facebook
+    - name: youtube
+      weight: 6
+      url: "https://www.youtube.com/@ommyuc"
+      params:
+        icon: youtube
+    - name: Twitter
+      weight: 6
+      url: "https://twitter.com/ommyuc"
+      params:
+        icon: twitter
+
+params: 
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+    
