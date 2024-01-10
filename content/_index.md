@@ -46,7 +46,7 @@ Los directores de las escuelas tendrán acceso a la prueba **desde la tarde del 
 {{< callout type="info" >}}
 * **¿Cuántos alumnos se deben seleccionar?**
 
-Se deben seleccionar 5 alumnos por grado, aunque se pueden registrar más (por ejemplo, en caso de empates).
+Se deben seleccionar **5 alumnos por grado**, aunque se pueden registrar más (por ejemplo, en caso de empates).
 {{< /callout >}}
 
 

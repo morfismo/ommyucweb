@@ -10,8 +10,8 @@ module:
 
 menu:
   main:
-    - name: Información
-      pageRef: /info
+    - name: CAPTURA DE RESULTADOS
+      pageRef: /captura
       weight: 1
     - name: ¡Prepárate!
       pageRef: /material
