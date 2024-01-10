@@ -7,7 +7,7 @@ toc: true
 
 {{< callout >}}
 **[Convocatoria Oficial emitida por la SEGEY](https://educacion.yucatan.gob.mx/multimedia/publicaciones/231127_ConvocatoriaOEMY.pdf)**
-{{< /cllout >}}
+{{< /callout >}}
 
 ### Para alumnos:
 
