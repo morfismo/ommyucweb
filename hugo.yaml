@@ -2,7 +2,7 @@
 title: OMM Yucatán
 languageCode: en-us
 baseURL: https://ommyuc.org
-#canonifyURLs: true
+canonifyURLs: true
 # import hextra as module
 module:
   imports:
@@ -43,4 +43,19 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
-  canonifyURLs: true
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/ommlogo.svg
+      dark: images/ommlogo-dark.svg
+      link: /
+      width: 40
+      height: 20
+defaultContentLanguage: es
+languages:
+  es:
+    languageName: Spanish
+    weight: 1
+
