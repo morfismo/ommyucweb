@@ -43,4 +43,4 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
-    
+  canonifyURLs: true
