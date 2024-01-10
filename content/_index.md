@@ -9,7 +9,7 @@ toc: true
 
 {{< callout type="info" >}}
   * **¿Cómo puedo participar?**
-Debes informar a tu escuela tu intención de presentar el examen para que el día martes 16 de enero se te pueda aplicar la prueba.
+Debes informar a tu escuela tu intención de presentar el examen para que el día **martes 16 de enero se te pueda aplicar la prueba.**
 {{< /callout >}}
 
 {{< callout type="info" >}}
