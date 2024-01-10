@@ -5,6 +5,10 @@ toc: true
 
 ## Información sobre el examen inicial 2024
 
+{{< callout >}}
+**[Convocatoria Oficial emitida por la SEGEY](https://educacion.yucatan.gob.mx/multimedia/publicaciones/231127_ConvocatoriaOEMY.pdf)**
+{{< /cllout >}}
+
 ### Para alumnos:
 
 {{< callout type="info" >}}
