@@ -32,7 +32,7 @@ No es necesario registrar o inscribir alumnos previamente a la prueba.
 * **¿Es obligatorio aplicar la prueba a todos los alumnos?**
 
 No es obligatorio aplicar la prueba a todos los alumnos (a diferencia de cómo se realizaba antes de la pandemia), sino únicamente a los que la escuela considere así como a los que voluntariamente lo soliciten.
-Es importante señalar que, **de acuerdo a la convocatoria oficial publicada por la Secretaría de Educación**, la escuela debe aplicar la prueba a todos los alumnos que lo soliciten.
+Es importante señalar que, **de acuerdo a la convocatoria oficial publicada por la Secretaría de Educación, la escuela debe aplicar la prueba a todos los alumnos que lo soliciten.**
 {{< /callout >}}
 
 
