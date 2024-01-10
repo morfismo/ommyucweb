@@ -10,12 +10,9 @@ module:
 
 menu:
   main:
-    - name: CAPTURA DE RESULTADOS
-      pageRef: /captura
-      weight: 1
     - name: ¡Prepárate!
       pageRef: /material
-      weight: 2
+      weight: 1
     - name: Contacto ↗
       url: "mailto://ommyuc@gmail.com"
       weight: 3
