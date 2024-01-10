@@ -60,7 +60,7 @@ Se deben seleccionar **5 alumnos por grado**, aunque se pueden registrar más (p
 
 Cada escuela es responsable de calificar los exámenes de sus propios alumnos.
 
-El enlce a la clave de calificación aparecerá en SIGE a partir del día miércoles 13 de enero. Las escuelas tienen **hasta el lunes 22** para registrar los nombres de los alumnos seleccionados.
+El enlce a la clave de calificación aparecerá en SIGE a partir del día miércoles 17 de enero. Las escuelas tienen **hasta el lunes 22** para registrar los nombres de los alumnos seleccionados.
 {{< /callout >}}
 
 
