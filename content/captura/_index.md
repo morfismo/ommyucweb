@@ -6,13 +6,17 @@ draft : false
 ---
 
 {{< callout >}}
-**El cierre de los registros se realizará el lunes 22 a las 13:00**
+El cierre de los registros se realizará el lunes 22 a las 13:00
 {{< /callout >}}
 
 
 {{< callout >}}
 **CORRECCIÓN**: La respuesta correcta del problema 6 de secundaria es  "A) 66"
 {{< /callout >}}
+
+{{< callout >}}
+No es necesario registrar a todos los que participaron, **ÚNICAMENTE** a los que quedan seleccionados{{< /callout >}}
+
 
 ## Registro de alumnos seleccionados
 
