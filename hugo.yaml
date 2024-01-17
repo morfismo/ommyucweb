@@ -40,7 +40,8 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
-
+  theme:
+    default: light
   navbar:
     displayTitle: true
     displayLogo: true
