@@ -6,7 +6,7 @@ draft : false
 ---
 
 {{< callout >}}
-**CORRECCIÓN**: La respuesta correcta del problema 6 de secundaria es  "A) 66"
+**La respuesta correcta del problema 6 de secundaria es  "A) 66"**
 {{< /callout >}}
 
 {{< callout >}}
