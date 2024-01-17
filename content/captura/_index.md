@@ -5,7 +5,9 @@ math : true
 draft : false
 ---
 
-
+{{< callout >}}
+**El cierre de los registros se realizará el lunes 22 a las 13:00**
+{{< /callout >}}
 
 ## Registro de alumnos seleccionados
 
