@@ -10,7 +10,7 @@ draft : false
 {{< /callout >}}
 
 {{< callout >}}
-No es necesario registrar a todos los que participaron, **ÚNICAMENTE a los que quedan seleccionados**{{< /callout >}}
+No es necesario registrar a todos los que presentaron, **ÚNICAMENTE a los que quedan seleccionados**{{< /callout >}}
 
 
 ## Registro de alumnos seleccionados
