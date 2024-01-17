@@ -15,7 +15,7 @@ El cierre de los registros se realizará el lunes 22 a las 13:00
 {{< /callout >}}
 
 {{< callout >}}
-No es necesario registrar a todos los que participaron, **ÚNICAMENTE** a los que quedan seleccionados{{< /callout >}}
+No es necesario registrar a todos los que participaron, **ÚNICAMENTE a los que quedan seleccionados**{{< /callout >}}
 
 
 ## Registro de alumnos seleccionados
