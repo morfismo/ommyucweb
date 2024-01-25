@@ -12,3 +12,5 @@ draft : false
 
 En nuestro canal de YouTube puedes consultar las soluciones del Examen Escuela que se aplicó el pasado 16 de enero. 
 
+
+{{< youtube 4-vXUEPqp_E >}}
