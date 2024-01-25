@@ -8,7 +8,7 @@ draft : false
 {{< callout type="info">}}
 **Por el momento el sistema de captura no está abierto**
 {{< /callout >}}
+## Soluciones
 
-## Puedes consultar las soluciones del examen previo (16 de enero) para Primaria y Secundaria en nuestro canal de Youtube.
+En nuestro canal de YouTube puedes consultar las soluciones del Examen Escuela que se aplicó el pasado 16 de enero. 
 
-{{< youtube 4-vXUEPqp_E >}}
