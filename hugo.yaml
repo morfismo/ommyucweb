@@ -10,8 +10,8 @@ module:
 
 menu:
   main:
-    - name: ¡Prepárate!
-      pageRef: /material
+    - name: Libros 
+      pageRef: /material/libros
       weight: 1
     - name: Exámenes anteriores
       pageRef: /material/examenesprevios/
