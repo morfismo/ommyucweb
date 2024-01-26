@@ -6,6 +6,13 @@ math : true
 draft : false
 ---
 
+## 2024
+El examen inicial de 2024 se aplicó a primarias y secundarias en las diferentes escuelas.
+{{ < cards >}}
+{{< card link="2024-01-OMMYUC-PRIMARIA-ESCUELA.pdf" title="2024 Etapa Escuela: Primaria" image="2024-01p.png" > }}
+{{< card link="2024-01-OMMYUC-SECUNDARIA-ESCUELA.pdf" title="2024 Etapa Escuela: Secundaria" image="2024-01s.png" > }}
+{{ < /cards >}}
+
 ## 2023
 En 2023, el proceso estatal consistió de 2 exámenes por cada nivel educativo. Un examen inicial (ronda 1) y un segundo examen de filtro (ronda 2).
 
