@@ -9,20 +9,9 @@ Las pruebas de la Olimpiada de Matemáticas no son exámenes tradicionales que t
 
 A pesar de ello, es posible prepararse para la Olimpiada de Matemáticas de diferentes formas. Por lo general, recomendamos que un profesor o instructor te acompañe en este proceso.
 
-## Niveles y etapas.
 
-En la Olimpiada, participan estudiantes de varios niveles educativos: educación primaria, secundaria y bachillerato. Sin embargo, como no es un examen "de temas", es común que un mismo problema pueda plantearse en diferentes niveles educativos. 
-
-
-En particular, todos los exámenes que aplicamos a nivel estatal son exámenes que **pueden resolverse con lo que los estudiantes aprenden en sus escuelas**, aunque posiblemente requieren una mayor creatividad en la forma en que pueden aplicarse.
-
-
-## Exámenes previos
-
-Disponemos de una [selección de exámenes aplicados en años recientes](examenesprevios).
-
-## Publicaciones
-
+* **Disponemos de una [selección de exámenes aplicados en años recientes](examenesprevios).**
+* **También hemos publicado dos libros que pueden ser de utilidad**
 
 {{< cards >}}
   {{< card link="https://libreria.uady.mx/products/veinte-temas-selectos-de-matematicas-en-educacion-basica-volumen-i" title="Veinte temas selectos de matemáticas en educación básica. " image="libros/libro20.png" subtitle="Volumen I" >}}

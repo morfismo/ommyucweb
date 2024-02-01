@@ -1,6 +1,8 @@
 ---
 title: Olimpiada Mexicana de Matemáticas en Yucatán
 toc: true
+cascade:
+  type: docs
 ---
 
 ## Soluciones
