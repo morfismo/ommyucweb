@@ -5,12 +5,13 @@ math : true
 draft : false
 ---
 
-{{< callout type="info">}}
-**Por el momento el sistema de captura no está abierto**
-{{< /callout >}}
-## Soluciones
+## Captura de alumnos seleccionados en la etapa Zona
 
-En nuestro canal de YouTube puedes consultar las soluciones del Examen Escuela que se aplicó el pasado 16 de enero. 
+El formato de EXCEL para registrar a los alumnos se puede descargar desde SIGE.
 
+{{< cards >}}
+  {{< card link="https://www.dropbox.com/request/jACfA82W5UMP1XT2ZYg2" icon="document-text" title="Registro para  primaria" >}}
+    {{< card link="https://www.dropbox.com/request/u8CiVCwijwEfuWZR1V97" icon="document-text" title="Registro para secundaria" >}}
+{{< /cards >}}
 
-{{< youtube 4-vXUEPqp_E >}}
+Se solicita enviar también copia al correo electrónico indicado en el formato.

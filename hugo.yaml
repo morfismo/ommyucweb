@@ -54,6 +54,10 @@ params:
       link: /
       width: 40
       height: 20
+    markup:
+      goldmark:
+        renderer:
+          unsafe: true
 defaultContentLanguage: es
 languages:
   es:
