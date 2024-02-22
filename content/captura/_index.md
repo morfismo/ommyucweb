@@ -5,13 +5,19 @@ math : true
 draft : false
 ---
 
-## Captura de alumnos seleccionados en la etapa Zona
+{{< callout type="info">}}
+**El cierre de registro se realiza el 20 de febrero**
+{{< /callout >}}
 
-El formato de EXCEL para registrar a los alumnos se puede descargar desde SIGE.
+## Captura de Etapa Zona 2024
+
+**El formato de EXCEL para registrar a los alumnos se puede descargar desde SIGE.**
 
 {{< cards >}}
   {{< card link="https://www.dropbox.com/request/jACfA82W5UMP1XT2ZYg2" icon="document-text" title="Registro para  primaria" >}}
     {{< card link="https://www.dropbox.com/request/u8CiVCwijwEfuWZR1V97" icon="document-text" title="Registro para secundaria" >}}
 {{< /cards >}}
 
-Se solicita enviar también copia al correo electrónico indicado en el formato.
+Se solicita enviar también **copia al correo electrónico indicado en el mismo formato.**
+
+La clave para calificación de la prueba se encuentra disponible también en SIGE.
