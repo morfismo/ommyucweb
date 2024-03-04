@@ -59,3 +59,10 @@ En esta competencia la categoría es única e incluye también a concursantes de
 {{< /callout >}}
 
 La delegación de la Olimpiada Femenil se obtendrá del mismo grupo de entrenamiento, las alumnas con las puntuaciones más altas presentarán posteriormente un examen selectivo específico para ese concurso nacional.
+
+## Convocatoria 
+Puedes descargar la convocatoria en el siguiente enlace:
+
+{{< cards >}}
+{{< card link="/docs/convocatoria-ommyuc2024.pdf" title="Concurso Estatal OMMYUC 2024 " image="convocatoria2024.png" >}}
+{{< /cards >}}
