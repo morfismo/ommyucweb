@@ -64,3 +64,16 @@ En esta competencia la categoría es única e incluye también a concursantes de
 {{< callout >}}
 ¿Qué material puedo usar para preparación?
 {{< /callout >}}
+
+Tenemos un problemario donde puedes practicar con problemas en el estilo del examen. También tenemos exámenes de años anteriores similares a la primera etapa.
+
+{{< cards >}}
+{{< card link="/docs/Problemario-OMM-Yucatan.pdf" title="Problemario de la OMMYUC 2024 " image="problemario.png" >}}
+{{< /cards >}}
+
+{{< cards >}}
+ {{< card link="/examen/2023-03-OMMYUC-BACHILLERATO-RONDA1.pdf" title="2023 Ronda 1: Bachillerato " image="2023-03.png" >}}
+  {{< card link="/examen/2023-06-OMMYUC-BACHILLERATO-RONDA2.pdf" title="2023 Ronda 2: Bachillerato " image="2023-06.png" >}}
+    {{< card link="/examen/2022-03-OMMYUC-BACHILLERATO.pdf" title="2022 Bachillerato " image="2022-03.png" >}}
+      {{< card link="/examen/2021-04-OMMYUC-BACHILLERATO.pdf" title="2021 Bachillerato" image="2021-04.png" >}}
+    {{< /cards >}}
