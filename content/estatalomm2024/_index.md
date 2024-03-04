@@ -9,6 +9,13 @@ Este año se realizará el 38º Concurso Estatal de la Olimpiada de Matemáticas
 
 Esta prueba tiene como objetivo integrar el grupo de entrenamiento del cual se formará la delegación yucateca que representará al estado en el 38º Concurso Nacional de la Olimpiada de Matemáticas, en noviembre de 2024. 
 
+## Convocatoria 
+Puedes descargar la convocatoria en el siguiente enlace:
+
+{{< cards >}}
+{{< card link="/docs/convocatoria-ommyuc2024.pdf" title="Concurso Estatal OMMYUC 2024 " image="convocatoria2024.png" >}}
+{{< /cards >}}
+
 ## Mecanismo de participación
 
 El examen constará de 2 rondas:
@@ -60,9 +67,3 @@ En esta competencia la categoría es única e incluye también a concursantes de
 
 La delegación de la Olimpiada Femenil se obtendrá del mismo grupo de entrenamiento, las alumnas con las puntuaciones más altas presentarán posteriormente un examen selectivo específico para ese concurso nacional.
 
-## Convocatoria 
-Puedes descargar la convocatoria en el siguiente enlace:
-
-{{< cards >}}
-{{< card link="/docs/convocatoria-ommyuc2024.pdf" title="Concurso Estatal OMMYUC 2024 " image="convocatoria2024.png" >}}
-{{< /cards >}}
