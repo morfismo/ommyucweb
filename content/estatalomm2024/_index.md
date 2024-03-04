@@ -9,32 +9,43 @@ Este año se realizará el 38º Concurso Estatal de la Olimpiada de Matemáticas
 
 Esta prueba tiene como objetivo integrar el grupo de entrenamiento del cual se formará la delegación yucateca que representará al estado en el 38º Concurso Nacional de la Olimpiada de Matemáticas, en noviembre de 2024. 
 
-El examen se realizará en 2 rondas, una abierta a distancia el día **6 de abril**, de la cual se seleccionarán las mejores calificaciones y se invitarán a una etapa presencial en la Facultad el 4 de mayo.
-
 ## Mecanismo de participación
 
-Para poder participar en este evento **es indispensable completar un registro previo**. 
+El examen constará de 2 rondas:
+
+### Primera etapa: abierta a distancia
+
+El día 6 de abril, a las 10:00 se publicará el acceso en esta misma página a la primera etapa del Examen Estatal.
+Esta consistirá en 12 preguntas que deben contestarse como máximo 2:30 horas (este tiempo incluye el que se requiera para enviar las respuestas, por lo que los participantes deben tomar en consideración que el registro de respuestas cierra a las 12:30).
+
+Los participantes que obtengan las mejores calificaciones, serán invitados a presentar la segunda etapa del examen, y el listado de alumnos invitados será publicado en esta misma página.
+
+### Segunda etapa: presencial
+
+Los participantes que sean invitados a la segunda ronda presentarán el 4 de mayo un examen presencial de 4:30 horas, iniciando a las 9:00 y que consta de 4 problemas de respuesta abierta (además de la respuesta, los participantes deben explicar su razonamiento en el examen).
+
 
 {{< callout type="warnign">}}
-**La fecha límite de registro es el 1 de abril**
+Para poder participar en esta etapa **es indispensable presentar una constancia escolar** que indique el nombre, centro escolar y grado del participante. 
 {{< /callout >}}
 
-Para registrarse, **es necesario contar con una constancia escolar** que indique la siguiente información:
-* Nombre del participante
-* Nombre del centro escolar
-* Grado escolar que cursa actualmente
-y subirla en la plataforma cuando se efectúe el registro.
+Los alumnos que no presenten una cosntancia escolar el día de la prueba presencial  **no serán considerados elegibles**.
 
-Si ya cuentas con tu constancia escolar (como imagen o como pdf), puedes acceder al registro en el siguiente enlace:
-{{< cards >}}
-  {{< card link="." icon="document-text" title="Registro (cerrado)" >}}
-{{< /cards >}}
 
-Los alumnos que no realicen el registro en tiempo **no serán considerados para la segunda etapa**.
+## Preguntas adicionales.
 
-## Contenidos
-Esta prueba puede incluir cualquier contenido de las áreas de geometría, álgebra, combinatoria y otros temas de matemáticas que se cubran hasta 2º año de bachillerato, aunque su aplicación puede requerir una fuerte dosis de creatividad e ingenio.
+{{< callout >}}
+¿Qué relación tiene este examen con los que han presentado los  alumnos de primaria y secundaria en las escuelas?
+{{< /callout >}}
 
-## Primaria y secundaria.
+Yucatán participa en varias olimpiadas nacionales de matemáticas. Los exámenes que se han aplicado en las escuelas/zonas escolares, etc. en primaria y secundaria, son el proceso  para determinar la participación en la **Olimpiada Mexicana de Matemáticas para Educación Básica**, que es exclusiva para primaria y secundaria.
 
-Este **no es el concurso estatal que se organiza específcamente para primaria y secundaria**, cuyas pruebas se han aplicado en dichas escuelas a lo largo del año, y cuyo objetivo tiene formar la delegación para la *Olimpiada Mexicana de Matemáticas para la Educación Básica*. Los alumnos de secundaria pueden inscribirse a este evento si lo desean, aunque competirían en la misma categoría que los alumnos de bachillerato.
+Este proceso es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido a un nivel educativo, y es en el que participan los alumnos de bachillerato.
+
+
+{{< callout >}}
+Estoy estudiando secundaria. ¿puedo presentar este exámen?
+{{< /callout >}}
+
+En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinta y no está segmentada por categorías dependiendo del nivel educativo. En esta competencia la categoría es única e incluye a concursantes de preparatoria.
+
