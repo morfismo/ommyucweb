@@ -62,8 +62,5 @@ En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia 
 En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
 
 {{< callout >}}
-¿Cómo podría llegar a participar en el concurso nacional de la Olimpiada Femenil?
+¿Qué material puedo usar para preparación?
 {{< /callout >}}
-
-La delegación de la Olimpiada Femenil se obtendrá del mismo grupo de entrenamiento, las alumnas con las puntuaciones más altas presentarán posteriormente un examen selectivo específico para ese concurso nacional.
-
