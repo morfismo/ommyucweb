@@ -29,8 +29,11 @@ Los participantes que sean invitados a la segunda ronda presentarán el 4 de may
 Para poder participar en esta etapa **es indispensable presentar una constancia escolar** que indique el nombre, centro escolar y grado del participante. 
 {{< /callout >}}
 
-Los alumnos que no presenten una cosntancia escolar el día de la prueba presencial  **no serán considerados elegibles**.
+Los alumnos que no presenten una constancia escolar el día de la prueba presencial  **no serán considerados elegibles**.
 
+## Publicación de resultados.
+
+Los alumnos seleccionados en ambas etapas se darán a conocer en esta misma página.
 
 ## Preguntas adicionales.
 
@@ -40,12 +43,19 @@ Los alumnos que no presenten una cosntancia escolar el día de la prueba presenc
 
 Yucatán participa en varias olimpiadas nacionales de matemáticas. Los exámenes que se han aplicado en las escuelas/zonas escolares, etc. en primaria y secundaria, son el proceso  para determinar la participación en la **Olimpiada Mexicana de Matemáticas para Educación Básica**, que es exclusiva para primaria y secundaria.
 
-Este proceso es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido a un nivel educativo, y es en el que participan los alumnos de bachillerato.
+Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido por nivel educativo, y es en el que pueden participar los alumnos de bachillerato.
 
 
 {{< callout >}}
 Estoy estudiando secundaria. ¿puedo presentar este exámen?
 {{< /callout >}}
 
-En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinta y no está segmentada por categorías dependiendo del nivel educativo. En esta competencia la categoría es única e incluye a concursantes de preparatoria.
+En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
 
+En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
+
+{{< callout >}}
+¿Cómo podría llegar a participar en el concurso nacional de la Olimpiada Femenil?
+{{< /callout >}}
+
+La delegación de la Olimpiada Femenil se obtendrá del mismo grupo de entrenamiento, las alumnas con las puntuaciones más altas presentarán posteriormente un examen selectivo específico para ese concurso nacional.
