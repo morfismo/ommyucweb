@@ -40,7 +40,7 @@ Los alumnos que no presenten una constancia escolar el día de la prueba presenc
 
 ## Publicación de resultados.
 
-Los alumnos seleccionados en ambas etapas se darán a conocer en esta misma página.
+Los alumnos seleccionados en ambas etapas se darán a conocer en  esta misma página, en la página de la Facultad de Matemáticas de la UADY y en las [http://facebook.com/OMMYucatan](redes sociales de la Olimpiada en Yucatán).
 
 ## Preguntas adicionales.
 {{< callout type="info" >}}
