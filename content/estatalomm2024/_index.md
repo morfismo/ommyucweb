@@ -43,25 +43,7 @@ Los alumnos que no presenten una constancia escolar el día de la prueba presenc
 Los alumnos seleccionados en ambas etapas se darán a conocer en esta misma página.
 
 ## Preguntas adicionales.
-
-{{< callout >}}
-¿Qué relación tiene este examen con los que han presentado los  alumnos de primaria y secundaria en las escuelas?
-{{< /callout >}}
-
-Yucatán participa en varias olimpiadas nacionales de matemáticas. Los exámenes que se han aplicado en las escuelas/zonas escolares, etc. en primaria y secundaria, son el proceso  para determinar la participación en la **Olimpiada Mexicana de Matemáticas para Educación Básica**, que es exclusiva para primaria y secundaria.
-
-Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido por nivel educativo, y es en el que pueden participar los alumnos de bachillerato.
-
-
-{{< callout >}}
-Estoy estudiando secundaria. ¿puedo presentar este exámen?
-{{< /callout >}}
-
-En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
-
-En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
-
-{{< callout >}}
+{{< callout type="info" >}}
 ¿Qué material puedo usar para preparación?
 {{< /callout >}}
 
@@ -77,3 +59,35 @@ Tenemos un problemario donde puedes practicar con problemas en el estilo del exa
     {{< card link="/examen/2022-03-OMMYUC-BACHILLERATO.pdf" title="2022 Bachillerato " image="2022-03.png" >}}
       {{< card link="/examen/2021-04-OMMYUC-BACHILLERATO.pdf" title="2021 Bachillerato" image="2021-04.png" >}}
     {{< /cards >}}
+
+
+{{< callout type="info" >}}
+¿Dónde puedo registrarme?
+{{< /callout >}}
+
+No es necesario una inscripción previa al primer examen. Los alumnos que sean invitados a la ronda presencial deberán traer una constancia escolar el día de la prueba
+
+
+{{< callout type="info" >}}
+¿Cuál es el límite de alumnos que puede participar por escuela?
+{{< /callout >}}
+
+No hay límite a la cantidad de alumnos que pueden presentar.
+
+{{< callout type="info" >}}
+¿Qué relación tiene este examen con los que han presentado los  alumnos de primaria y secundaria en las escuelas?
+{{< /callout >}}
+
+Yucatán participa en varias olimpiadas nacionales de matemáticas. Los exámenes que se han aplicado en las escuelas/zonas escolares, etc. en primaria y secundaria, son el proceso  para determinar la participación en la **Olimpiada Mexicana de Matemáticas para Educación Básica**, que es exclusiva para primaria y secundaria.
+
+Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido por nivel educativo, y es en el que pueden participar los alumnos de bachillerato.
+
+
+{{< callout type="info" >}}
+Estoy estudiando secundaria. ¿puedo presentar este exámen?
+{{< /callout >}}
+
+En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
+
+En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
+
