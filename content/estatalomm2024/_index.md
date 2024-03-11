@@ -84,10 +84,15 @@ Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de 
 
 
 {{< callout type="info" >}}
-Estoy estudiando secundaria. ¿puedo presentar este exámen?
+Estoy estudiando secundaria, ¿puedo presentar este exámen?
 {{< /callout >}}
 
 En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
 
 En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
 
+{{< callout type="info" >}}
+Estoy en 3º  de bachillerato, ¿puedo presentar este exámen?
+{{< /callout >}}
+
+No, el máximo permitido es 2º de bachillerato. Los alumnos de 3º pueden participar en el  [Concurso Anual de Matemáticas del Sureste](https://intranet.matematicas.uady.mx/cams/).
