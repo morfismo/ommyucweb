@@ -38,11 +38,11 @@ Para poder participar en esta etapa **es indispensable presentar una constancia 
 
 Los alumnos que no presenten una constancia escolar el día de la prueba presencial  **no serán considerados elegibles**.
 
-## Publicación de resultados.
+### Publicación de resultados.
 
-Los alumnos seleccionados en ambas etapas se darán a conocer en  esta misma página, en la página de la Facultad de Matemáticas de la UADY y en las [http://facebook.com/OMMYucatan](redes sociales de la Olimpiada en Yucatán).
+Los alumnos seleccionados en ambas etapas se darán a conocer en  esta misma página, en la página de la Facultad de Matemáticas de la UADY y en las [redes sociales de la Olimpiada en Yucatán](http://facebook.com/OMMYucatan).
 
-## Preguntas adicionales.
+## Material de preparación.
 {{< callout type="info" >}}
 ¿Qué material puedo usar para preparación?
 {{< /callout >}}
@@ -60,6 +60,7 @@ Tenemos un problemario donde puedes practicar con problemas en el estilo del exa
       {{< card link="/examen/2021-04-OMMYUC-BACHILLERATO.pdf" title="2021 Bachillerato" image="2021-04.png" >}}
     {{< /cards >}}
 
+## Preguntas adicionales
 
 {{< callout type="info" >}}
 ¿Dónde puedo registrarme?
