@@ -20,7 +20,7 @@ Si  deseas apoyar, puedes pedir información al correo [ommyuc@gmail.com](ommyuc
 ![](https://www.ommenlinea.org/wp-content/uploads/2024/03/Rifa-600x800.png)
 {{< /details >}}
 
-{{< details title="6 de abril -  Examen estatal OMMEB (primaria y secundaria)" closed="true" >}}
+{{< details title="6 de abril -  Examen inicial OMM (bachillerato o secundaria)" closed="true" >}}
 
 Examen inicial para los alumnos que deseen participar en la 38ª OMM (categoría única, **incluye bachillerato**).
 
