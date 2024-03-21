@@ -20,7 +20,7 @@ Si  deseas apoyar, puedes pedir información al correo [ommyuc@gmail.com](ommyuc
 ![](https://www.ommenlinea.org/wp-content/uploads/2024/03/Rifa-600x800.png)
 {{< /details >}}
 
-{{< details title="6 de abril -  Examen inicial OMM (bachillerato o secundaria)" closed="true" >}}
+{{< details title="6 de abril -  Examen inicial de la 38ª OMM (bachillerato o secundaria)" closed="true" >}}
 
 Examen inicial para los alumnos que deseen participar en la 38ª OMM (categoría única, **incluye bachillerato**).
 
@@ -39,7 +39,7 @@ La fase previa fue regional y se realizó el día 12 de marzo,
 En este momento estamos completando el proceso de calificación del examen regional y **en breve publicaremos en esta página los resultados.**
 {{< /details >}}
 
-{{< details title="4 de mayo - Segunda Etapa de la 38ª OMM (bachillerato)" closed="true" >}}
+{{< details title="4 de mayo - Segunda Etapa de la 38ª OMM" closed="true" >}}
 
 Los alumnos que obtengan la mejor calificación en la etapa abierta, el día 6 de abril, serán invitados a una prueba presencial en la Facultad de Matemáticas el 4 de mayo.
 
