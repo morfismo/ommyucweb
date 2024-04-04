@@ -43,7 +43,7 @@ Este examen es abierto y en línea.  Los alumnos seleccionados en esta prueba se
 {{< /details >}}
 
 
-{{< details title="20 de abril -  Examen estatal OMMEB (primaria y secundaria)" closed="true" >}}
+{{< details title="20 de abril -  Examen estatal 8ª OMMEB (primaria y secundaria)" closed="true" >}}
 
 La etapa final del proceso estatal que se ha llevado a cabo en los meses previos, para alumnos de primaria y secundaria. Tendrá lugar el día 20 de abril de 2024 en la Facultad de Matemáticas. 
 
