@@ -27,6 +27,11 @@ Esta consistirá en 12 preguntas que deben contestarse como máximo 2:30 horas (
 
 Los participantes que obtengan las mejores calificaciones, serán invitados a presentar la segunda etapa del examen, y el listado de alumnos invitados será publicado en esta misma página.
 
+{{< callout type="warnign">}}
+En esta primera  etapa **no necesita regstrarse ni tener constancia escolar**. 
+{{< /callout >}}
+
+
 ### Segunda etapa: presencial
 
 Los participantes que sean invitados a la segunda ronda presentarán el 4 de mayo un examen presencial de 4:30 horas, iniciando a las 9:00 y que consta de 4 problemas de respuesta abierta (además de la respuesta, los participantes deben explicar su razonamiento en el examen).
