@@ -14,7 +14,7 @@ Este es un proceso de selección distinto del que presentaron los niños de prim
 
 ## Instrucciones
 
-A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. 
+A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas y consta de 15 preguntas, cuyas respuestas debes registrar cuando termines el examen en el segundo botón.
 
 {{< callout type="info" >}}
 El examen lo puedes imprimir si lo deseas.
@@ -61,6 +61,8 @@ Los participantes que sean invitados a la segunda ronda presentarán el 4 de may
 
 
 {{< callout type="warnign">}}
+Solo  los alumnos que sean invitdos de la fase abierta podrán presentar la fase presencial.
+
 Para poder participar en esta etapa **es indispensable presentar una constancia escolar** que indique el nombre, centro escolar y grado del participante. 
 {{< /callout >}}
 
