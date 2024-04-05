@@ -90,7 +90,7 @@ No hay límite a la cantidad de alumnos que pueden presentar.
 
 Yucatán participa en varias olimpiadas nacionales de matemáticas. Los exámenes que se han aplicado en las escuelas/zonas escolares, etc. en primaria y secundaria, son el proceso  para determinar la participación en la **Olimpiada Mexicana de Matemáticas para Educación Básica**, que es exclusiva para primaria y secundaria.
 
-Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido por nivel educativo, y es en el que pueden participar los alumnos de bachillerato.
+Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de la Olimpiada de Matemáticas** y no está restringido por nivel educativo, y es el único en que pueden participar los alumnos de bachillerato (junto con otros niveles educativos).
 
 
 {{< callout type="info" >}}
