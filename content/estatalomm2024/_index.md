@@ -14,7 +14,7 @@ Este es un proceso de selección distinto del que presentaron los niños de prim
 
 ## Instrucciones
 
-A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas y consta de 15 preguntas, cuyas respuestas debes registrar cuando termines el examen en el segundo botón.
+A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas. Debes registrar tus respuestas cuando termines el examen en el segundo botón.
 
 {{< callout type="info" >}}
 El examen lo puedes imprimir si lo deseas.
@@ -97,7 +97,7 @@ Esta prueba es para iniciar el proceso de selección del **Concurso Nacional de 
 Estoy estudiando secundaria, ¿puedo presentar este exámen?
 {{< /callout >}}
 
-En principio, sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
+Sí. Sin embargo ten en cuenta que el formato de esta competencia es distinto al de la OMMEB (que es exclusiva para primaria y secundaria) y aquí no se separa por categorías dependiendo del nivel educativo. 
 
 En esta competencia la categoría es única e incluye también a concursantes de preparatoria.
 
