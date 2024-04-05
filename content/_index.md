@@ -7,7 +7,7 @@ cascade:
 
 ## Examen Estatal 2024 en línea (6 de abril de  2024)
 
-El examen estatal que se aplicará en línea el 6 de abril a las 10:00 es un proceso distinto del que presentaron los niños de primaria y secundaria en sus escuelas y zonas escolares. *Ese proceso se divide por grado escolar con el objetivo de obtener la delegación que participa en la 8ª Olimpiada Mexicana de Matemáticas para Educación Básica.*  
+El examen estatal que se aplicará en línea el 6 de abril a las 10:00 **es un proceso distinto del que presentaron los niños de primaria y secundaria** en sus escuelas y zonas escolares. *Ese proceso se divide por grado escolar con el objetivo de obtener la delegación que participa en la 8ª Olimpiada Mexicana de Matemáticas para Educación Básica.*  
 
 **Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas, no está separado por grados y pueden participar alumnos de hasta 2º de Bachillerato**.
 
