@@ -5,9 +5,32 @@ math : true
 draft : false
 ---
 
-Este año se realizará el 38º Concurso Estatal de la Olimpiada de Matemáticas, dirigido a los alumnos de instituciones preuniversitarias que estén inscritos **como máximo en 1º o 2º de bachillerato** y que hayan nacido después del 1º de agosto de 2005.
 
-Esta prueba tiene como objetivo integrar el grupo de entrenamiento del cual se formará la delegación yucateca que representará al estado en el 38º Concurso Nacional de la Olimpiada de Matemáticas, en noviembre de 2024. 
+**Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas (concurso nacional de noviembre), no está separado por grados (es categoría única) y pueden participar alumnos como máximo hasta 2º de Bachillerato**.
+
+{{< callout type="info" >}}
+Este es un proceso de selección distinto del que presentaron los niños de primaria y secundaria en sus escuelas y zonas escolares, porque no está dividido en niveles y es para un concurso nacional diferente.
+{{< /callout >}}
+
+## Instrucciones
+
+A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. 
+
+{{< callout type="info" >}}
+El examen lo puedes imprimir si lo deseas.
+{{< /callout >}}
+
+{{< callout type="info" >}}
+Tienes hasta las 12:00 para intentarlo, puedes usar papel y lápiz, o un cuaderno, pero *no uses calculadora o dispositivo electrónico para ayudarte en los cálculos* 
+{{< /callout >}}
+
+{{< callout type="info" >}}
+Cuando termines, entra al segundo botón para registrar tus respuestas. Tienes como máximo hasta las 12:20 para registrarlas y en ese momento se cierra la captura. **No podrás registrar respuestas después de las 12:20**.
+{{< /callout >}}
+
+* El tiempo adicional es *solo para registrar respuestas*, si empiezas a registrar tus respuestas cuando se acerquen las 12:20, es posible que acabe el tiempo y no alcances a enviar tu examen. 
+
+
 
 ## Convocatoria 
 Puedes descargar la convocatoria en el siguiente enlace:
@@ -43,27 +66,6 @@ Para poder participar en esta etapa **es indispensable presentar una constancia 
 
 Los alumnos que no presenten una constancia escolar el día de la prueba presencial  **no serán considerados elegibles**.
 
-### Publicación de resultados.
-
-Los alumnos seleccionados en ambas etapas se darán a conocer en  esta misma página, en la página de la Facultad de Matemáticas de la UADY y en las [redes sociales de la Olimpiada en Yucatán](http://facebook.com/OMMYucatan).
-
-## Material de preparación.
-{{< callout type="info" >}}
-¿Qué material puedo usar para preparación?
-{{< /callout >}}
-
-Tenemos un problemario donde puedes practicar con problemas en el estilo del examen. También tenemos exámenes de años anteriores similares a la primera etapa.
-
-{{< cards >}}
-{{< card link="/docs/Problemario-OMM-Yucatan.pdf" title="Problemario de la OMMYUC 2024 " image="problemario.png" >}}
-{{< /cards >}}
-
-{{< cards >}}
- {{< card link="/examen/2023-03-OMMYUC-BACHILLERATO-RONDA1.pdf" title="2023 Ronda 1: Bachillerato " image="2023-03.png" >}}
-  {{< card link="/examen/2023-06-OMMYUC-BACHILLERATO-RONDA2.pdf" title="2023 Ronda 2: Bachillerato " image="2023-06.png" >}}
-    {{< card link="/examen/2022-03-OMMYUC-BACHILLERATO.pdf" title="2022 Bachillerato " image="2022-03.png" >}}
-      {{< card link="/examen/2021-04-OMMYUC-BACHILLERATO.pdf" title="2021 Bachillerato" image="2021-04.png" >}}
-    {{< /cards >}}
 
 ## Preguntas adicionales
 
@@ -102,3 +104,25 @@ Estoy en 3º  de bachillerato, ¿puedo presentar este exámen?
 {{< /callout >}}
 
 No, el máximo permitido es 2º de bachillerato. Los alumnos de 3º pueden participar en el  [Concurso Anual de Matemáticas del Sureste](https://intranet.matematicas.uady.mx/cams/).
+
+### Publicación de resultados.
+
+Los alumnos seleccionados en ambas etapas se darán a conocer en  esta misma página, en la página de la Facultad de Matemáticas de la UADY y en las [redes sociales de la Olimpiada en Yucatán](http://facebook.com/OMMYucatan).
+
+## Material de preparación.
+{{< callout type="info" >}}
+¿Qué material puedo usar para preparación?
+{{< /callout >}}
+
+Tenemos un problemario donde puedes practicar con problemas en el estilo del examen. También tenemos exámenes de años anteriores similares a la primera etapa.
+
+{{< cards >}}
+{{< card link="/docs/Problemario-OMM-Yucatan.pdf" title="Problemario de la OMMYUC 2024 " image="problemario.png" >}}
+{{< /cards >}}
+
+{{< cards >}}
+ {{< card link="/examen/2023-03-OMMYUC-BACHILLERATO-RONDA1.pdf" title="2023 Ronda 1: Bachillerato " image="2023-03.png" >}}
+  {{< card link="/examen/2023-06-OMMYUC-BACHILLERATO-RONDA2.pdf" title="2023 Ronda 2: Bachillerato " image="2023-06.png" >}}
+    {{< card link="/examen/2022-03-OMMYUC-BACHILLERATO.pdf" title="2022 Bachillerato " image="2022-03.png" >}}
+      {{< card link="/examen/2021-04-OMMYUC-BACHILLERATO.pdf" title="2021 Bachillerato" image="2021-04.png" >}}
+    {{< /cards >}}
