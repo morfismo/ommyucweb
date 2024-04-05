@@ -9,7 +9,7 @@ cascade:
 
 El examen estatal que se aplicará en línea el 6 de abril a las 10:00 **es un proceso distinto del que presentaron los niños de primaria y secundaria** en sus escuelas y zonas escolares. *Ese proceso se divide por grado escolar con el objetivo de obtener la delegación que participa en la 8ª Olimpiada Mexicana de Matemáticas para Educación Básica.*  
 
-**Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas, no está separado por grados y pueden participar alumnos de hasta 2º de Bachillerato**.
+**Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas, no está separado por grados y pueden participar alumnos de hasta 2º de Bachillerato**. Es un proceso selectivo distinto e independiente, no hay impedimento para estar en ambos, porque son concursos nacionales diferentes.
 
 El examen inicial (6 de abril) se realizará en línea y tiene una duración máxima de 2 horas.
 
