@@ -16,20 +16,27 @@ Este es un proceso de selección distinto del que presentaron los niños de prim
 
 A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas. Debes registrar tus respuestas cuando termines el examen en el segundo botón.
 
+
+{{< cards >}}
+{{< card link="/" title="Descarga el examen" image="/temp/descarga.svg" >}}
+
+{{< card link="/" title="Registra tus respuestas" image="/temp/registra.svg" >}}
+{{< /cards >}}
+
 {{< callout type="info" >}}
-El examen lo puedes imprimir si lo deseas.
+Por favor, lee muy bien las instrucciones al inicio de la hoja del examen antes de intentarlo. 
 {{< /callout >}}
 
 {{< callout type="info" >}}
-Tienes hasta las 12:00 para intentarlo, puedes usar papel y lápiz, o un cuaderno, pero *no uses calculadora o dispositivo electrónico para ayudarte en los cálculos* 
-{{< /callout >}}
-
-{{< callout type="info" >}}
-Cuando termines, entra al segundo botón para registrar tus respuestas. Tienes como máximo hasta las 12:20 para registrarlas y en ese momento se cierra la captura. **No podrás registrar respuestas después de las 12:20**.
+Cuando termines, entra al segundo botón para registrar tus respuestas. Tienes como máximo hasta las 12:20 para terminar de registrar tus respuestas y en ese momento se cierra la captura. **No podrás registrar respuestas después de las 12:20**.
 {{< /callout >}}
 
 * El tiempo adicional es *solo para registrar respuestas*, si empiezas a registrar tus respuestas cuando se acerquen las 12:20, es posible que acabe el tiempo y no alcances a enviar tu examen. 
 
+
+{{< callout type="info" >}}
+El examen lo puedes imprimir si lo deseas.
+{{< /callout >}}
 
 
 ## Convocatoria 
