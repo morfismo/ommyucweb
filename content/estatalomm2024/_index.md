@@ -16,7 +16,6 @@ Este es un proceso de selección distinto del que presentaron los niños de prim
 
 A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas. Debes registrar tus respuestas cuando termines el examen en el segundo botón.
 
-
 {{< callout type="info" >}}
 Por favor, lee muy bien las instrucciones al inicio de la hoja del examen antes de intentarlo. 
 {{< /callout >}}
