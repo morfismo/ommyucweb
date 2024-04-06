@@ -22,7 +22,7 @@ Por favor, lee muy bien las instrucciones al inicio de la hoja del examen antes 
 {{< /callout >}}
 
 {{< cards >}}
-{{< card link="/" title="Descarga el examen" image="/temp/descarga.svg" >}}
+{{< card link="/examen/2024-04-Examen-Estatal-38OMMYUC.pdf" title="Descarga el examen" image="/temp/descarga.svg" >}}
 
 {{< card link="https://docs.google.com/forms/d/e/1FAIpQLSeKS0J05Keb_xeXGSQe0g-CPo4X1KWnCSUwD38_9qh--K-wcA/viewform?usp=sf_link" title="Registra tus respuestas" image="/temp/registra.svg" >}}
 {{< /cards >}}
