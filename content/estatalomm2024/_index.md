@@ -6,39 +6,6 @@ draft : false
 ---
 
 
-**Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas (concurso nacional de noviembre), no está separado por grados (es categoría única) y pueden participar alumnos como máximo hasta 2º de Bachillerato**.
-
-{{< callout type="info" >}}
-Este es un proceso de selección distinto del que presentaron los niños de primaria y secundaria en sus escuelas y zonas escolares, porque no está dividido en niveles y es para un concurso nacional diferente.
-{{< /callout >}}
-
-## Instrucciones
-
-A las 10:00 del sábado 6 se abrirá el acceso al examen en el botón que aparece abajo. El examen tiene una duración máxima de 2 horas. Debes registrar tus respuestas cuando termines el examen en el segundo botón.
-
-{{< callout type="info" >}}
-Por favor, lee muy bien las instrucciones al inicio de la hoja del examen antes de intentarlo. 
-{{< /callout >}}
-
-{{< cards >}}
-{{< card link="/examen/2024-04-Examen-Estatal-38OMMYUC.pdf" title="Descarga el examen" image="/temp/descarga.svg" >}}
-
-{{< card link="https://docs.google.com/forms/d/e/1FAIpQLSeKS0J05Keb_xeXGSQe0g-CPo4X1KWnCSUwD38_9qh--K-wcA/viewform?usp=sf_link" title="Registra tus respuestas" image="/temp/registra.svg" >}}
-{{< /cards >}}
-
-
-{{< callout type="info" >}}
-Cuando termines, entra al segundo botón para registrar tus respuestas. Tienes como máximo hasta las 12:20 para terminar de registrar tus respuestas y en ese momento se cierra la captura. **No podrás registrar respuestas después de las 12:20**.
-{{< /callout >}}
-
-* El tiempo adicional es *solo para registrar respuestas*, si empiezas a registrar tus respuestas cuando se acerquen las 12:20, es posible que acabe el tiempo y no alcances a enviar tu examen. 
-
-
-{{< callout type="info" >}}
-El examen lo puedes imprimir si lo deseas.
-{{< /callout >}}
-
-
 ## Convocatoria 
 Puedes descargar la convocatoria en el siguiente enlace:
 
@@ -77,6 +44,13 @@ Los alumnos que no presenten una constancia escolar el día de la prueba presenc
 
 
 ## Preguntas adicionales
+
+
+**Este examen es para iniciar el proceso selectivo para la 38ª Olimpiada Mexicana de Matemáticas (concurso nacional de noviembre), no está separado por grados (es categoría única) y pueden participar alumnos como máximo hasta 2º de Bachillerato**.
+
+{{< callout type="info" >}}
+Este es un proceso de selección distinto del que presentaron los niños de primaria y secundaria en sus escuelas y zonas escolares, porque no está dividido en niveles y es para un concurso nacional diferente.
+{{< /callout >}}
 
 {{< callout type="info" >}}
 ¿Dónde puedo registrarme?

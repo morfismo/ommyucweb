@@ -1,6 +1,7 @@
 ---
 title: Olimpiada Mexicana de Matemáticas en Yucatán
 toc: true
+draft: false
 cascade:
   type: docs
 ---
