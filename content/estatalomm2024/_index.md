@@ -6,13 +6,6 @@ draft : false
 ---
 
 
-## Convocatoria 
-Puedes descargar la convocatoria en el siguiente enlace:
-
-{{< cards >}}
-{{< card link="/docs/convocatoria-ommyuc2024.pdf" title="Concurso Estatal OMMYUC 2024 " image="convocatoria2024.png" >}}
-{{< /cards >}}
-
 ## Mecanismo de participación
 
 El examen constará de 2 rondas:
