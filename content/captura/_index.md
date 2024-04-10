@@ -2,7 +2,8 @@
 title : 'Captura de Resultados'
 date : 2023-09-17T14:43:36-06:00
 math : true
-draft : true
+draft : false
+toc: false
 ---
 
 {{< callout type="info">}}

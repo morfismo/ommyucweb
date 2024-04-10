@@ -5,6 +5,12 @@ draft: false
 cascade:
   type: docs
 ---
+## Alumnos seleccionados de los últimos exámenes.
+
+En el siguiente enlace se puede consultar el listado de alumnos seleccionados en los últimos exámenes:
+* Examen regional (Proceso OMMEB para primaria y secundaria, presentado el 12 de marzo).
+* Examen estatal (Proceso OMM de categoría única, presentado el 6 de abril)
+
 
 ## Eventos y actividades próximos
 
