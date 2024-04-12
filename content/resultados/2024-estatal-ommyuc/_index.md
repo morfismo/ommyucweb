@@ -15,4 +15,4 @@ La prueba dura 4:30 horas como máximo, y se solicita presentarse al menos 30 mi
 
 {{< cards >}}
   {{< card link="/lista/2024-SELECCIONADOS-OMMYUC2024-EXAMEN1.pdf" title="Seleccionados - Estatal OMMYUC (Categoría única) - Ronda 1" image="imgommyuc1.png" >}}
-{{< cards/ >}}
+{{< /cards >}}
