@@ -22,3 +22,7 @@ Se solicita presentarse al menos 30 minutos antes del examen correspondiente par
   {{< card link="/lista/2024GanadoresRegionalesPrimaria.pdf" title="Seleccionados - Primaria" image="imgprimaria.png" >}}
   {{< card link="/lista/2024GanadoresRegionalesSecundaria.pdf" title="2020 Seleccionados - Secundaria" image="imgsecundaria.png" >}}
   {{< /cards >}}
+
+  FUENTES:
+  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesPrimaria.pdf
+  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesSecundaria.pdf
