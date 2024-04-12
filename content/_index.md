@@ -8,8 +8,8 @@ cascade:
 ## Alumnos seleccionados de los últimos exámenes.
 
 En el siguiente enlace se puede consultar el listado de alumnos seleccionados en los últimos exámenes:
-* Examen regional (Proceso OMMEB para primaria y secundaria, presentado el 12 de marzo).
-* Examen estatal (Proceso OMM de categoría única, presentado el 6 de abril)
+* [Examen regional (Proceso OMMEB para primaria y secundaria, presentado el 12 de marzo).](resultados/2024-regional-ommeb)
+* [Examen estatal (Proceso OMM de categoría única, presentado el 6 de abril)](resultados/2024-estatal-ommyuc)
 
 
 ## Eventos y actividades próximos
