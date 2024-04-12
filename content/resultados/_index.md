@@ -6,7 +6,7 @@ cascade:
   type: docs
 ---
 
-## Examen Regional OMMEB (Primaria y Secundaria) - Examen del 12 de marzo
+## Examen Regional OMMEB (Primaria y Secundaria) - 12 de marzo
 
 
 En este examen, presentado el 12 de marzo de 2024, se seleccionaron al menos 3 alumnos de cada grado y modalidad, en cada región escolar.
@@ -27,7 +27,7 @@ Se solicita presentarse al menos 30 minutos antes del examen correspondiente par
   {{< /cards >}}
 
 
-## Examen Estatal OMM (Categoría única) - Examen del 6 de abril
+## Examen Estatal OMM (Categoría única) - 6 de abril
 
 
 En este examen, presentado el 6 de abril 2024, se seleccionaron 200 alumnos, con la mayor puntuación. 
