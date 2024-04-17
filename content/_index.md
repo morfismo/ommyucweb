@@ -15,6 +15,8 @@ Debido a la cantidad de participantes, la prueba se realizará de forma escalona
 * El **Examen de Primaria** iniciará a las **9:00 AM** y los alumnos deben estar a las 8:30.
 * El **Examen de Secundaria** iniciará a las **11:30 AM** y los alumnos deben estar a las 11:00
 
+La duración máxima de cada examen es de 1:30 horas. 
+
 {{< callout type="warning" >}}
   Se pide que, en la medida de lo posible, acudan únicamente en el horario que les corresponde, para reducir el posible aglutinamiento de personas.
 {{< /callout >}}
