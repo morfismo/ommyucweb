@@ -5,6 +5,27 @@ draft: false
 cascade:
   type: docs
 ---
+
+## Examen Estatal para Primaria y Secundaria (20 de abril)
+
+Este examen estatal se  realizará de forma presencial en la **Facultad de Matemáticas de la UADY el día 20 de abril**.
+
+Debido a la cantidad de participantes, la prueba se realizará de forma escalonada.
+
+* El **Examen de Primaria** iniciará a las **9:00 AM** y los alumnos deben estar a las 8:30.
+* El **Examen de Secundaria** iniciará a las **11:30 AM** y los alumnos deben estar a las 11:00
+
+
+{{< cards >}}
+  {{< card link="/lista/2024GanadoresRegionalesPrimaria.pdf" title="Seleccionados - Primaria" image="imgprimaria.png" >}}
+  {{< card link="/lista/2024GanadoresRegionalesSecundaria.pdf" title="2020 Seleccionados - Secundaria" image="imgsecundaria.png" >}}
+  {{< /cards >}}
+
+  FUENTES:
+  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesPrimaria.pdf
+  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesSecundaria.pdf
+
+
 ## Alumnos seleccionados de los últimos exámenes.
 
 En el siguiente enlace se puede consultar el listado de alumnos seleccionados en los últimos exámenes:
@@ -41,9 +62,11 @@ Este examen es abierto y en línea.  Los alumnos seleccionados en esta prueba se
 
 La etapa final del proceso estatal que se ha llevado a cabo en los meses previos, para alumnos de primaria y secundaria. Tendrá lugar el día 20 de abril de 2024 en la Facultad de Matemáticas. 
 
-La fase previa fue regional y se realizó el día 12 de marzo, 
+Debido a la cantidad de participantes, se realizará de forma escalonada.
 
-En este momento estamos completando el proceso de calificación del examen regional y **en breve publicaremos en esta página los resultados.**
+*  ALUMNOS DE PRIMARIA:  El examen inicia a las 9:00, se requiere estar a las 8:30.
+* ALUMNOS DE SECUNDARIA: El examen inicia a las 11:30, se requiere estar a las 11:00.
+
 {{< /details >}}
 
 {{< details title="4 de mayo - Segunda Etapa de la 38ª OMM" closed="true" >}}
