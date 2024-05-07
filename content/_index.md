@@ -6,36 +6,18 @@ cascade:
   type: docs
 ---
 
-## Examen Estatal para Primaria y Secundaria (20 de abril)
+## Relación de alumnos ganadores de los procesos estatales.
 
-Este examen estatal se  realizará de forma presencial en la **Facultad de Matemáticas de la UADY el día 20 de abril**.
+{{< details title="Proceso OMMEB (Para primaria y secundaria exclusivamente)" closed="false" >}}
 
-Debido a la cantidad de participantes, la prueba se realizará de forma escalonada.
-
-* El **Examen de Primaria** iniciará a las **9:00 AM** y los alumnos deben estar a las 8:30.
-* El **Examen de Secundaria** iniciará a las **11:30 AM** y los alumnos deben estar a las 11:00
-
-La duración máxima de cada examen es de 1:30 horas. 
-
-{{< callout type="warning" >}}
-  Se pide que, en la medida de lo posible, acudan únicamente en el horario que les corresponde, para reducir el posible aglutinamiento de personas.
-{{< /callout >}}
-
-{{< cards >}}
-  {{< card link="/lista/2024GanadoresRegionalesPrimaria.pdf" title="Seleccionados - Primaria" image="imgprimaria.png" >}}
-  {{< card link="/lista/2024GanadoresRegionalesSecundaria.pdf" title="2020 Seleccionados - Secundaria" image="imgsecundaria.png" >}}
-  {{< /cards >}}
-
-  FUENTES:
-  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesPrimaria.pdf
-  * https://educacion.yucatan.gob.mx/multimedia/publicaciones/240410_Ommy24_GanadoresRegionalesSecundaria.pdf
+* [**Examen Estatal realizado el 20 de abril de 2024**.](/lista/2024-GanadoresEstatales-OMMEB.pdf)
+{{< /details >}}
 
 
-## Alumnos seleccionados de los últimos exámenes.
+{{< details title="Proceso OMM (Categoría mixta)" closed="false" >}}
 
-En el siguiente enlace se puede consultar el listado de alumnos seleccionados en los últimos exámenes:
-* [Examen regional (Proceso OMMEB para primaria y secundaria, presentado el 12 de marzo).](resultados/2024-regional-ommeb)
-* [Examen estatal (Proceso OMM de categoría única, presentado el 6 de abril)](resultados/2024-estatal-ommyuc)
+* [**Examen Estatal realizado el 4 de mayo de 2024**.](/lista/2024-GanadoresEstatales-OMM.pdf)
+{{< /details >}}
 
 
 ## Eventos y actividades próximos
@@ -53,31 +35,12 @@ Si  deseas apoyar, puedes pedir información al correo [ommyuc@gmail.com](ommyuc
 ![](https://www.ommenlinea.org/wp-content/uploads/2024/03/Rifa-600x800.png)
 {{< /details >}}
 
-{{< details title="6 de abril -  Examen inicial de la 38ª OMM (bachillerato o secundaria)" closed="true" >}}
+{{< details title="11 de mayo -  Reunión informativa e inicio de entrenamientos" closed="true" >}}
 
-Examen inicial para los alumnos que deseen participar en la 38ª OMM (categoría única, **incluye bachillerato**).
+A todos los alumnos ganadores de los procesos estatales OMMEB (20 de abril) y OMM (4 de mayo), se les invita a integrarse al grupo de entrenamiento que iniciará el día 11 de mayo a las 9:00 en la Facultad de Matemáticas.
 
-Este examen es abierto y en línea.  Los alumnos seleccionados en esta prueba serán invitados a una segunda etapa presencial.
-
-[Más información...](estatalomm2024/)
+También se invita a padres o profesores a que acudan pues en dicho entrenamiento habrá un  espacio para explicar los distintos exámenes nacionales en los que Yucatán  participará durante 2024, así como los mecanismos de entrenamiento y selección para cada uno.
 {{< /details >}}
 
 
-{{< details title="20 de abril -  Examen estatal 8ª OMMEB (primaria y secundaria)" closed="true" >}}
-
-La etapa final del proceso estatal que se ha llevado a cabo en los meses previos, para alumnos de primaria y secundaria. Tendrá lugar el día 20 de abril de 2024 en la Facultad de Matemáticas. 
-
-Debido a la cantidad de participantes, se realizará de forma escalonada.
-
-*  ALUMNOS DE PRIMARIA:  El examen inicia a las 9:00, se requiere estar a las 8:30.
-* ALUMNOS DE SECUNDARIA: El examen inicia a las 11:30, se requiere estar a las 11:00.
-
-{{< /details >}}
-
-{{< details title="4 de mayo - Segunda Etapa de la 38ª OMM" closed="true" >}}
-
-Los alumnos que obtengan la mejor calificación en la etapa abierta, el día 6 de abril, serán invitados a una prueba presencial en la Facultad de Matemáticas el 4 de mayo.
-
-[Más información...](estatalomm2024/)
-{{< /details >}}
 
