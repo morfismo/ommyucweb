@@ -4,6 +4,8 @@ draft = false
 title = 'Exámenes de años recientes'
 +++
 
+** Nota: En el [canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc) puedes revisar la solución detallada de varios exámenes.
+
 ##  Primaria
 
 * {{< button href="2020-01-OMMYUC-PRIMARIA-ESCUELA.pdf" target="_self" >}} Primaria 2020 - Etapa Escuela {{< /button >}}
