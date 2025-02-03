@@ -46,7 +46,7 @@ En las primeras etapas, las pruebas consisten en un examen de opción múltiple,
 
 Se dispone de un archivo donde puede descargar las pruebas aplicadas en años recientes, como material de preparación.
 
-{{< button href="examenes" target="_self" >}}
+{{< button href="/examenes" target="_self" >}}
 Exámenes de años anteriores
 {{< /button >}}
 

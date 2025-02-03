@@ -39,16 +39,9 @@ Las mejores 200 puntuaciones de la primera ronda son invitados a un segundo exam
 
 Se dispone de un archivo donde puede descargar las pruebas aplicadas en años recientes, como material de preparación.
 
-{{< button href="examenes" target="_self" >}}
+{{< button href="/examenes" target="_self" >}}
 Exámenes de años anteriores
 {{< /button >}}
-
-{{< button href="examenes" target="_self" >}}
-Primaria y secundaria{{< /button >}}
-
-
-{{< button href="examenes" target="_self" >}}
-Bachillerato{{< /button >}}
 
 ##  Preguntas adicionales
 
