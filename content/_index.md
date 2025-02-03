@@ -31,5 +31,5 @@ El Delegado Estatal es el prof. Pedro David Sánchez Salazar, de la Facultad de 
 
 * **Delegación Estatal - Prof. Pedro David Sánchez Salazar**
   * Facultad de Matemáticas. Oficina EB7.  
-  * {{< icon "phone" >}} 9423140, ext. 67102 {{< icon "email" >}} ommyuc@gmail.com
+  * {{< icon "phone" >}} 9423140, ext. 67102 {{< icon "email" >}} ommyuc@gmail.com {{< icon "email" >}} pedro.sanchez@correo.uady.mx
   * Anillo Periférico Norte, Tablaje Cat. 13615, Colonia Chuburná Hidalgo Inn, Mérida Yucatán.
