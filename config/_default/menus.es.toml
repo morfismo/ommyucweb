@@ -15,10 +15,10 @@
   pageRef = "info"
   weight = 10
 
-[[main]]
-  name = "Material de preparación"
-  pageRef = "material"
-  weight = 20
+#[[main]]
+#  name = "Material de preparación"
+#  pageRef = "material"
+#  weight = 20
 
 [[main]]
   name = "Exámenes anteriores"
