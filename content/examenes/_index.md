@@ -4,7 +4,7 @@ draft = false
 title = 'Exámenes de años recientes'
 +++
 
-** Nota: En el [canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc) puedes revisar la solución detallada de varios exámenes.
+Nota: En el [ {{< icon "youtube" >}} canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc) puedes revisar varias soluciones detalladas.
 
 ##  Primaria
 
