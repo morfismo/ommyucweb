@@ -12,7 +12,6 @@ En 2005 **el examen inicial de primarias y secundarias se llevará a cabo en las
 En 2005 **el examen inicial de bachillerato será abierto  y en línea el día 22 de marzo.**
 {{% /alert  %}}
 
-
 ##  Información sobre los distintos procesos
 
 La Olimpiada de Matemáticas se realiza bajo una cooperación entre la UADY, a través de su Facultad de Matemáticas, y la Secretaría de Educación del estado de Yucatán. A nivel nacional es responsabilidad de un Comité Nacional elegido por la Sociedad Matemática Mexicana.
