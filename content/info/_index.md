@@ -8,10 +8,10 @@ showTaxonomies: false
 ---
 ## ¿Buscas información sobre el proceso selectivo 2025?
 
-{{< button href="info/ommeb" target="_self" >}}
+{{< button href="/info/ommeb" target="_self" >}}
 Primaria y secundaria
 {{< /button >}}
-{{< button href="info/ommyuc" target="_self" >}}
+{{< button href="/info/ommyuc" target="_self" >}}
 Bachillerato
 {{< /button >}}
 

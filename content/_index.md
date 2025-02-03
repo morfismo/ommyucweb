@@ -18,10 +18,10 @@ La Olimpiada de Matemáticas se realiza bajo una cooperación entre la UADY, a t
 
 Consta de varios procesos, en diferentes niveles educativos, con alumnos desde 4º de primaria hasta 2º de bachillerato, y tiene diferentes alcances: estatal, nacional e internacional. Para mayor información sobre los procesos, acceda a los siguientes enlaces.
  
-{{< button href="info/ommeb" target="_self" >}}
+{{< button href="/info/ommeb" target="_self" >}}
 Primaria y secundaria
 {{< /button >}}
-{{< button href="info/ommyuc" target="_self" >}}
+{{< button href="/info/ommyuc" target="_self" >}}
 Bachillerato
 {{< /button >}}
 
