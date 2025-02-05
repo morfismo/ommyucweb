@@ -31,7 +31,10 @@ su centro escolar a cualquier estudiante que desee presentar la prueba
 
 **La prueba estará accesible para los directores de todos los planteles en la plataforma SIGE el día previo**, con instrucciones detalladas para su aplicación.
 
-Los alumnos con las mejores puntuaciones en la primera prueba y serán registrados por la escuela para ser considerados en el resto de los exámenes.
+Cada centro escolar determina el horario  de aplicación que considere pertinente.
+
+Los alumnos con las mejores puntuaciones en la primera prueba y serán registrados por la escuela para ser considerados en el resto de los exámenes. , disponiendo de una semana para calificar y registrar a sus alumnos seleccionados en el enlace que se proporcionará con el examen.
+
 
  
 ## Sobre las pruebas
