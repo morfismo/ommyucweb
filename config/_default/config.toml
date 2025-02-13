@@ -10,7 +10,7 @@ summaryLength = 0
 
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 1
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
