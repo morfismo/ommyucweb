@@ -15,13 +15,12 @@ Puede registrar hasta 10 alumnos en el formulario, en caso de necesitarlo, puede
 
 Se registran entre 2 y 10 alumnos por grado, correspondientes a las mejores puntuaciones en cada grado.
 
-
-{{< button href="/2025/registro" target="_self" >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSeE30zJCqqWmb3Ea5JZeOxiPPTtmYKDQlEsVMuAZUXsLBJWrw/viewform?usp=dialog" target="_blank" >}}
 Registro PRIMARIA
 {{< /button >}}
 Por el momento, el registro no está activo
 
-{{< button href="/2025/registro" target="_self" >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSerGtBwhobuF7eCfvXnJNuy4gR1CwVR5HlZhdYUZQS9paxiiA/viewform?usp=dialog" target="_blank" >}}
 Registro SECUNDARIA
 {{< /button >}}
 Por el momento, el registro no está activo
