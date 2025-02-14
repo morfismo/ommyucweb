@@ -7,7 +7,9 @@ title = 'Registro de alumnos seleccionados en la etapa escuela'
 ## Instrucciones
 
 {{% alert "circle-info" %}}
-Puede registrar hasta 10 alumnos en el formulario, en caso de necesitarlo, puede ingresar nuevamente para registrar a los alumnos adicionales.
+Acceda al siguiente formulario para registrar a los alumnos seleccionados de su escuela, que pasan a la etapa de Zona.
+
+En el formulario puede registrar 10 alumnos de una sola vez. En caso de necesitarlo, puede ingresar nuevamente para registrar alumnos adicionales.
 
 **La fecha límite de registro es 21 de febrero** 
 {{% /alert  %}}
@@ -18,12 +20,10 @@ Se registran entre 2 y 10 alumnos por grado, correspondientes a las mejores punt
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSeE30zJCqqWmb3Ea5JZeOxiPPTtmYKDQlEsVMuAZUXsLBJWrw/viewform?usp=dialog" target="_blank" >}}
 Registro PRIMARIA
 {{< /button >}}
-Por el momento, el registro no está activo
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSerGtBwhobuF7eCfvXnJNuy4gR1CwVR5HlZhdYUZQS9paxiiA/viewform?usp=dialog" target="_blank" >}}
 Registro SECUNDARIA
 {{< /button >}}
-Por el momento, el registro no está activo
 
 ##  Contacto
 
