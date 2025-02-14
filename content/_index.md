@@ -6,10 +6,10 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ### Avisos y actividades próximas
 {{% alert "circle-info" %}}
-En 2025 el examen inicial de **primarias y secundarias** se llevará a cabo **en las escuelas el día 14 de febrero.**
+Los exámenes de primaria y secundaria **los tienen los directores de escuela en SIGE**, junto con la clave de respuestas e información adicional para registro de resultados.
 {{% /alert  %}}
 {{% alert "circle-info" %}}
-En 2025 el examen inicial de **bachillerato** será abierto **y en línea, el día 22 de marzo.**
+**La fecha límite de registro de resultados es el 21 de febrero.**
 {{% /alert  %}}
 
 ##  Información sobre los distintos procesos
