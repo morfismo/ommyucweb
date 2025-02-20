@@ -6,10 +6,10 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ### Avisos y actividades próximas
 {{% alert "circle-info" %}}
-Los exámenes de primaria y secundaria **los tienen los directores de escuela en SIGE**, junto con la clave de respuestas e información adicional para registro de resultados.
+Para la olimpiada de INFORMÁTICA: Los directores tienen acceso a la prueba en SIGE, las escuelas de bachillerato reciben la prueba por correo. 
 {{% /alert  %}}
 {{% alert "circle-info" %}}
-**La fecha límite de registro de resultados es el 21 de febrero.**
+**La fecha límite de registro de resultados para MATEMÁTICAS es el 21 de febrero.**
 {{% /alert  %}}
 
 ##  Información sobre los distintos procesos
