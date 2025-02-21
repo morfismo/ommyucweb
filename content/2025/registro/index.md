@@ -1,15 +1,13 @@
 +++
 date = '2025-01-26T19:01:34-06:00'
 draft = false
-title = 'Registro de alumnos seleccionados en la etapa escuela'
+title = 'Registro EXCLUSIVO DE MATEMÁTICAS'
 +++
 
 ## Instrucciones
 
 {{% alert "circle-info" %}}
-Acceda al siguiente formulario para registrar a los alumnos seleccionados de su escuela, que pasan a la etapa de Zona.
-
-En el formulario puede registrar 10 alumnos de una sola vez. En caso de necesitarlo, puede ingresar nuevamente para registrar alumnos adicionales.
+Este registro es únicamente para la **Olimpiada de Matemáticas**
 
 **La fecha límite de registro es 21 de febrero** 
 {{% /alert  %}}
