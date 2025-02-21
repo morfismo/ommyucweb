@@ -6,9 +6,6 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ### Avisos y actividades próximas
 {{% alert "circle-info" %}}
-Para la olimpiada de INFORMÁTICA: Los directores tienen acceso a la prueba en SIGE, las escuelas de bachillerato reciben la prueba por correo. 
-{{% /alert  %}}
-{{% alert "circle-info" %}}
 **La fecha límite de registro de resultados para MATEMÁTICAS es el 21 de febrero.**
 {{% /alert  %}}
 
