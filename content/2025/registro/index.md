@@ -21,8 +21,7 @@ Cualquier duda o comentario, por favor comunicarlo al correo  omiyucatandelegaci
 ## MATEMÁTICAS
 
 {{% alert "circle-info" %}}
-Este registro es únicamente para la **Olimpiada de Matemáticas**
-**La fecha límite de registro es 21 de febrero** 
+**El registro está cerrado**
 {{% /alert  %}}
 
 Se registran entre 2 y 10 alumnos por grado, correspondientes a las mejores puntuaciones en cada grado.
