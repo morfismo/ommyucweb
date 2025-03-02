@@ -5,7 +5,7 @@ math : true
 draft : false
 ---
 
-## Concurso estatal de la Olimpiada de Matemáticas (bachillerato y mixto)
+## Concurso estatal de la Olimpiada de Matemáticas (abierto y mixto)
 
 Yucatán participa en varios procesos y concursos nacionales, como la [OMMEB, que es específico para alumnos de primaria y secundaria](info/ommeb). Pero existe también otro concurso nacional en el que pueden participar alumnos que estén, **como máximo, en 2º grado de bachillerato**.
 
