@@ -6,7 +6,7 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ### Avisos y actividades próximas
 {{% alert "circle-info" %}}
-**La fecha límite de registro de resultados para MATEMÁTICAS es el 21 de febrero.**
+El examen del proceso abierto y mixto para todos los niveles educativos (incluyendo bachillerato) se realizará el 22 de marzo. **[Consulta más información]({{< ref "/info/ommyuc" >}} ).**
 {{% /alert  %}}
 
 ##  Información sobre los distintos procesos
