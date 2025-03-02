@@ -7,7 +7,7 @@ draft : false
 
 ## Concurso estatal de la Olimpiada de Matemáticas (abierto y mixto)
 
-Yucatán participa en varios procesos y concursos nacionales, como la [OMMEB, que es específico para alumnos de primaria y secundaria](info/ommeb). Pero existe también otro concurso nacional en el que pueden participar alumnos que estén, **como máximo, en 2º grado de bachillerato**.
+Yucatán participa en varios procesos y concursos nacionales, como la [OMMEB, que es específico para alumnos de primaria y secundaria](info/ommeb). Pero existe también otro concurso nacional en el que pueden participar alumnos que estén, **como máximo, en 2º grado de bachillerato**, cuyo proceso inicia con el Concurso Estatal de la OMM (y que se realiza por 39a ocasión este año).
 
 * {{< button href="invitacion-omm2025.pdf" target="_self" >}}
 Convocatoria{{< /button >}}
