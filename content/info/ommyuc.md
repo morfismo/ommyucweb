@@ -9,6 +9,10 @@ draft : false
 
 Yucatán participa en varios procesos y concursos nacionales, como la [OMMEB, que es específico para alumnos de primaria y secundaria](info/ommeb). Pero existe también otro concurso nacional en el que pueden participar alumnos que estén, **como máximo, en 2º grado de bachillerato**.
 
+* {{< button href="invitacion-omm2025.pdf" target="_self" >}}
+Convocatoria{{< /button >}}
+
+
 Este examen no está dividido en niveles educativos y consta de 2 rondas, la primera abierta y en línea, y la segunda presencial, en donde se invita específicamente a los mejores 200 puntajes de la primera prueba. 
 
 {{< alert "lightbulb" >}}
