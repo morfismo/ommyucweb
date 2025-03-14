@@ -20,7 +20,7 @@ Este examen no está dividido en niveles educativos (pueden participar los alumn
 * **Segunda ronda**: mayo de 2025
 {{< /alert >}}
 
-El objetivo principal de este proceso, es seleccionar a un grupo de 30 estudiantes que son invitados a un programa de entrenamiento, mediante el cual se conforman y prepara las delegación que participará en el 39º Concurso Nacional de la Olimpiada de Matemáticas en noviembre.
+**El objetivo principal de este proceso, es seleccionar a un grupo de 30 estudiantes que son invitados a un programa de entrenamiento, mediante el cual se conforman y prepara las delegación que participará en el 39º Concurso Nacional de la Olimpiada de Matemáticas en noviembre.**
 
 ## Mecanismo de participación
 
