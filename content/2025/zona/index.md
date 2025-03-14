@@ -15,7 +15,7 @@ title = 'Registro de la fase zona'
 
 
 {{% alert "circle-info" %}}
-**AVISO** Por un error de dedo en la pregunta 10 de primaria, la respuesta correcta no apareció entre las opciones. 
+**AVISO** Por un error de redacción en la **pregunta 10 de primaria**, la respuesta correcta no apareció entre las opciones. 
 
 **Por eso a todos los alumnos se les toma por buena esa pregunta.**
 {{% /alert  %}}
