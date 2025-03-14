@@ -7,18 +7,12 @@ title = 'Registro de la fase zona'
 ## Registro de la fase zona
 
 {{% alert "circle-info" %}}
-**La fecha límite de registro es 21 de marzo** 
+**La fecha límite de registro es 24 de marzo** 
 
 **Se registran los mejores 3 alumnos por grado, pero en caso de haber empates en la calificación límite, se pueden añadir los empatados.**
 
 {{% /alert  %}}
 
-
-{{% alert "circle-info" %}}
-**AVISO** Por un error de redacción en la **pregunta 10 de primaria**, la respuesta correcta no apareció entre las opciones. 
-
-**Por eso a todos los alumnos se les toma por buena esa pregunta.**
-{{% /alert  %}}
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdGIT6F05WeEfyHFdDd2Pj9_kcFfVmjrRrdhZrSeG5T6Z8Fmw/viewform?usp=dialog" target="_blank" >}}
 Registro PRIMARIA
