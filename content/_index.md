@@ -9,24 +9,21 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 El examen del proceso abierto y mixto para todos los niveles educativos (incluyendo bachillerato) se realizará el 22 de marzo. **[Consulta más información]({{< ref "/info/ommyuc" >}} ).**
 {{% /alert  %}}
 
-##  Información sobre los distintos procesos
+##  Información - 39º Examen Estatal de la Olimpiada de Matemáticas
 
-La Olimpiada de Matemáticas se realiza bajo una cooperación entre la UADY, a través de su Facultad de Matemáticas, y la Secretaría de Educación del estado de Yucatán. A nivel nacional es responsabilidad de un Comité Nacional elegido por la Sociedad Matemática Mexicana.
+* El examen inicial será en línea, el 22 de marzo a las 10:00.
+* No requiere registro previo
+* Pueden tomarlo de cualquier educativo. El grado máximo  admisible es 2º de  bachillerato
 
-Consta de varios procesos, en diferentes niveles educativos, con alumnos desde 4º de primaria hasta 2º de bachillerato, y tiene diferentes alcances: estatal, nacional e internacional. Para mayor información sobre los procesos, acceda a los siguientes enlaces.
- 
-{{< button href="/info/ommeb" target="_self" >}}
-Primaria y secundaria
-{{< /button >}}
 {{< button href="/info/ommyuc" target="_self" >}}
-Bachillerato
+Infomación 
 {{< /button >}}
 
 ## Contacto
-
-El Delegado Estatal es el prof. Pedro David Sánchez Salazar, de la Facultad de Matemáticas, quien coordina las actividades con el Comité Estatal, al que pertenecen profesores y autoridades educativas de la SEGEY.
+<small>
 
 * **Delegación Estatal - Prof. Pedro David Sánchez Salazar**
   * Facultad de Matemáticas. Oficina EB7.  
   * {{< icon "phone" >}} 9423140, ext. 67102 {{< icon "email" >}} ommyuc@gmail.com {{< icon "email" >}} pedro.sanchez@correo.uady.mx
   * Anillo Periférico Norte, Tablaje Cat. 13615, Colonia Chuburná Hidalgo Inn, Mérida Yucatán.
+</small>
