@@ -6,17 +6,17 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ### Avisos y actividades próximas
 {{% alert "circle-info" %}}
-El examen del proceso abierto y mixto para todos los niveles educativos (incluyendo bachillerato) se realizará el 22 de marzo. **[Consulta más información]({{< ref "/info/ommyuc" >}} ).**
+El examen del proceso abierto y mixto para todos los niveles educativos (incluyendo bachillerato) se realizará el 22 de marzo de 10:00 a 12:00. **[Consulta más información]({{< ref "/info/ommyuc" >}} ).**
 {{% /alert  %}}
 
-##  Información - 39º Examen Estatal de la Olimpiada de Matemáticas
+## 39º Examen Estatal de la Olimpiada de Matemáticas
 
-* El examen inicial será en línea, el 22 de marzo a las 10:00.
+* El examen inicial se realiza en línea, el 22 de marzo a las 10:00.
 * No requiere registro previo
 * Pueden tomarlo de cualquier educativo. El grado máximo  admisible es 2º de  bachillerato
 
-{{< button href="/info/ommyuc" target="_self" >}}
-Infomación 
+{{< button href="/2025/estatal" target="_self" >}}
+ACCESO AL EXAMEN
 {{< /button >}}
 
 ## Contacto
