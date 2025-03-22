@@ -16,7 +16,7 @@ Debajo encontrarás 2 botones.
 Descarga la prueba
 {{< /button >}}
 
-{{< button href="" target="_blank" >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSeTyUtLABV-TmpLU0rIoMuMP01SV0ZpxyzuN2ApqaUw-okoMQ/viewform?usp=dialog" target="_blank" >}}
 Registra tus respuestas.
 {{< /button >}}
 
