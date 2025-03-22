@@ -12,11 +12,11 @@ Debajo encontrarás 2 botones.
 
 * **Es importante entrar a registrar tus respuestas A MÁS TARDAR a las 12:00**, pues a esa hora se desactiva el botón.  Una vez dentro, cuentas hasta con 20 minutos para enviar tus respuestas. Por tanto, el límite para enviar tus respuestas es a las 12:20, pero recuerda que **debes iniciar el registro a más tardar a las 12:00.**
 
-{{< button href="" target="_blank" >}}
+{{< button href="2025-Examen-Estatal-39OMMYUC.pdf" target="_blank" >}}
 Descarga la prueba
 {{< /button >}}
 
-{{< button href="" target="_blank" >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSeTyUtLABV-TmpLU0rIoMuMP01SV0ZpxyzuN2ApqaUw-okoMQ/viewform?usp=dialog" target="_blank" >}}
 Registra tus respuestas.
 {{< /button >}}
 
