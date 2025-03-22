@@ -17,7 +17,7 @@ Descarga la prueba
 {{< /button >}}
 
 {{< button href="" target="_blank" >}}
-Registra tus respuestas.
+Registro cerrado.
 {{< /button >}}
 
 Puedes usar hojas en blanco para intentar los problemas, pero no uses calculadora ni cualquier tipo de apoyo electrónico.
