@@ -7,12 +7,8 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 
 ## 39º Examen Estatal de la Olimpiada de Matemáticas
 
-* El examen inicial se realiza en línea, el 22 de marzo a las 10:00.
-* No requiere registro previo
-* Pueden tomarlo de cualquier educativo. El grado máximo  admisible es 2º de  bachillerato
-
 {{< button href="/2025/estatal" target="_self" >}}
-ACCESO AL EXAMEN
+Lista de alumnos invitados a la segunda parte del examen
 {{< /button >}}
 
 ## Contacto
