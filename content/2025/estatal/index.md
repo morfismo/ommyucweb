@@ -14,7 +14,7 @@ Descargar PDF {{< /button >}}
 | NOMBRE                                | ESCUELA                                                                  |
 | ------------------------------------- | ------------------------------------------------------------------------ |
 | Aarón Emmanuel Castillo Cetz          | Preparatoria Estatal Nº 4 Victor Jesús Manzanilla Jiménez                |
-| Aaron Esteban Cutiz duran             | COBAY                                                                    |
+| Aaron Esteban Cutiz Durán             | COBAY                                                                    |
 | Abner Isaac Balam Várguez             | COBAY Becanchén                                                          |
 | Adan Maximiliano Torrez Caamal        | Escuela Preparatoria Estatal Número 9 "Víctor Manuel Cervera Pacheco"    |
 | Adrián Francisco Can Chiquil          | COBAY                                                                    |
