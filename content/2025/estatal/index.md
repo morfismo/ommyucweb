@@ -8,6 +8,9 @@ title = '39º Examen Estatal de la OMM - 2025'
 
 En días posteriores  recibirás en el correo que registraste, más información sobre la segunda parte de la prueba y lo que debes llevar el día del examen.
 
+* {{< button href="39-Estatal-2025.pdf" target="_self" >}}
+Descargar PDF {{< /button >}}
+
 | NOMBRE                                | ESCUELA                                                                  |
 | ------------------------------------- | ------------------------------------------------------------------------ |
 | Aarón Emmanuel Castillo Cetz          | Preparatoria Estatal Nº 4 Victor Jesús Manzanilla Jiménez                |
