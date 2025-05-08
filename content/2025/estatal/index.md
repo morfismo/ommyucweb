@@ -163,7 +163,7 @@ Descargar PDF {{< /button >}}
 | Jhonathan de Jesús Ek Ku              | COBAY Plantel COBAY Umán                                                 |
 | Jhosmar Javier Aguilar Alférez        | COBAY                                                                    |
 | Jhovanna Teyer Novelo                 | COBAY Plantel Tekax                                                      |
-| Jimena Del Valle Herrera              | Escuela Rochavi Altabrisa                                                |
+| Jimena Del Valle Herrera              | Centro Escolar Rochavi Altabrisa                                                |
 | Joana Itzel Camal Pat                 | COBAY Plantel COBAY Teabo                                                |
 | Joel David Chuc Gil                   | COBAY Komchén                                                            |
 | Johan Javier Uc Herrera               | COBAY                                                                    |
