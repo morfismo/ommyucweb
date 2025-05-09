@@ -228,7 +228,7 @@ Descargar PDF {{< /button >}}
 | Marián Chan Cauich                    | Escuela Preparatoria Estatal no. 9 Víctor Manuel Cervera Pacheco         |
 | Mario Isaias Pech Ché                 | COBAY colonia Yucatán                                                    |
 | Marleny Elizabeth Carrillo Ek         | COBAY Plantel Kanasín                                                    |
-| Marycruz Caballero Castillo           | Universidad  Privada de la Península                                     |
+| Marycruz Caballero Castillo           | Colegio Privado de la Península                                     |
 | Mauricio Ayón Peraza                  | Centro Educativo Piaget                                                  |
 | Mauricio Isair Koh                    | Cuauhtemoc Trejo Tabasco                                                 |
 | Mauro Alexander Verdalet Salamanca    | Instituto Arrayanes                                                      |
