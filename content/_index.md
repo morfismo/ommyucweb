@@ -5,11 +5,23 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 +++
 
 
-## 39º Examen Estatal de la Olimpiada de Matemáticas
+La Olimpiada de Matemáticas en Yucatán tiene dos procesos selectivos anuales.
 
-{{< button href="/2025/estatal" target="_self" >}}
-Lista de alumnos invitados a la segunda parte del examen
-{{< /button >}}
+## Olimpiada Mexicana de Matemáticas 
+Es un concurso anual abierto **a cualquier alumno que se encuentre como máximo en 2º año de bachillerato.**
+
+En 2025 se realizó en dos etapas, una abierta y en línea el 22 de marzo y una segunda ronda presencial el 17 de mayo.
+
+## Olimpiada Mexicana de Matemáticas para Educacion Básica
+Es un concurso anual **específico para alumnos de primaria y secundaria.**
+
+En 2025 se está realizando en cuatro etapas, y que se aplica inicialmente en todas las escuelas del estado.
+* Etapa de escuela: 14 de febrero
+* Etapa de zona: 14 de marzo
+* Etapa de región: 23 de mayo
+* Etapa de entidad: 14 de junio
+
+
 
 ## Contacto
 <small>
