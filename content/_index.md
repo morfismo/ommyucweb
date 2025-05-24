@@ -12,6 +12,12 @@ Es un concurso anual abierto **a cualquier alumno que se encuentre como máximo 
 
 En 2025 se realizó en dos etapas, una abierta y en línea el 22 de marzo y una segunda ronda presencial el 17 de mayo.
 
+En el siguiente enlace se encuentra la lista de alumnos ganadores en este proceso selectivo, los cuales serán invitados a tomar entrenamiento en la Facultad de Matemáticas con el objetivo de integrar la delegación en el Concurso Nacional de noviembre.
+
+* {{< button href="2'25/estatal/Ganadores-OMMYUC2025.pdf" target="_self" >}}
+Descargar PDF {{< /button >}}
+
+
 ## Olimpiada Mexicana de Matemáticas para Educacion Básica
 Es un concurso anual **específico para alumnos de primaria y secundaria.**
 
