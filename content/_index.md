@@ -14,11 +14,11 @@ Anualmente, se realizan dos procesos selectivos anualmente, de los cuales se eli
 
 ### Concurso Estatal de la Olimpiada Mexicana de Matemáticas
 
-Es el concurso más antiguo, que en 2025 realiza su 39ª edición. Originalmente para alumnos de bachillerato, aunque actualmente está abierto a cualquier alumno que se encuentre como máximo en 2º grado de bachillerato (es decir, pueden intentarlo alumnos de primaria y secundaria).  Actualmente se realiza en dos etapas, una abierta y en línea (efectuada el 22 de marzo de 2025) y una ronda presencial (efectuada el 17 de mayo de 2025).
+Es el concurso más antiguo, que en 2025 realiza su 39ª edición. Originalmente para alumnos de bachillerato, aunque actualmente está abierto a cualquier alumno que se encuentre **como máximo en 2º grado de bachillerato** (es decir, pueden intentarlo alumnos de primaria y secundaria).  Actualmente se realiza en dos etapas, una abierta y en línea (efectuada el 22 de marzo de 2025) y una ronda presencial (efectuada el 17 de mayo de 2025).
 
 Los ganadores de este proceso reciben la invitación al programa de entrenamientos con el cual se integra la delegación que participa en el Concurso Nacional de la Olimpiada de Matemáticas, el cual suele realizarse en noviembre.
 
-La lista de alumnos seleccionados este año se puede descargar en este enlace.
+**La lista de alumnos seleccionados este año se puede descargar en el siguiente enlace**.
 
 * {{< button href="2025/estatal/Ganadores-OMMYUC2025.pdf" target="_self" >}}
 Alumnos Seleccionados {{< /button >}}
