@@ -35,6 +35,13 @@ Primaria 2023 - Ronda 2{{< /button >}}
 Primaria 2024 - Etapa Escuela
 {{< /button >}}
 
+* {{< button href="2025-05-OMMYUC-PRIMARIA-REGION.pdf" target="_self" >}}
+Primaria 2025 - Etapa Región
+{{< /button >}}  {{< button href="2025-05-OMMYUC-REGION-SOLUCIONES.pdf" target="_self" >}}
+Soluciones
+{{< /button >}}
+
+
 ## Secundaria
 * {{< button href="2020-04-OMMYUC-SECUNDARIA-ESCUELA.pdf" target="_self" >}}
 Secundariaa 2020 - Etapa Escuela{{< /button >}}
@@ -54,6 +61,14 @@ Secundaria 2023 - Ronda 2{{< /button >}}
 * {{< button href="2024-01-OMMYUC-SECUNDARIA-ESCUELA.pdf" target="_self" >}}
 Secundaria 2024 - Etapa Escuela
 {{< /button >}}
+
+* {{< button href="2025-05-OMMYUC-SECUNDARIA-REGION.pdf" target="_self" >}}
+Secundaria 2025 - Etapa Región
+{{< /button >}}  {{< button href="2025-05-OMMYUC-REGION-SOLUCIONES.pdf" target="_self" >}}
+Soluciones
+{{< /button >}}
+
+
 
 ##  Bachillerato
 
