@@ -10,6 +10,7 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 * {{< button href="2025/entidad/OMM-SELECCIONADOS-2025.pdf" target="_self" >}}
 Alumnos Seleccionados {{< /button >}}
 
+
 ## La Olimpiada de Matemáticas
 
 
