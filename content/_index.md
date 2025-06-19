@@ -5,6 +5,14 @@ title = 'Olimpiada de Matemáticas en Yucatán'
 +++
 
 
+## Resultados del Examen de Entidad aplicado el 14 de junio de 2025
+
+* {{< button href="2025/entidad/OMM-SELECCIONADOS-2025.pdf" target="_self" >}}
+Alumnos Seleccionados {{< /button >}}
+
+
+## La Olimpiada de Matemáticas
+
 
 La Olimpiada de Matemáticas es un programa de difusión y promoción del estudio de las matemáticas desde un punto de vista creativo y razonado. Se  realiza en México, en varios niveles educativos y modalidades, desde hace 4 décadas, cuando la Sociedad Matemática Mexicana incia la orgnización del Concurso Nacional de la Olimpiada de Matemáticas en nivel bachillerato.
 
