@@ -1,5 +1,9 @@
 baseURL: https://ommyuc.org
 languageCode: es
+languages: 
+  es:
+    languageName: Español
+    weight: 1
 title: Olimpiada Mexicana de Matemáticas Yucatán
 module:
   imports:
@@ -39,3 +43,8 @@ params:
     # light | dark | system
     default: light
     displayToggle: true
+  footer:
+    enable: false
+    displayCopyright: false
+    displayPoweredBy: true
+    width: "normal"
