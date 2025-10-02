@@ -41,5 +41,5 @@ Debido a la limitación de espacios disponibles, se hará un pre-registro, y pos
 Delegado Estatal de la Olimpiada de Matemáticas
 
  * Facultad de Matemáticas, UADY  
-  * ommyuc@gmail.com  pedro.sanchez@correo.uady.mx
+  * ommyuc@gmail.com
   * Anillo Periférico Norte, Tablaje Cat. 13615, Colonia Chuburná Hidalgo Inn, Mérida Yucatán.
