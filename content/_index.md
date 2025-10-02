@@ -8,19 +8,7 @@ toc: false
 
 ## La Olimpiada de Matemáticas
 
-{{< hextra/hero-button text="Get Started" link="/docs" >}}
 
-{{< hextra/hero-container image="images/logo-omm.svg"  imageTitle="title" >}}
-    Content
-{{< /hextra/hero-container >}}
-
-{{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="hx:sm:block hx:hidden" />with Markdown and Hugo
-{{< /hextra/hero-headline >}}
-
-{{< hextra/hero-section heading="h3" >}}Title{{< /hextra/hero-section >}}>
-
-### Title 
 
 La Olimpiada de Matemáticas es un programa de difusión y promoción del estudio de las matemáticas desde un punto de vista creativo y razonado. Se  realiza en México, en varios niveles educativos y modalidades, desde hace 4 décadas, cuando la Sociedad Matemática Mexicana incia la orgnización del Concurso Nacional de la Olimpiada de Matemáticas en nivel bachillerato.
 
@@ -46,9 +34,8 @@ En su novena edición, este concurso es **específico para alumnos de primaria y
 Las autoridades de la Secretaría de Educación y la Universidad Autónoma de Yucatán coordinan la logística de aplicación de este proceso selectivo, cuyos ganadores recibirán la invitación al programa de entrenamientos con el cual se integra la delegación que participa en el Concurso Nacional de la Olimpiada de Matemáticas para Educación Básica, el cual suele realizarse en septiembre.
 
 ### Contacto
-<small>
+
 * **Delegación Estatal - Prof. Pedro David Sánchez Salazar**
   * Facultad de Matemáticas. Oficina EB7.  
   *  9423140, ext. 67102 ommyuc@gmail.com  pedro.sanchez@correo.uady.mx
   * Anillo Periférico Norte, Tablaje Cat. 13615, Colonia Chuburná Hidalgo Inn, Mérida Yucatán.
-</small>
