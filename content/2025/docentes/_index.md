@@ -8,6 +8,7 @@ title: 'Resolución de problemas para competencias estatales de matemáticas'
 
 Taller dirigido a docentes interesados en brindar acompañamiento a los alumnos que participan en competencias de la Olimpiada de Matemáticas a nivel estatal.
 
+{{< callout type="info" >}}
 * **Público**: Docentes de Educación Primaria y Secundaria del Estado de Yucatán (escuelas públicas y particulares)
 * **Fechas**: 11, 18, 25 de octubre y 8 de noviembre
 * **Sedes disponibles**: Mérida, Valladolid y Tekax
@@ -15,6 +16,7 @@ Taller dirigido a docentes interesados en brindar acompañamiento a los alumnos 
 * **Horarios**: 
   - Mérida: de 9:00 a 13:00
   - Interior del estado: de 10:00 a 14:00
+{{< /callout >}}
 
 ### Contenido.
 El taller se organiza en 4 sesiones. En las primeras dos sesiones se trabajarán exámenes aplicados en la Olimpiada de Matemáticas de Yucatán de los años recientes, con el objetivo de identificar ideas y conceptos recurrentes, así como presentar estrategias generales para resolución de problemas matemáticos.
@@ -27,14 +29,11 @@ Para recibir la constancia de participación, es necesario acudir a las cuatro s
 
 ### Inscripción
 
-Debido a la limitación de cupo, se hará una verificación de que los asistentes son docentes en alguna Escuela del estado de Yucatán. 
+{{< callout type="info" >}}
+Debido a la limitación de espacios disponibles, se hará un pre-registro, y posteriormente a la verificación, se enviará un correo con los detalles del lugar de aplicación del taller. El cupo disponible se asignará en el orden de llenado del formulario.
 
-El proceso de inscripción es el siguiente:
-
-1. Llenado del formulario: [Pre-registro](https://docs.google.com/forms/d/e/1FAIpQLSeJyn9SlB0MWsCg3ng6sTHelUpOBvotmKZVHXGlx1mznFUPAw/viewform?usp=header)
-1. Más adelante se hará una verificación de que los datos corresponden a un docente
-1. Posteriormente enviará por correo la confirmación de registro con la información para asistir al taller
-
+* **[Formulario de pre-registro](https://docs.google.com/forms/d/e/1FAIpQLSeJyn9SlB0MWsCg3ng6sTHelUpOBvotmKZVHXGlx1mznFUPAw/viewform?usp=header)**
+{{< /callout >}}
 ### Informes
 
 **Prof. Pedro David Sánchez Salazar**
