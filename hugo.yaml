@@ -1,0 +1,41 @@
+baseURL: https://ommyuc.org/
+languageCode: es
+title: Olimpiada Mexicana de Matemáticas Yucatán
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: Información
+      pageRef: /info
+      weight: 1
+    - name: Exámenes previos
+      pageRef: /examenes
+      weight: 2
+    - name: Taller
+      pageRef: /taller
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+        label: true # optional, default is false
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo-omm.svg
+      dark: images/logo-drk.png
+      link: /
+      width: 40
+      height: 20
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: true
