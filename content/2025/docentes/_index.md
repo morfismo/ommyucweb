@@ -1,10 +1,10 @@
 ---
 date: '2025-10-01T21:33:26-06:00'
 draft: true
-title: 'Docentes'
+title: 'Resolución de problemas para competencias estatales de matemáticas'
 ---
 
-## Resolución de problemas para competencias estatales de matemáticas
+### Información
 
 Taller dirigido a docentes interesados en brindar acompañamiento a los alumnos que participan en competencias de la Olimpiada de Matemáticas a nivel estatal.
 

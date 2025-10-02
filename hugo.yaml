@@ -1,4 +1,4 @@
-baseURL: https://ommyuc.org/
+baseURL: https://ommyuc.org
 languageCode: es
 title: Olimpiada Mexicana de Matemáticas Yucatán
 module:
@@ -14,7 +14,7 @@ menu:
       pageRef: /examenes
       weight: 2
     - name: Taller
-      pageRef: /taller
+      pageRef: /2025/docentes
       weight: 3
     - name: Search
       weight: 4
