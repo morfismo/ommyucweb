@@ -37,7 +37,8 @@ El proceso de inscripción es el siguiente:
 
 ### Informes
 
-**Prof. Pedro David Sánchez Salazar**<br>
+**Prof. Pedro David Sánchez Salazar**
+
 Delegado Estatal de la Olimpiada de Matemáticas
 
  * Facultad de Matemáticas, UADY  
