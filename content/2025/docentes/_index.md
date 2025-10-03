@@ -11,8 +11,10 @@ Taller dirigido a docentes interesados en brindar acompañamiento a los alumnos 
 {{< callout type="info" >}}
 * **Público**: Docentes de Educación Primaria y Secundaria del Estado de Yucatán (escuelas públicas y particulares)
 * **Fechas**: 11, 18, 25 de octubre y 8 de noviembre
-* **Sedes disponibles**: Mérida, Valladolid y Tekax
-* **Cupo**: 60 espacios por sede
+* **Sedes disponibles**: 
+  - Mérida (120 espacios)
+  - Valladolid (60 espacios)
+  - Tekax (60 espacios)
 * **Horarios**: 
   - Mérida: de 9:00 a 13:00
   - Interior del estado: de 10:00 a 14:00
@@ -30,8 +32,9 @@ Para recibir la constancia de participación, es necesario acudir a las cuatro s
 ### Inscripción
 
 {{< callout type="info" >}}
-Debido a la limitación de espacios disponibles, se hará un pre-registro, y posteriormente a la verificación, se enviará un correo con los detalles del lugar de aplicación del taller. El cupo disponible se asignará en el orden de llenado del formulario.
+Debido a la limitación de espacios disponibles, se hará un pre-registro, y posteriormente, se enviará un correo con los detalles del lugar de aplicación del taller. El cupo disponible se asignará en el orden de llenado del formulario.
 
+* **El cupo de la sede Mérida está completo. Sólo quedan espacios disponibles en Valladolid y Tekax** 
 * **[Formulario de pre-registro](https://docs.google.com/forms/d/e/1FAIpQLSeJyn9SlB0MWsCg3ng6sTHelUpOBvotmKZVHXGlx1mznFUPAw/viewform?usp=header)**
 {{< /callout >}}
 ### Informes
