@@ -9,7 +9,7 @@ sidebar:
 ### Instrucciones
 
 {{< callout type="info" >}}
-Se registrarán hasta 6 alumnos y 6 alumnas de cada grado participante, los cuales incluyen:
+Se registrarán hasta 6 concursantes de cada grado (y se pueden añadir casos de empates), los cuales incluyen:
 * 4º de primaria
 * 5º de primaria
 * 6º de primaria
