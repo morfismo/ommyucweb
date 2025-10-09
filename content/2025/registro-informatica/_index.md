@@ -2,6 +2,8 @@
 date: '2025-10-01T21:33:26-06:00'
 draft: false
 title: 'Registro de alumnos a la Olimpiada de Informática'
+sidebar: 
+  exclude: true
 ---
 
 ### Instrucciones
