@@ -20,6 +20,7 @@ Se registrarán hasta 6 concursantes de cada grado (y se pueden añadir casos de
 En el formulario puede registrar hasta 10 alumnos a la vez. De ser necesario, puede entrar nuevamente para añadir alumnos adicionales.
 
 Consultar la convocatoria en caso de requerir detalles
+
 [ENLACE A CONVOCATORIA]
 {{< /callout >}}
 
