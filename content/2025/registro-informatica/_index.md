@@ -16,8 +16,6 @@ Se registrarán hasta 5 alumnos y 5 alumnas de cada grado participante,los cuale
 * 2º de secundaria
 * 3º de secundaria
 
-En el formulario puede registrar hasta 10 alumnos por grado a la vez. De ser necesario, puede entrar nuevamente para añadir alumnos adicionales.
-
 Consultar la convocatoria en SIGE en caso de requerir detalles.
 
 {{< /callout >}}
