@@ -9,7 +9,7 @@ sidebar:
 ### Instrucciones
 
 {{< callout type="info" >}}
-Se registrarán hasta 5 alumnos y 5 alumnas de cada grado participante,los cuales incluyen:
+Se registrarán hasta 5 alumnos y 5 alumnas de cada grado participante, los cuales incluyen:
 * 5º de primaria
 * 6º de primaria
 * 1º de secundaria
