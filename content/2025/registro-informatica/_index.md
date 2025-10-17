@@ -16,6 +16,7 @@ Se registrarán hasta 5 alumnos y 5 alumnas de cada grado participante,los cuale
 * 2º de secundaria
 * 3º de secundaria
 
+En caso de empate, cada escuela determinará el criterio para cumplir con el número de estudiantes señalado. 
 Consultar la convocatoria en SIGE en caso de requerir detalles.
 
 {{< /callout >}}
