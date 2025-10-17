@@ -26,7 +26,12 @@ Consultar la convocatoria en SIGE en caso de requerir detalles
 
 ### Ingreso a registro
 
-{{< hextra/hero-button text="Matemáticas - Primaria" link="https://docs.google.com/forms/d/e/1FAIpQLScyp51ALUUGShyJM29nc8s3jnvgnUfj0dUgF3C5hLYwcSkitQ/viewform?usp=dialog" >}}
+{{< hextra/hero-button text="Matemáticas - Primaria" link="https://docs.google.com/forms/d/e/1FAIpQLSdWQ8W9JeEFk-Pc_hhYUuH8SG0Eezkhte2Ju3yUZAVu-Qxsow/viewform?usp=dialog" >}}
 
 
-{{< hextra/hero-button text="Matemáticas - Secundaria" link="/docs" >}}
+{{< hextra/hero-button text="Matemáticas - Secundaria" link="https://docs.google.com/forms/d/e/1FAIpQLSdu6cHrCK_Wqag0LZb19Kr6gFsf5JM1k-gQqD3XwBxWqxdyuw/viewform?usp=dialog" >}}
+
+
+¿Buscas el registro de alumnos para la Olimpiada de Informática?
+
+{{< badge content="Registro de informática" color="blue" link="/2025/registro-informatica"  >}}
