@@ -17,6 +17,6 @@ Hay dos concursos principales:
 ### Contacto
 
 * **Delegación Estatal - Prof. Pedro David Sánchez Salazar**
-  * Facultad de Matemáticas. Oficina EB7.  
+  * Facultad de Matemáticas. Oficina EB7
   *  9423140, ext. 67102 ommyuc@gmail.com  pedro.sanchez@correo.uady.mx
   * Anillo Periférico Norte, Tablaje Cat. 13615, Colonia Chuburná Hidalgo Inn, Mérida Yucatán.
