@@ -27,8 +27,6 @@ El taller se organiza en 4 sesiones. En las primeras dos sesiones se trabajarán
 
 Las últimas dos sesiones están orientadas a técnicas para trabajar problemas de conteo (combinatoria) y de aritmética (divisibilidad).
 
-### Constancia de participación
-Para recibir la constancia de participación, es necesario acudir a las cuatro sesiones y enviar el portafolio de evidencia al final del taller.
 
 
 ### Informes
