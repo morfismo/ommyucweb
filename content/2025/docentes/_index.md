@@ -31,14 +31,6 @@ Las últimas dos sesiones están orientadas a técnicas para trabajar problemas 
 Para recibir la constancia de participación, es necesario acudir a las cuatro sesiones y enviar el portafolio de evidencia al final del taller.
 
 
-### Inscripción
-
-{{< callout type="info" >}}
-Debido a la limitación de espacios disponibles, se hará un pre-registro, y posteriormente, se enviará un correo con los detalles del lugar de aplicación del taller. El cupo disponible se asignará en el orden de llenado del formulario.
-
-* **El cupo de las sedes Mérida y Valladolid está completo. Sólo quedan espacios disponibles en Tekax** 
-* **[Formulario de pre-registro](https://docs.google.com/forms/d/e/1FAIpQLSeJyn9SlB0MWsCg3ng6sTHelUpOBvotmKZVHXGlx1mznFUPAw/viewform?usp=header)**
-{{< /callout >}}
 ### Informes
 
 **Prof. Pedro David Sánchez Salazar**
