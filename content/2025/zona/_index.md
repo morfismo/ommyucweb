@@ -6,9 +6,30 @@ sidebar:
   exclude: true
 ---
 
+
+
+
+
+
 ### Ingreso a registro
 
 {{< callout type="info" >}}
-En este momento el registro no está activo todavía
+Se registrarán hasta 3 concursantes de cada grado (aunque en caso de empate pueden añadirse adicionales), siempre y cuando no tengan puntuación cero, en los grados:
+
+* 4º de primaria
+* 5º de primaria
+* 6º de primaria
+* 1º de secundaria
+* 2º de secundaria
+* 3º de secundaria
+
+En el formulario puede registrar hasta 6 alumnos de cada grado a la vez. De ser necesario, puede entrar nuevamente para añadir alumnos adicionales.
+
 {{< /callout >}}
 
+
+
+{{< hextra/hero-button text="Matemáticas - Primaria" link="https://docs.google.com/forms/d/e/1FAIpQLSdKKtwhjjsRsarIXKFlu-5YMwTbNyEZ5l2UUy1Ksxk-jPbhgA/viewform" >}}
+
+
+{{< hextra/hero-button text="Matemáticas - Secundaria" link="https://docs.google.com/forms/d/e/1FAIpQLScmflR7_nsunOIT9Xt1WJW4xZ9fgU2LiiJMQ9eEkC6VFEUBgg/viewform" >}}
