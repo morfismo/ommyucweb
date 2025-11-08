@@ -27,7 +27,7 @@ En el formulario puede registrar hasta 6 alumnos de cada grado a la vez. De ser 
 
 {{< /callout >}}
 
-
+### ENTRAR AL REGISTRO:
 
 {{< hextra/hero-button text="Matemáticas - Primaria" link="https://docs.google.com/forms/d/e/1FAIpQLSdKKtwhjjsRsarIXKFlu-5YMwTbNyEZ5l2UUy1Ksxk-jPbhgA/viewform" >}}
 
