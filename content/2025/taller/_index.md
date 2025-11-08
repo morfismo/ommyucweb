@@ -24,3 +24,5 @@ Para obtener la Constancia de Acreditación de la DGFCDD
 2. Enviar el documento de portafolio, mencionado en la cuarta sesión
 
 ** Al correo ommyuc@gmail.com con el encabezado de correo "TALLER OMM: nombre del profesor"
+
+3. Registrarse en la plataforma de Formación Continua https://formacioncontinua.segey.gob.mx/  cuando se abra el registro
