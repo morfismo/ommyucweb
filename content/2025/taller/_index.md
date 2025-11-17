@@ -4,7 +4,7 @@ draft = false
 title = 'Taller de resolución de problemas'
 +++
 
-{< callout type="warning" >}}
+{{< callout type="warning" >}}
   Ya se hizo la solicitud para poder completar el registro de inscripción, sin embargo, el proceso de apertura en la plataforma de Formación Continua es un poco más lento de lo que habíamos considerado, por lo que estamos aún a la espera. Apenas tengamos la información, se enviarán los recordatorios y se podrá completar el proceso.
 {{< /callout >}}
 
@@ -27,6 +27,6 @@ Para obtener la Constancia de Acreditación de la DGFCDD
 
 2. Enviar el portafolio de evidencias
 * {{< hextra/hero-button text="Descargar formato" link="portafolio-de-evidencias.docx" >}}
-* {{< hextra/hero-button text="Enviar portafolio" link="" >}}
+* {{< hextra/hero-button text="Enviar portafolio" link="sd" >}}
 
 2. Registrarse en la plataforma de Formación Continua https://formacioncontinua.segey.gob.mx/  cuando se abra el registro
