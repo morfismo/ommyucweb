@@ -19,7 +19,7 @@ Para obtener la Constancia de Acreditación de la DGFCDD
 
 **2. Enviar el portafolio de evidencias**
 * {{< hextra/hero-button text="Descargar formato" link="portafolio-de-evidencias.docx" >}}
-* {{< hextra/hero-button text="Enviar portafolio" link="sd" >}}
+* {{< hextra/hero-button text="Enviar portafolio" link="https://docs.google.com/forms/d/e/1FAIpQLSfJtIOFTD40D0Z-UjDk8U7NWeJ9m3KrIymKpfMmUy5o5BCMWA/viewform?usp=publish-editor" >}}
 
 **3. Registrarse en la plataforma de Formación Continua**
 * Enlace pendiente
