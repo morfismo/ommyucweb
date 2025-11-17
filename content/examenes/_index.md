@@ -6,6 +6,18 @@ title = 'Exámenes de años recientes'
 
 Nota: En el [ canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc) puedes revisar varias soluciones detalladas.
 
+## 2025-2026
+
+* {{< badge color="blue" link="2025-10-PRIMARIA-ESCUELA-2025-2026.pdf"  content="Primaria 2025-2026 - Etapa Escuela " icon="document-text" >}}
+
+* {{< badge color="blue" link="2025-10-SECUNDARIA-ESCUELA-2025-2026.pdf"  content="Secundaria 2025-2026 - Etapa Escuela " icon="document-text" >}}
+
+* {{< badge color="blue" link="2025-11-PRIMARIA-ZONA-2025-2026.pdf"  content="Primaria 2025-2026 - Etapa Zona" icon="document-text" >}}
+
+* {{< badge color="blue" link="2025-11-SECUNDARIA-ZONA-2025-2026.pdf"  content="Secundaria 2025-2026 - Etapa Zona" icon="document-text" >}}
+
+
+
 ##  Primaria
 
 * {{< badge color="blue" link="2020-01-OMMYUC-PRIMARIA-ESCUELA.pdf"  content="Primaria 2020 - Etapa Escuela " icon="document-text" >}}

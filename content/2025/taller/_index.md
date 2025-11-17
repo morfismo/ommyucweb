@@ -14,12 +14,15 @@ title = 'Taller de resolución de problemas'
 Para obtener la Constancia de Acreditación de la DGFCDD
 
 **1. Completar la encuesta de valoración**
-
 * {{< hextra/hero-button text="Encuesta de valoración" link="https://docs.google.com/forms/d/e/1FAIpQLSeOotRCKwf68pr2E6bG2DtfFdTyLi1yInu1x5QTuHqQZyUluQ/viewform" >}}
+
+* Recuerda que en "Instancia Formadora" corresponde *"Universidad Autónoma de Yucatán"*
+* En el nombre de la acción corresponde *"Taller de Resolución de problemas para competencias estatales de matemáticas"*
 
 **2. Enviar el portafolio de evidencias**
 * {{< hextra/hero-button text="Descargar formato" link="portafolio-de-evidencias.docx" >}}
 * {{< hextra/hero-button text="Enviar portafolio" link="https://docs.google.com/forms/d/e/1FAIpQLSfJtIOFTD40D0Z-UjDk8U7NWeJ9m3KrIymKpfMmUy5o5BCMWA/viewform?usp=publish-editor" >}}
+* Los exámenes se pueden acceder en el enlace que está en la parte superior de esta página.
 
 **3. Registrarse en la plataforma de Formación Continua**
 * Enlace pendiente
