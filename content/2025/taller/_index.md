@@ -22,6 +22,11 @@ title = 'Taller de resolución de problemas'
 
 Para obtener la Constancia de Acreditación de la DGFCDD
 
-1. [Completar la encuesta de valoración](https://docs.google.com/forms/d/e/1FAIpQLSeOotRCKwf68pr2E6bG2DtfFdTyLi1yInu1x5QTuHqQZyUluQ/viewform) 
+1. **Completar la encuesta de valoración**
+{{< hextra/hero-button text="Encuesta de valoración" link="https://docs.google.com/forms/d/e/1FAIpQLSeOotRCKwf68pr2E6bG2DtfFdTyLi1yInu1x5QTuHqQZyUluQ/viewform" >}}
+
+2. Enviar el portafolio de evidencias
+* {{< hextra/hero-button text="Descargar formato" link="portafolio-de-evidencias.docx" >}}
+* {{< hextra/hero-button text="Enviar portafolio" link="" >}}
 
 2. Registrarse en la plataforma de Formación Continua https://formacioncontinua.segey.gob.mx/  cuando se abra el registro
