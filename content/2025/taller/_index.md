@@ -5,7 +5,7 @@ title = 'Taller de resolución de problemas'
 +++
 
 {{< callout type="warning" >}}
-  Ya se hizo la solicitud para poder completar el registro de inscripción, sin embargo, el proceso de apertura en la plataforma de Formación Continua es un poco más lento de lo que habíamos considerado, por lo que estamos aún a la espera. Apenas tengamos la información, se enviarán los recordatorios y se podrá completar el proceso.
+  La plataforma de Formación Continua estará abierta desde el miércoles 19 de noviembre y por el resto de la semana. Cuando esté abierta, se pondrá el enlace en esta página para su acceso
 {{< /callout >}}
 
 
