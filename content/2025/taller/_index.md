@@ -4,11 +4,6 @@ draft = false
 title = 'Taller de resolución de problemas'
 +++
 
-{{< callout type="warning" >}}
-  La plataforma de Formación Continua estará abierta desde el miércoles 19 de noviembre y por el resto de la semana. Cuando esté abierta, se pondrá el enlace en esta página para su acceso
-{{< /callout >}}
-
-
 ## Procedimiento para la obtención de la constancia de las acciones de formación estatal
 
 Para obtener la Constancia de Acreditación de la DGFCDD
@@ -25,8 +20,8 @@ Para obtener la Constancia de Acreditación de la DGFCDD
 * Los exámenes se pueden acceder en el enlace que está en la parte superior de esta página.
 
 **3. Registrarse en la plataforma de Formación Continua**
-* Enlace pendiente
-
+* {{< hextra/hero-button text="Registro (acción 803)" link="https://formacioncontinua.segey.gob.mx/Inicio/OfertaFormativa/803" >}}
+ 
 
 ##  Material de la tercera sesión del taller
 
