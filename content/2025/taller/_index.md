@@ -4,9 +4,9 @@ draft = false
 title = 'Taller de resolución de problemas'
 +++
 
-## Procedimiento para la obtención de la constancia de las acciones de formación estatal
+## Procedimiento de registro
 
-Para obtener la Constancia de Acreditación de la DGFCDD
+Para obtener la Constancia de Acreditación 
 
 **1. Completar la encuesta de valoración**
 * {{< hextra/hero-button text="Encuesta de valoración" link="https://docs.google.com/forms/d/e/1FAIpQLSeOotRCKwf68pr2E6bG2DtfFdTyLi1yInu1x5QTuHqQZyUluQ/viewform" >}}
