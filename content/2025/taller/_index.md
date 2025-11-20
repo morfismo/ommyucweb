@@ -12,7 +12,7 @@ Para obtener la Constancia de Acreditación
 * {{< hextra/hero-button text="Encuesta de valoración" link="https://docs.google.com/forms/d/e/1FAIpQLSeOotRCKwf68pr2E6bG2DtfFdTyLi1yInu1x5QTuHqQZyUluQ/viewform" >}}
 
 * Recuerda que en "Instancia Formadora" corresponde *"Universidad Autónoma de Yucatán"*
-* En el nombre de la acción corresponde *"Taller de Resolución de problemas para competencias estatales de matemáticas"*
+* En el nombre de la acción corresponde *"Resolución de problemas para competencias estatales de matemáticas"*
 
 **2. Enviar el portafolio de evidencias**
 * {{< hextra/hero-button text="Descargar formato" link="portafolio-de-evidencias.docx" >}}
