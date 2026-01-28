@@ -13,7 +13,7 @@ La Olimpiada de Matemáticas es un programa anual para promover la difusión y e
 En Yucatán se realizan anualmente dos procesos selectivos, orientados a 2 concursos nacionales distintos.
 
 {{< callout type="info" >}}
-**Olimpiada de Matemáticas para Educación Básica**
+**Olimpiada Mexicana de Matemáticas para Educación Básica**
 
 Este proceso de selección es específico para alumnos desde **4º de primaria hasta 3º de secundaria**. Se realiza cada año en cooperación con la Secretaría de Educación. 
 {{< /callout >}}

@@ -17,8 +17,8 @@ menu:
     - name: Exámenes previos
       pageRef: /examenes
       weight: 2
-    - name: Taller
-      pageRef: /2025/taller
+    - name: Resultados Etapa Región
+      pageRef: /2026/region
       weight: 3
     - name: Search
       weight: 4
