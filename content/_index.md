@@ -2,7 +2,7 @@
 date: '2025-10-01T21:33:20-06:00'
 draft: false
 title: 'Olimpiada Mexicana de Matemáticas en Yucatán'
-toc: false
+toc: true
 ---
 
 
