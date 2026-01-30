@@ -18,9 +18,9 @@ menu:
       pageRef: /2026/region
       weight: 2
     - name: Estatal con Bachillerato
-      pageRef: /2026/ommyuc
+      pageRef: /2026/cnp
       weight: 2
-    - name: Search
+    - name: Búsqueda
       weight: 4
       params:
         type: search
