@@ -1,5 +1,5 @@
 ---
-title : 'Resutlados etapa 3'
+title : 'Resultados etapa 3'
 date : 2026-01-26T14:43:36-06:00
 draft : false
 ---
