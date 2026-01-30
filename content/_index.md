@@ -6,7 +6,7 @@ toc: true
 ---
 
 {{< cards >}}
-  {{< card link="2026/cnp" title="Convocatoria 2026" image="2026/cnp/banner-cnp.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="2026/cnp" title="Concurso Estatal Preuniversitario 2026" image="2026/cnp/banner-cnp.png" subtitle="Concurso para bachillerato y secundaria" >}}
   {{< card link="2026/region" image="2026/region/banner-region.png" title="Resultados de la etapa 3 (región)" subtitle="Proceso selectivo de primaria y secundaria" >}}
 {{< /cards >}}
 
