@@ -7,7 +7,7 @@ toc: true
 
 
 {{< cards >}}
-  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026 (detalles debajo)" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
 {{< /cards >}}
 
 ## Concurso Preuniversitario (mixto) 2026
@@ -38,10 +38,9 @@ Se invitarán como mínimo 250 alumnos con las mejores puntuaciones a la segunda
 
 ### Etapa presencial - 21 de marzo
 
-El día 21 de marzo, en la Facultad de Matemáticas, se aplicará una prueba presencial en horario de 9:00 a 13:30 horas.
+El día 21 de marzo, en la Facultad de Matemáticas, se aplicará una prueba presencial en horario de 9:00 a 13:30 horas. En esta etapa, es necesario presentar una constancia escolar que indique su centro escolar y grado al que pertenece.
+
 
 Los 20 mejores alumnos de la segunda etapa serán considerados los ganadores de la Olimpiada Estatal de Matemáticas 2026 y recibirán una invitación a participar en un programa de entrenamiento con el que se integran las delegaciones para los concursos nacionales correspondientes.
-
-En esta etapa, es necesario presentar una constancia escolar que indique su centro escolar y grado al que pertenece.
 
 {{% /steps %}}

@@ -7,8 +7,8 @@ toc: true
 
 
 {{< cards >}}
-  {{< card link="2026/cnp/convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="2026/cnp/convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
-  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="2026/cnp" title="Convocatoria 2026" image="2026/cnp/convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="convocatoria-poster-2026.pdf" title="Resultados de la etapa 3 (región)" subtitle="Proceso selectivo de primaria y secundaria" >}}
 {{< /cards >}}
 
 ## La Olimpiada de Matemáticas
