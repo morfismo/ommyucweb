@@ -7,7 +7,7 @@ toc: true
 
 
 {{< cards >}}
-  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026 (detalles debajo)" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026 (enlace PDF)" image="banner-cnp.png" subtitle="Concurso preuniversitario 2026" >}}
 {{< /cards >}}
 
 ## Concurso Preuniversitario (mixto) 2026
