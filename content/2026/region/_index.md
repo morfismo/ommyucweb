@@ -293,3 +293,6 @@ La sesión de entrenamiento está programada en las fechas:
 
 * **Secundaria: Sábado 7 de febrero**
 * **Primaria: Sábado 21 de febrero**
+
+En la sede de Mérida, el horario es de 9:00 a 12:00, mientras que en las sedes del interior del estado, el horario es de 10:00 a 13:00.
+

@@ -11,15 +11,15 @@ module:
 
 menu:
   main:
-    - name: Información
-      pageRef: /info
-      weight: 1
     - name: Exámenes previos
       pageRef: /examenes
-      weight: 2
+      weight: 1
     - name: Resultados Etapa Región
       pageRef: /2026/region
-      weight: 3
+      weight: 2
+    - name: Estatal con Bachillerato
+      pageRef: /2026/ommyuc
+      weight: 2
     - name: Search
       weight: 4
       params:
