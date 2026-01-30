@@ -7,9 +7,7 @@ toc: true
 
 
 {{< cards >}}
-  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario" >}}
-  {{< card link="/" title="Local Image" image="/images/card-image-unprocessed.jpg" subtitle="Raw image under static directory." >}}
-  {{< card link="/" title="Local Image" image="images/space.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
 {{< /cards >}}
 
 ## Concurso Preuniversitario (mixto) 2026

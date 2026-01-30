@@ -6,6 +6,11 @@ toc: true
 ---
 
 
+{{< cards >}}
+  {{< card link="2026/cnp/convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="2026/cnp/convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+  {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026" image="convocatoria-poster-2026.png" subtitle="Concurso preuniversitario 2026" >}}
+{{< /cards >}}
+
 ## La Olimpiada de Matemáticas
 
 La Olimpiada de Matemáticas es un programa de difusión y promoción del estudio de las matemáticas desde un punto de vista creativo y razonado.
