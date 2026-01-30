@@ -19,7 +19,7 @@ Los alumnos de secundaria están invitados a una sesión de entrenamiento el dí
 | PRIMARIA | PRIMARIA | PRIMARIA |
 | :--------------------------------- | :---------------------------------- | :---------------------------------------- |
 | ABIEL ABIEZER HAU CAUICH          | ELAINE ISELA CHANCHEZ CHAN         | LIZBETH ROSARIO BALAM AKE                |
-| ABNER ADAIR DIAZ MANRIQUE         | ELEAZAR ISRAEL CANUL PECH          | LUCA ALBA TARANGO                        |
+| ABNER ADAIR DIAZ MANRIQUE         | ELEAZAR ISRAEL CANUL PECH          | LUCAS ALBA TARANGO                        |
 | ADIEL ALEXANDER MAY COCOM         | ELIAS JAVIER NOH SANCHEZ           | LUIS ARMANDO CEN AY                      |
 | ADIEL ALONSO BALAM LEON           | ELIZABETH ABIGAIL PISTE DZUL       | LUIS ARMANDO DURAN PISTE                 |
 | ADIEL ELIONAHI MADERA MAY         | ELIZABETH POOL CETZAL              | LUIS EDUARDO CHULIM AGUILAR              |
