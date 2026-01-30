@@ -21,7 +21,7 @@ A diferencia de dicho proceso, este no está separado por grado y nivel educativ
 ### Descripción del proceso
 Este año el proceso estatal de la Olimpiada matemáticas para este nivel se va a realizar en dos etapas: una abierta en línea, y una presencial con invitación.
 
-{% steps %}}
+{{% steps %}}
 
 ### Etapa abierta - 21 de febrero
 
