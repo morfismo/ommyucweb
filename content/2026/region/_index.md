@@ -6,7 +6,7 @@ draft : false
 
 ## Alumnos seleccionados en la Etapa 3 (Región)
 
-A continuación se presenta el listado de alumnos seleeccionados en el examen del 4 de diciembre de 2025 (etapa 3) y que presentarán el examen etapa 4 de forma presencial en la Facultad de Matemáticas el **14 de marzo de 2026**. El examen inicia a las 10:00 y tiene una duración de 2 horas.
+A continuación se presenta el listado de alumnos seleeccionados en el examen del 4 de diciembre de 2025 (etapa 3) y que presentarán **el examen etapa 4 de forma presencial en la Facultad de Matemáticas el 14 de marzo de 2026**. El examen inicia a las 10:00 y tiene una duración de 2 horas.
 
 Todos los alumnos están invitados a una sesión de entrenamiento (opcional, no es necesario para presentar la última etapa). Los detalles se encuentran al final de esta página.
 
