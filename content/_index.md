@@ -5,10 +5,9 @@ title: 'Olimpiada Mexicana de Matemáticas en Yucatán'
 toc: true
 ---
 
-
 {{< cards >}}
   {{< card link="2026/cnp" title="Convocatoria 2026" image="2026/cnp/banner-cnp.png" subtitle="Concurso preuniversitario 2026" >}}
-  {{< card link="2026/region" image="2026/region/banner-region.png"  title="Resultados de la etapa 3 (región)" subtitle="Proceso selectivo de primaria y secundaria" >}}
+  {{< card link="2026/region" image="2026/region/banner-region.png" title="Resultados de la etapa 3 (región)" subtitle="Proceso selectivo de primaria y secundaria" >}}
 {{< /cards >}}
 
 ## La Olimpiada de Matemáticas
@@ -17,7 +16,7 @@ La Olimpiada de Matemáticas es un programa de difusión y promoción del estudi
 
 ## Procesos selectivos
 
-En Yucatán se realizan anualmente dos procesos selectivos, orientados a 2 concursos nacionales distintos.
+En Yucatán se realizan anualmente dos procesos selectivos, orientados a 2 concursos nacionales distintos. 
 
 {{< callout type="info" >}}
 **Olimpiada de Matemáticas para Educación Básica**
