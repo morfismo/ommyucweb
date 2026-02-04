@@ -14,7 +14,7 @@ Todos los alumnos están invitados a una sesión de entrenamiento (opcional, no 
 ### Alumnos de Primaria
 
 
-Los alumnos de secundaria están invitados a una sesión de entrenamiento el día 7 de febrero (no es obligatorio). Más informes al final de la página
+Los alumnos de secundaria están invitados a una sesión de entrenamiento el día 21 de febrero (no es obligatorio). Más informes al final de la página
 
 | PRIMARIA | PRIMARIA | PRIMARIA |
 | :--------------------------------- | :---------------------------------- | :---------------------------------------- |
@@ -165,7 +165,7 @@ Los alumnos de secundaria están invitados a una sesión de entrenamiento el dí
 | ANA SOFIA VALENZUELA AGUILAR     | FERNANDO VIDAL CARDENAS            | MAYA DANIELLE MAGAÑA EK             |
 | ANAELY MONSERRAT FERNANDEZ DZUL  | FRANCO EMMANUEL AKE UITZ           | MEGAN CAROLINA MEDINA FLORENCIA     |
 | ANAELY NOEMÍ HERRERA DZUL        | FREDD JOEL EMMANUEL GOMEZ REYES    | MELANI DANAI KOYOC CANCHE           |
-| ANDRE EMMANUEL KU EK             | GABRIEL FRANCISCO UITZ UCAN        | MELANI MONSERRAT POOT KU            |
+| ANDRE EMANUEL KU EK             | GABRIEL FRANCISCO UITZ UCAN        | MELANI MONSERRAT POOT KU            |
 | ANDREA ISABEL CHAN TUT           | GABRIEL GONZALEZ CEN               | MELANY DIANELY CAB TZEC             |
 | ANDREA MARGARITA URIBE CAAMAL    | GALILEA VALENTINA CHAY CANUL       | MELANY SARAHI JIMENEZ PEREZ         |
 | ANDREI DAMIAN MUKUL SALAS        | GALVAN DE LA ROSA VIANA YAMILET    | MELINA YAZMIN ARJONA ORTIZ          |
