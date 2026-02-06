@@ -14,7 +14,7 @@ Todos los alumnos están invitados a una sesión de entrenamiento (opcional, no 
 ### Alumnos de Primaria
 
 
-Los alumnos de secundaria están invitados a una sesión de entrenamiento el día 21 de febrero (no es obligatorio). Más informes al final de la página
+Los alumnos de primaria invitados a una sesión de entrenamiento el día 21 de febrero (no es obligatorio). Más informes al final de la página
 
 | PRIMARIA | PRIMARIA | PRIMARIA |
 | :--------------------------------- | :---------------------------------- | :---------------------------------------- |
