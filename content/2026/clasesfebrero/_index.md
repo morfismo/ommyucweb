@@ -8,4 +8,7 @@ draft : false
 
 Se adjunta la lista de problemas que se usaron junto con sus respuestas.
 
+* {{< badge color="blue" link="Material-SesionFebrero-Secundaria.pdf"  content="Descargar PDF" icon="document-text" >}}
+
+
 {{< pdf "Material-SesionFebrero-Secundaria.pdf" >}}
