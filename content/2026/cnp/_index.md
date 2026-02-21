@@ -5,9 +5,9 @@ draft : false
 toc: true
 ---
 
+
 ## Acceso al concurso estatal preuniversitario 2026
 
-El enlace estará activo a partir de las 10:00 y hasta las 12:00 
+El enlace estará activo a partir del 21 de febrero desde las 10:00 y hasta las 12:00 
 
 [enlace inactivo]
-
