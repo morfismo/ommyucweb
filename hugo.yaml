@@ -17,7 +17,7 @@ menu:
     - name: Resultados Etapa Región
       pageRef: /2026/region
       weight: 2
-    - name: Estatal con Bachillerato
+    - name: Concurso preuniversitario
       pageRef: /2026/cnp
       weight: 2
     - name: Búsqueda
