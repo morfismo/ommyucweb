@@ -5,6 +5,9 @@ title: 'Olimpiada Mexicana de Matemáticas en Yucatán'
 toc: true
 ---
 
+## Material de los entrenamientos del 7 y 21 de febrero
+
+ * {{< hextra/hero-button text="Problemas" link="2026/clasesfebrero/" >}}
 
 ## La Olimpiada de Matemáticas
 
