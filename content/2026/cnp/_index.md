@@ -4,12 +4,6 @@ date : 2026-01-26T14:43:36-06:00
 draft : false
 toc: true
 ---
----
-title : 'Concurso Estatal Preuniversitario 2026'
-date : 2026-01-26T14:43:36-06:00
-draft : false
-toc: true
----
 
 
 {{< cards >}}
