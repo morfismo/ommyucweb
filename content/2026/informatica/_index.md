@@ -9,5 +9,7 @@ toc: false
 ## Acceso al concurso estatal preuniversitario 2026
 Alumnos del entrenamiento de informática
 
+Aunque el examen dice que se cierra a las 12:00, el horario para ustedes es hasta las 15:00
+
 * {{< hextra/hero-button text="Descarga del examen" link="" >}}
 * {{< hextra/hero-button text="Registro de tus respuestas (hasta las 15:00)" link="" >}}
