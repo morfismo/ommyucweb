@@ -10,4 +10,4 @@ toc: true
 El enlace estará activo a partir del 21 de febrero desde las 10:00 
 
 * {{< hextra/hero-button text="Descarga del examen" link=""  >}}
-* {{< hextra/hero-button text="Registro de tus respuestas (límite: 12:00)" link="" >}}
+* {{< hextra/hero-button text="Registro de tus respuestas (límite: 12:00)" link="https://docs.google.com/forms/d/e/1FAIpQLSdG0rpNtFcWYVWD2H0CwHl5LjMyMuVJqZ61hyti4Ow_Te48uA/viewform?usp=dialog" >}}
