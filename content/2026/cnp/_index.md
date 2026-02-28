@@ -10,6 +10,7 @@ toc: true
 ## Alumnos invitados a la ronda presencial
 
 A continuación se presenta el listado de alumnos invitados a la segunda ronda del Concurso Preuniversitario, que se realizará **de forma presencial en la Facultad de Matemáticas el 21 de marzo de 2026** en horario de 9:00 a 13:00.
+Es importante recordar que para poder presentar la seguna prueba, los alumnos **deberán presentar una constancia escolar que indique su nombre, grado y escuela** al momento de iniciar la prueba.
 
 
 | ALUMNO | ALUMNO | ALUMNO |
