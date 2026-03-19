@@ -13,6 +13,8 @@ La ronda presencial se llevará a cabo el **21 de marzo de 2026** en la Facultad
 * La duración del examen es de 4:30 horas, traer lápiz y borrador. Si lo desean, pueden introducir bebidas y refrigerios al examen.
 * No podrás hacer uso de calculadoras, celulares o dispositivos electrónicos durante el examen (deberás apagar tu celular).
 
+Al final de esta página encontrarás algunas recomendaciones adicionales.
+
 ## Asignación de salones
 
 | **SALÓN D1**                         | **SALÓN D1**                         |   **SALÓN D1**               |
