@@ -5,107 +5,130 @@ draft : false
 toc: true
 ---
 
+## Ronda presencial
+
+La ronda presencial se llevará a cabo el **21 de marzo de 2026** en la Facultad de Matemáticas de la UADY.
+* Traer una constancia escolar que indique su nombre, grado y escuela (no requiere foto).
+* El examen inicia a las 9:00, por lo que deben presentarse al menos media hora antes.
+* La duración del examen es de 4:30 horas, traer lápiz y borrador. Si lo desean, pueden introducir bebidas y refrigerios al examen.
+
+| **SALÓN D1**                         | **SALÓN D1**                         |   **SALÓN D1**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Abril Belizama Sanodoval Torrez      | Andrea Ornelas García               | Ararat De Jesús Canché Martínez    |
+| Adriel Francisco Lizarraga Gomez     | Andrik Rodrigo Chan Dzul            | Ariana Isabella Canul Noh          |
+| Alberto Alejandro Pech Can           | Angel Alexis Ku Yah                 | Arisofía Centeno Navarrete         |
+| Alejandra Elizabeth Gonzalez Marfil  | Angel Gabriel Lope Kauil            | Ashley Geraldine Pérez Paredes     |
+| Alejandro Canul Cocom                | Angel Lizarraga Manzanilla          | Axel David Cruz Acosta             |
+| Alihanna Karo Bautista               | Angel Yurem Yam Canche              | Aylin Guadalupe López Pool         |
+| Alonso Rafael Noh Aguilar            | Angela Taysha Ramírez Díaz          | Benjamín Cadavieco González        |
+| Ana Paola Olivas Montañez            | Angie Zurisadai Pool Góngora        | Betsaida Analy Cauich Madera       |
+| Ana Sofía Valenzuela Aguilar         | Anibal Emiliano Lavadores Vázquez   | Brandon Misael Angulo Valencia     |
+| Andrea Esther Castillo Canul         | Araceli Caamal Pech                 | Brissia Aruzemy Diaz Barrera       |
 
 
-## Alumnos invitados a la ronda presencial
+| **SALÓN D2**                         | **SALÓN D2**                         |   **SALÓN D2**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Brissia Isabel Garcia Espinosa       | Carlos Emmanuel Sosa Chunab         | Claudett Mareli Castro Tec         |
+| Briza Dianela May Can                | Carlos Fernando Yah Medina          | Cristel Del Pilar Pimentel Reyes   |
+| Bruno De Jesus Solis Tino            | Carlos Gabriel Patrón Mata          | Daira Camila Pool Tuz              |
+| Bryan Isaac Perez Lizama             | Carlos Jesús Doroteo Nuñez Puc      | Damaris Isabela Gonzalez Canto     |
+| Camila Arista Favela                 | Celeste Emire Rios Barrera          | Dana Karen Medina González         |
+| Camila Joselyn Barragán Cetina       | Cesar Camara Tamay                  | Dana Paola Noh Rojas               |
+| Camila Nic Pacho                     | Chim Chan                           | Daniel Santiago Perera Acosta      |
+| Camila Valentina Domínguez González  | Christopher Kenai Ramírez Jiménez   | Daniela Mishelle Rodríguez Guzmán  |
+| Carlos Alfonso Gutiérrez Hernández   | Christopher Rafael Rodríguez Moguel | Danna Giomara Pool Gómez           |
+| Carlos Daniel Caamal Fernández       | Cindy Guadalupe Chan Dzul           | Darryl Elian Aguilar Ceballos      |
 
-A continuación se presenta el listado de alumnos invitados a la segunda ronda del Concurso Preuniversitario, que se realizará **de forma presencial en la Facultad de Matemáticas el 21 de marzo de 2026** en horario de 9:00 a 13:00.
-Es importante recordar que para poder presentar la seguna prueba, los alumnos **deberán presentar una constancia escolar que indique su nombre, grado y escuela** al momento de iniciar la prueba.
+| **SALÓN D3**                         | **SALÓN D3**                         |   **SALÓN D3**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| David Alejandro Ayala Barahona       | Elizabeth Guadalupe Vera Tamay      | Estefany Yaretzy Santos Chuc       |
+| David Alejandro Puc Pinzón           | Elmer Jonathan Yah Ku               | Evan Antonio Fuentes Gálvez        |
+| David Andres Ruz González            | Emiliano Cruces Ramírez             | Evan Matías Caballero Campos       |
+| Denis Eduardo Hernández Cab          | Emiliano Serrano Magaña             | Evanelly Jesabel Rivera Ortega     |
+| Diego Darío Jiménez Noh              | Emmanuel Chan Alejo                 | Fernando Antonio Kú Canché         |
+| Diego Fernando Chel Cauich           | Enrique Alexander Cazares Godínez   | Francis Janeth Domínguez Noh       |
+| Diego Rosado Ramirez                 | Erik Gabriel López Ambrocio         | Francisco Javier Lara Rubio        |
+| Einar David Balam Tamayo             | Erik Norberto Ramirez Kantun        | Gadiel Obed Puc Pacheco            |
+| Eli Benjamin Mirafuentes Chuc        | Erika Joaiyely Garma Basto          | Gael Alejandro Tee Canche          |
+| Eliezer Isaac Hernández Miam         | Ernesto Erasmo Piña                 | Gerardo Sosa Lugo                  |
 
+| **SALÓN D4**                         | **SALÓN D4**                         |   **SALÓN D4**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Gerson Israel Sosa Arias             | Hugo Barrera Ayala                  | Jaffeth Alberto Tuz Gómez          |
+| Gloria Mayte Ku Argaez               | Hugo Enrique González Camargo       | Jaime Fernando Chan Chi            |
+| Gloria Vianney Hau Huchim            | Ian Efraín Cauich Canul             | Jaquelyn Aymar Rafful Pech         |
+| Grecia Beatriz Iuit Canche           | Idaly Beatriz Pat Ham               | Jason Daniel Evia Lizama           |
+| Grecia Gabrielle Trejo Ramírez       | Ingrid Betzabe Sánchez Baas         | Javier Cuevas Martín               |
+| Guadalupe Isabel Arjona Góngora      | Isaac Francisco Gutiérrez López     | Javier Jamil Canul Arvez           |
+| Héctor Daniel Grajales García        | Ismael Coot Cruz                    | Jefrey Edrei Ku Cab                |
+| Héctor Vázquez Parissi               | Ivan Alexander Cortes Catzin        | Jessica Anahi Hau Couoh            |
+| Heidy Valeria Ojeda Castillo         | Jaasiel Abimael Canul Tzuc          | Jesús Antonio Alvarado Pablo       |
+| Hillary Sarai Beltrán Canul          | Jabes Aaron Xool Aguilar            | Jesús Euberto Díaz Rivero          |
 
-| ALUMNO | ALUMNO | ALUMNO |
-| :--------------------------------- | :---------------------------------- | :---------------------------------------- |
-| Abril Belizama Sanodoval Torrez     | Gerson Israel Sosa Arias           | Mariana Berenice Cervantes Fernandez |
-| Adriel Francisco Lizarraga Gomez    | Gloria Mayte Ku Argaez             | Mariana Cristal Gonzalez             |
-| Alberto Alejandro Pech Can          | Gloria Vianney Hau Huchim          | Maríana Guadalupe Aguilar Cámara     |
-| Alejandra Elizabeth Gonzalez Marfil | Grecia Beatriz Iuit Canche         | Marie Dayane Lope Villanueva         |
-| Alejandro Canul Cocom               | Grecia Gabrielle Trejo Ramírez     | Martha Juliett Villalobos Yam        |
-| Alihanna Karo Bautista              | Guadalupe Isabel Arjona Góngora    | Mauricio Tepal Tepal                 |
-| Alonso Rafael Noh Aguilar           | Héctor Daniel Grajales García      | Mauro Visconti Zermeno               |
-| Ana Paola Olivas Montañez           | Héctor Vázquez Parissi             | Mayra Esthefani Zapata Poot          |
-| Ana Sofía Valenzuela Aguilar        | Heidy Valeria Ojeda Castillo       | Melany Natasha Uc Cetzal             |
-| Andrea Esther Castillo Canul        | Hillary Sarai Beltrán Canul        | Melisa Guadalupe Cauich Tun          |
-| Andrea Ornelas García               | Hugo Barrera Ayala                 | Merly Guadalupe Och Solis            |
-| Andrik Rodrigo Chan Dzul            | Hugo Enrique González Camargo      | Mía Elizabeth Uh Chuc                |
-| Angel Alexis Ku Yah                 | Ian Efraín Cauich Canul            | Miguel Ángel Castillo Bahena         |
-| Angel Gabriel Lope Kauil            | Idaly Beatriz Pat Ham              | Mónica Alejandra Vecino Ojeda        |
-| Angel Lizarraga Manzanilla          | Ingrid Betzabe Sánchez Baas        | Natalia Maureen Rodríguez Olivares   |
-| Angel Yurem Yam Canche              | Isaac Francisco Gutiérrez López    | Nathalia Isabella Soberanis Góngora  |
-| Angela Taysha Ramírez Díaz          | Ismael Coot Cruz                   | Nathaly Guadalupe Poot Canul         |
-| Angie Zurisadai Pool Góngora        | Ivan Alexander Cortes Catzin       | Nefertari Guadalupe Colín Solís      |
-| Anibal Emiliano Lavadores Vázquez   | Jaasiel Abimael Canul Tzuc         | Nellyf Humberto Canche Uc            |
-| Araceli Caamal Pech                 | Jabes Aaron Xool Aguilar           | Nephtali Guadalupe Pat Sanchez       |
-| Ararat De Jesús Canché Martínez     | Jaffeth Alberto Tuz Gómez          | Néstor Gabriel Negroe Chulim         |
-| Ariana Isabella Canul Noh           | Jaime Fernando Chan Chi            | Noemi Del Carmen Ciau Tuz            |
-| Arisofía Centeno Navarrete          | Jaquelyn Aymar Rafful Pech         | Oscar Daniel Verduzco Castro         |
-| Ashley Geraldine Pérez Paredes      | Jason Daniel Evia Lizama           | Paola Estefanía Quiñones Méndez      |
-| Axel David Cruz Acosta              | Javier Cuevas Martín               | Paola Gissely Ceme Balam             |
-| Aylin Guadalupe López Pool          | Javier Jamil Canul Arvez           | Paolo Rios Olaeta                    |
-| Benjamín Cadavieco González         | Jefrey Edrei Ku Cab                | Paula Valentina Vargas López         |
-| Betsaida Analy Cauich Madera        | Jessica Anahi Hau Couoh            | Perla Nahomi Alegría Tovar           |
-| Brandon Misael Angulo Valencia      | Jesús Antonio Alvarado Pablo       | Quetzali Del Carmen Alvarado Durán   |
-| Brissia Aruzemy Diaz Barrera        | Jesús Euberto Díaz Rivero          | Rafael Heredia Ordóñez               |
-| Brissia Isabel Garcia Espinosa      | Jesus Gabriel Ek Nah               | Raúl Elisandro Cab Osorio            |
-| Briza Dianela May Can               | Jesús Guillermo Canché Chan        | Rebecka Miranda Torres Carrillo      |
-| Bruno De Jesus Solis Tino           | Jimena Sarai Uuh Huchim            | Regina Anahí Castillo Rosado         |
-| Bryan Isaac Perez Lizama            | Joaquín Díaz Oramas                | Regina Fernanda Espejo Valdez        |
-| Camila Arista Favela                | Johan Javier Uc Herrera            | Renata Lau Cuevas                    |
-| Camila Joselyn Barragán Cetina      | Johan Paolo Castro Medina          | Renata Vázquez Barroso               |
-| Camila Nic Pacho                    | Johana Berenice Cocom Gonzalez     | Ricardo Jafet Cen Suaste             |
-| Camila Valentina Domínguez González | Jonathan Alejandro Gómez Suaste    | Ricardo Zavala Gijón                 |
-| Carlos Alfonso Gutiérrez Hernández  | Jonathan Ivan Ku Ku                | Roberto Fernando Colli Tosca         |
-| Carlos Daniel Caamal Fernández      | Jorge Alberto Kauil Tamay          | Rodolfo Fermín Ku Yah                |
-| Carlos Emmanuel Sosa Chunab         | Jorge Uriel Itzincab Puch          | Rodrigo Isaías Couoh Chalé           |
-| Carlos Fernando Yah Medina          | José Antonio Bernal Massa          | Rodrigo Yuren Chan Uc                |
-| Carlos Gabriel Patrón Mata          | Jose Arturo Chi Vega               | Roger Orlando Aguilar Vázquez        |
-| Carlos Jesús Doroteo Nuñez Puc      | José Axel Tapia Ku                 | Romina Vargas Ferraez                |
-| Celeste Emire Rios Barrera          | José Emilio Cutz Pérez             | Rommel Adán Méndez Díaz              |
-| Cesar Camara Tamay                  | José Gabriel Fernández Cortés      | Rosa Lilián Poot Cruz                |
-| Chim Chan                           | José Luis Cituk Cen                | Rosa Marina Chi Chuc                 |
-| Christopher Kenai Ramírez Jiménez   | Jose Manuel Ucan Gomez             | Rosario Yamira Yah Tapia             |
-| Christopher Rafael Rodríguez Moguel | José Miguel Salas Zoghbi           | Rubi Esmeralda Cob Huchin            |
-| Cindy Guadalupe Chan Dzul           | José Raymundo Caamal Ucan          | Said Emmanuel Tep Keb                |
-| Claudett Mareli Castro Tec          | Jose Santiago Chi Iuit             | Samuel Antonio Martín Pinzón         |
-| Cristel Del Pilar Pimentel Reyes    | Josselyn Monserrath Tah Tamayo     | Sarah Monserrat Bojórquez Romero     |
-| Daira Camila Pool Tuz               | Josue David Moo Caamal             | Sebastian Juan Ku                    |
-| Damaris Isabela Gonzalez Canto      | Josue Fernando Chacon Canul        | Sebastian Torres Medrano             |
-| Dana Karen Medina González          | Josué Manuel Chávez Lavadores      | Sergio Aguiar Almora                 |
-| Dana Paola Noh Rojas                | Julio Humberto Gómez Sandoval      | Sergio Ivan Gómez González           |
-| Daniel Santiago Perera Acosta       | Karina Gabriela Be Balam           | Shaira Rosselline Uitzil Nahuat      |
-| Daniela Mishelle Rodríguez Guzmán   | Karisma Esmeralda Alcoser Yah      | Sherlyn Arleth Kú Uc                 |
-| Danna Giomara Pool Gómez            | Karla Estefanía Nick Hilera        | Shyrley Monserrath Matú Huan         |
-| Darryl Elian Aguilar Ceballos       | Karla Guadalupe Martínez Noh       | Stephanie Saraí Arias Pacheco        |
-| David Alejandro Ayala Barahona      | Karla Noemi Choch Chi              | Ulises Jadai Briceño Torres          |
-| David Alejandro Puc Pinzón          | Keily Esmeralda Poot Uxul          | Valeria Gabigely García Ceme         |
-| David Andres Ruz González           | Keiry Sofía Bacelis Tamayo         | Valeria Higa Martínez                |
-| Denis Eduardo Hernández Cab         | Kevin Alexander Gutierrez Estrella | Valeria Naomi Rivero Alonzo          |
-| Diego Darío Jiménez Noh             | Kevin Zabdiel Martinez Briceño     | Verónica Itzel Melche García         |
-| Diego Fernando Chel Cauich          | Landy Gisel Herrera Caamal         | Vianey Adeline Erosa Tzeek           |
-| Diego Rosado Ramirez                | Leilani Berenice Basto Ciau        | Víctor Daniel Torres Poot            |
-| Einar David Balam Tamayo            | Leonardo Cruz Hernández            | Victor Gerardo Vázquez Basto         |
-| Eli Benjamin Mirafuentes Chuc       | Lizi Anet Sánchez Canché           | Víctor Julián Dzul Basto             |
-| Eliezer Isaac Hernández Miam        | Lizia González Contreras           | Victoria González Evia               |
-| Elizabeth Guadalupe Vera Tamay      | Luci Naomi Tuyu Castro             | Victoria Guadalupe Dibene Martinez   |
-| Elmer Jonathan Yah Ku               | Luis Manuel Martínez Villa         | Victoria Sarahi Manrrero Catzim      |
-| Emiliano Cruces Ramírez             | Luis Padilla Navarro               | Wendy Yaquelin Avilés Tzab           |
-| Emiliano Serrano Magaña             | Luna Silvana Sánchez Machay        | Xaire Marisol Montalvo Ek            |
-| Emmanuel Chan Alejo                 | Lynnet Paulina Chan Couoh          | Xavier Antonio Martínez Dzul         |
-| Enrique Alexander Cazares Godínez   | Manuel Emiliano Collí López        | Ximena De Jesus Pat Ferraez          |
-| Erik Gabriel López Ambrocio         | Manuel Enrique Rodríguez Nicolás   | Yael Alejandro Cruz Reaño            |
-| Erik Norberto Ramirez Kantun        | Manuel Patricio Varguez Dzul       | Yanai Betsabé Peraza Luna            |
-| Erika Joaiyely Garma Basto          | Manuel Ponce Contreras             | Yaneli Guadalupe Peraza Celis        |
-| Ernesto Erasmo Piña                 | Margely Belen Garcia Uc            | Yareli Balam Pool                    |
-| Estefany Yaretzy Santos Chuc        | Maria Elisa Martin Mendez          | Yareli Karen Santes Ya               |
-| Evan Antonio Fuentes Gálvez         | Maria Fernanda Pasos Benois        | Yarisol Xaire Montalvo Ek            |
-| Evan Matías Caballero Campos        | Maria Guadalupe Che Kuyoc          | Yenevy Stephany Caamal Ku            |
-| Evanelly Jesabel Rivera Ortega      | María Isabel Hernández Zetina      | Yoani Alelí Uicab Kancab             |
-| Fernando Antonio Kú Canché          | María Janice Echeverría Rodríguez  | Yojanan Emanuel Pech Couoh           |
-| Francis Janeth Domínguez Noh        | María Luisa García Alonzo          | Yoselin Fernanda Durán Comi          |
-| Francisco Javier Lara Rubio         | María Natalia Dzul Dzul            | Zaid Lucián Zaporta Gamboa           |
-| Gadiel Obed Puc Pacheco             | María Valentina Herrera Sánchez    | Zarco Argel Castillo Esquivel        |
-| Gael Alejandro Tee Canche           | Maria Valentina Torrez Caamal      | Zianya Arleth García Pérez           |
-| Gerardo Sosa Lugo                   | María Yoselín González Medina      | Zuleymy Margarita Contreras Tamay    |
+| **SALÓN H1**                         | **SALÓN H1**                         |   **SALÓN H1**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Jesus Gabriel Ek Nah                 | Jorge Uriel Itzincab Puch           | Jose Santiago Chi Iuit             |
+| Jesús Guillermo Canché Chan          | José Antonio Bernal Massa           | Josselyn Monserrath Tah Tamayo     |
+| Jimena Sarai Uuh Huchim              | Jose Arturo Chi Vega                | Josue David Moo Caamal             |
+| Joaquín Díaz Oramas                  | José Axel Tapia Ku                  | Josue Fernando Chacon Canul        |
+| Johan Javier Uc Herrera              | José Emilio Cutz Pérez              | Josué Manuel Chávez Lavadores      |
+| Johan Paolo Castro Medina            | José Gabriel Fernández Cortés       | Julio Humberto Gómez Sandoval      |
+| Johana Berenice Cocom Gonzalez       | José Luis Cituk Cen                 | Karina Gabriela Be Balam           |
+| Jonathan Alejandro Gómez Suaste      | Jose Manuel Ucan Gomez              | Karisma Esmeralda Alcoser Yah      |
+| Jonathan Ivan Ku Ku                  | José Miguel Salas Zoghbi            | Karla Estefanía Nick Hilera        |
+| Jorge Alberto Kauil Tamay            | José Raymundo Caamal Ucan           | Karla Guadalupe Martínez Noh       |
 
+| **SALÓN H2**                         | **SALÓN H2**                         |   **SALÓN H2**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Karla Noemi Choch Chi                | Luci Naomi Tuyu Castro              | Maria Elisa Martin Mendez          |
+| Keily Esmeralda Poot Uxul            | Luis Manuel Martínez Villa          | Maria Fernanda Pasos Benois        |
+| Keiry Sofía Bacelis Tamayo           | Luis Padilla Navarro                | Maria Guadalupe Che Kuyoc          |
+| Kevin Alexander Gutierrez Estrella   | Luna Silvana Sánchez Machay         | María Isabel Hernández Zetina      |
+| Kevin Zabdiel Martinez Briceño       | Lynnet Paulina Chan Couoh           | María Janice Echeverría Rodríguez  |
+| Landy Gisel Herrera Caamal           | Manuel Emiliano Collí López         | María Luisa García Alonzo          |
+| Leilani Berenice Basto Ciau          | Manuel Enrique Rodríguez Nicolás    | María Natalia Dzul Dzul            |
+| Leonardo Cruz Hernández              | Manuel Patricio Varguez Dzul        | María Valentina Herrera Sánchez    |
+| Lizi Anet Sánchez Canché             | Manuel Ponce Contreras              | Maria Valentina Torrez Caamal      |
+| Lizia González Contreras             | Margely Belen Garcia Uc             | María Yoselín González Medina      |
+
+| **SALÓN H3**                         | **SALÓN H3**                         |   **SALÓN H3**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Mariana Berenice Cervantes Fernandez | Merly Guadalupe Och Solis           | Néstor Gabriel Negroe Chulim       |
+| Mariana Cristal Gonzalez             | Mía Elizabeth Uh Chuc               | Noemi Del Carmen Ciau Tuz          |
+| Maríana Guadalupe Aguilar Cámara     | Miguel Ángel Castillo Bahena        | Oscar Daniel Verduzco Castro       |
+| Marie Dayane Lope Villanueva         | Mónica Alejandra Vecino Ojeda       | Paola Estefanía Quiñones Méndez    |
+| Martha Juliett Villalobos Yam        | Natalia Maureen Rodríguez Olivares  | Paola Gissely Ceme Balam           |
+| Mauricio Tepal Tepal                 | Nathalia Isabella Soberanis Góngora | Paolo Rios Olaeta                  |
+| Mauro Visconti Zermeno               | Nathaly Guadalupe Poot Canul        | Paula Valentina Vargas López       |
+| Mayra Esthefani Zapata Poot          | Nefertari Guadalupe Colín Solís     | Perla Nahomi Alegría Tovar         |
+| Melany Natasha Uc Cetzal             | Nellyf Humberto Canche Uc           | Quetzali Del Carmen Alvarado Durán |
+| Melisa Guadalupe Cauich Tun          | Nephtali Guadalupe Pat Sanchez      | Rafael Heredia Ordóñez             |
+
+| **SALÓN H4**                         | **SALÓN H4**                         |   **SALÓN H4**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Raúl Elisandro Cab Osorio            | Rodrigo Isaías Couoh Chalé          | Samuel Antonio Martín Pinzón       |
+| Rebecka Miranda Torres Carrillo      | Rodrigo Yuren Chan Uc               | Sarah Monserrat Bojórquez Romero   |
+| Regina Anahí Castillo Rosado         | Roger Orlando Aguilar Vázquez       | Sebastian Juan Ku                  |
+| Regina Fernanda Espejo Valdez        | Romina Vargas Ferraez               | Sebastian Torres Medrano           |
+| Renata Lau Cuevas                    | Rommel Adán Méndez Díaz             | Sergio Aguiar Almora               |
+| Renata Vázquez Barroso               | Rosa Lilián Poot Cruz               | Sergio Ivan Gómez González         |
+| Ricardo Jafet Cen Suaste             | Rosa Marina Chi Chuc                | Shaira Rosselline Uitzil Nahuat    |
+| Ricardo Zavala Gijón                 | Rosario Yamira Yah Tapia            | Sherlyn Arleth Kú Uc               |
+| Roberto Fernando Colli Tosca         | Rubi Esmeralda Cob Huchin           | Shyrley Monserrath Matú Huan       |
+| Rodolfo Fermín Ku Yah                | Said Emmanuel Tep Keb               | Stephanie Saraí Arias Pacheco      |
+
+| **SALÓN H6**                         | **SALÓN H6**                         |   **SALÓN H6**               |
+|--------------------------------------|-------------------------------------|------------------------------------|
+| Ulises Jadai Briceño Torres          | Victoria Guadalupe Dibene Martinez  | Yareli Karen Santes Ya             |
+| Valeria Gabigely García Ceme         | Victoria Sarahi Manrrero Catzim     | Yarisol Xaire Montalvo Ek          |
+| Valeria Higa Martínez                | Wendy Yaquelin Avilés Tzab          | Yenevy Stephany Caamal Ku          |
+| Valeria Naomi Rivero Alonzo          | Xaire Marisol Montalvo Ek           | Yoani Alelí Uicab Kancab           |
+| Verónica Itzel Melche García         | Xavier Antonio Martínez Dzul        | Yojanan Emanuel Pech Couoh         |
+| Vianey Adeline Erosa Tzeek           | Ximena De Jesus Pat Ferraez         | Yoselin Fernanda Durán Comi        |
+| Víctor Daniel Torres Poot            | Yael Alejandro Cruz Reaño           | Zaid Lucián Zaporta Gamboa         |
+| Victor Gerardo Vázquez Basto         | Yanai Betsabé Peraza Luna           | Zarco Argel Castillo Esquivel      |
+| Víctor Julián Dzul Basto             | Yaneli Guadalupe Peraza Celis       | Zianya Arleth García Pérez         |
+| Victoria González Evia               | Yareli Balam Pool                   | Zuleymy Margarita Contreras Tamay  |
 
 
 {{< cards >}}
@@ -123,7 +146,6 @@ A diferencia de dicho proceso, este no está separado por grado y nivel educativ
 ### Descripción del proceso
 Este año el proceso estatal de la Olimpiada matemáticas para este nivel se va a realizar en dos etapas: una abierta en línea, y una presencial con invitación.
 
-{{% steps %}}
 
 ### Etapa abierta - 21 de febrero
 
@@ -144,5 +166,3 @@ El día 21 de marzo, en la Facultad de Matemáticas, se aplicará una prueba pre
 
 
 Los 20 mejores alumnos de la segunda etapa serán considerados los ganadores de la Olimpiada Estatal de Matemáticas 2026 y recibirán una invitación a participar en un programa de entrenamiento con el que se integran las delegaciones para los concursos nacionales correspondientes.
-
-{{% /steps %}}

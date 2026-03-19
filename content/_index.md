@@ -3,11 +3,8 @@ date: '2025-10-01T21:33:20-06:00'
 draft: false
 title: 'Olimpiada Mexicana de Matemáticas en Yucatán'
 toc: true
+author: 'Pedro Sanchez'
 ---
-
-## Material de los entrenamientos del 7 y 21 de febrero
-
- * {{< hextra/hero-button text="Problemas" link="2026/clasesfebrero/" >}}
 
 ## La Olimpiada de Matemáticas
 
@@ -17,11 +14,9 @@ La Olimpiada de Matemáticas es un programa de difusión y promoción del estudi
 
 En Yucatán se realizan anualmente dos procesos selectivos, orientados a 2 concursos nacionales distintos. 
 
-{{< callout type="info" >}}
 **Olimpiada de Matemáticas para Educación Básica**
 
 Este proceso de selección es específico para alumnos desde **4º de primaria hasta 3º de secundaria**. Se realiza cada año en cooperación con la Secretaría de Educación. 
-{{< /callout >}}
 
 
 **El examen inicial se aplica en todas las escuelas primarias y secundarias en los primeros meses del ciclo escolar.**  No requiere inscripción previa. Consta de varias etapas (escuela, zona, etc.) que culminan en un examen estatal presencial en la Facultad de Matemáticas.
