@@ -6,6 +6,13 @@ toc: true
 author: 'Pedro Sanchez'
 ---
 
+{{< cards >}}
+  {{< card link="2026/cnp" title="Listas e instrucciones" image="g23.png" >}}
+{{< /cards >}}
+
+
+
+
 ## La Olimpiada de Matemáticas
 
 La Olimpiada de Matemáticas es un programa de difusión y promoción del estudio de las matemáticas desde un punto de vista creativo y razonado.
@@ -14,10 +21,14 @@ La Olimpiada de Matemáticas es un programa de difusión y promoción del estudi
 
 En Yucatán se realizan anualmente dos procesos selectivos, orientados a 2 concursos nacionales distintos. 
 
+
+{{< callout type="info" >}}
 **Olimpiada de Matemáticas para Educación Básica**
 
-Este proceso de selección es específico para alumnos desde **4º de primaria hasta 3º de secundaria**. Se realiza cada año en cooperación con la Secretaría de Educación. 
+Para alumnos de primaria y secundaria
+{{< /callout >}}
 
+Este proceso es específico para alumnos desde **4º de primaria hasta 3º de secundaria** y está separado por grado escolar. Se realiza cada año en cooperación con la Secretaría de Educación. 
 
 **El examen inicial se aplica en todas las escuelas primarias y secundarias en los primeros meses del ciclo escolar.**  No requiere inscripción previa. Consta de varias etapas (escuela, zona, etc.) que culminan en un examen estatal presencial en la Facultad de Matemáticas.
 
@@ -26,10 +37,13 @@ Los alumnos ganadores en este proceso reciben una invitación a un programa de e
 {{< callout type="info" >}}
 **Olimpiada Mexicana de Matemáticas (Concurso preuniversitario)**
 
-Es el concurso original de la Olimpiada de Matemáticas, no hay restricción o separación por nivel educativo (es decir, la misma aprueba se aplica a todos los interesados). Puede participar cualquier estudiante que se encuentre **como máximo en 2º grado de bachillerato**.
+Para cualquier alumno hasta 2º de bachillerato
 {{< /callout >}}
 
-Este proceso **es independiente al de Educación Básica y está abierto a cualquier alumno que se encuentren como máximo en 2º grado de bachillerato** (es decir, pueden participar también alumnos de secundaria o primaria independientemente de su participación en la otra modalidad). 
+
+Es el concurso original de la Olimpiada de Matemáticas, **no hay restricción o separación por nivel educativo** (es una categoría única y mixta). Puede participar cualquier estudiante que se encuentre **como máximo en 2º grado de bachillerato**. 
+
+Es decir, aunque está orientado principalmente a bachillerato, pueden participar alumnos de secundaria o primaria si lo desean. Este proceso **es independiente al de Educación Básica** (la participación o clasificación en cualquiera de los dos procesos no tiene incidencia en el otro).
 
 Se realiza en dos etapas.
 
