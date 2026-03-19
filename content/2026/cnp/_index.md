@@ -9,8 +9,11 @@ toc: true
 
 La ronda presencial se llevará a cabo el **21 de marzo de 2026** en la Facultad de Matemáticas de la UADY.
 * Traer una constancia escolar que indique su nombre, grado y escuela (no requiere foto).
-* El examen inicia a las 9:00, por lo que deben presentarse al menos media hora antes.
+* El examen inicia a las 9:00, por lo que deben **presentarse antes de las 8:30**.
 * La duración del examen es de 4:30 horas, traer lápiz y borrador. Si lo desean, pueden introducir bebidas y refrigerios al examen.
+* No podrás hacer uso de calculadoras, celulares o dispositivos electrónicos durante el examen (deberás apagar tu celular).
+
+## Asignación de salones
 
 | **SALÓN D1**                         | **SALÓN D1**                         |   **SALÓN D1**               |
 |--------------------------------------|-------------------------------------|------------------------------------|
@@ -130,39 +133,26 @@ La ronda presencial se llevará a cabo el **21 de marzo de 2026** en la Facultad
 | Víctor Julián Dzul Basto             | Yaneli Guadalupe Peraza Celis       | Zianya Arleth García Pérez         |
 | Victoria González Evia               | Yareli Balam Pool                   | Zuleymy Margarita Contreras Tamay  |
 
+## Recomendaciones adicionales
+
+Te pedimos por favor, que lleves lápices y borrador, y si lo deseas puedes llevar también útiles como sacapuntas, juego de geometría, etc. Sin embargo lo único realmente necesario, es tu lápiz y tu borrador. Eso sí, NO PUEDES hacer uso de celular o dispositivos electrónicos mientras estés presentando, por lo que se te requerirá tenerlo guardado en tu mochila y no sacarlos hasta que termines de intentar el examen.
+
+La prueba consiste de 4 preguntas, que pueden ser de geometría, álgebra, combinatoria o aritmética, y más que hallar una respuesta, lo que deseamos conocer es la manera en la que los intentas y resuelves. Por ello, en este examen te pediremos que todo lo que se te vaya ocurriendo respecto a las soluciones, lo escribas en hojas que se te proporcionarán durante el examen, pues los evaluadores leerán todas tus ideas y procedimientos.  Incluso, aunque no completes algún problema y llegues a la solución final, es posible obtener puntos si las ideas que entregas estaban correctamente encaminadas a llegar a la solución.
+
+Debido a lo anterior, se te proporcionará amplio tiempo para poder hacer diferentes intentos y explorar varios procedimientos. El tiempo mínimo que debes intentar el examen es 1 hora, en la que también podrás hacer preguntas si alguna parte de los enunciados de los problemas no está clara (sólo se responderán preguntas para poder entender los problemas, no te podremos responder si lo que estás intentando es correcto o incorrecto, ni te podemos responder fórmulas).  
+
+Una vez terminada la primera hora, si deseas, puedes entregar tu examen. A partir de ese momento ya no se responderán preguntas, y dispones de un tiempo total de 4:30 horas para presentar el examen (es decir, hasta las 13:30 horas).  
+
+De acuerdo a la convocatoria que se publicó, te recordamos que debes llevar una constancia escolar que indique tu nombre y grado, no es necesario que tenga fotografía.
+
+De este examen **se seleccionarán alrededor de 20 alumnos en total** (sin importar el grado), que serán considerados los ganadores de la Olimpiada Estatal, y que serán invitados a un programa de entrenamiento los sábados en la Facultad de Matemáticas, mediante el cual se forman las delegaciones que participan en los concursos nacionales durante el resto del año. 
+
+Los resultados de este se publicarán en esta página a partir del 28 de marzo.
+
+
 
 {{< cards >}}
   {{< card link="convocatoria-poster-2026.pdf" title="Convocatoria 2026 (enlace PDF)" image="banner-cnp.png" subtitle="Concurso preuniversitario 2026" >}}
 {{< /cards >}}
 
-## Concurso Preuniversitario (mixto) 2026
 
-El concurso original de la Olimpiada de Matemáticas cumple 40 años. Anteriormente conocido simplemente como **Concurso Estatal ha sido renombrado como Concurso Estatal Preuniversitario** para evitar confusión con el proceso específico para alumnos de primaria y secundaria que se aplica en las escuelas.
-
-
-A diferencia de dicho proceso, este no está separado por grado y nivel educativo, sino que es mixto, **abierto a cualquier alumno del estado que se encuentre como máximo en 2º grado de bachillerato** (es decir, además de Bachillerato, está abierto para que lo intenten los alumnos de secundaria que así lo deseen). Marca el inicio del proceso selectivo hacia el Concurso Nacional Preuniversitario que se realiza cada año en el mes de diciembre.
-
-
-### Descripción del proceso
-Este año el proceso estatal de la Olimpiada matemáticas para este nivel se va a realizar en dos etapas: una abierta en línea, y una presencial con invitación.
-
-
-### Etapa abierta - 21 de febrero
-
-
-La primera etapa consiste en una prueba a la cual **se puede acceder el día 21 de febrero, de 10:00 a 12:00**, a la cual se puede acceder en las páginas
-* http://ommyucatan.uady.mx 
-* http://ommyuc.org .
-
-Los participantes podrán descargar ahí la prueba y enviar sus soluciones dentro del tiempo permitido. **No requiere hacerse inscripción previa**, pues al momento de enviar sus respuestas se capturarán los datos de los participantes.
-
-Los participantes deben estar inscritos en una institución educativa del estado como máximo en 2º grado de bachillerato y haber nacido después del 1 de agosto de 2007.
-
-Se invitarán como mínimo 250 alumnos con las mejores puntuaciones a la segunda etapa.
-
-### Etapa presencial - 21 de marzo
-
-El día 21 de marzo, en la Facultad de Matemáticas, se aplicará una prueba presencial en horario de 9:00 a 13:30 horas. En esta etapa, es necesario presentar una constancia escolar que indique su centro escolar y grado al que pertenece.
-
-
-Los 20 mejores alumnos de la segunda etapa serán considerados los ganadores de la Olimpiada Estatal de Matemáticas 2026 y recibirán una invitación a participar en un programa de entrenamiento con el que se integran las delegaciones para los concursos nacionales correspondientes.
