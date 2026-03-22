@@ -14,8 +14,8 @@ menu:
     - name: Exámenes previos
       pageRef: /examenes
       weight: 1
-    - name: Resultados Etapa Región
-      pageRef: /2026/region
+    - name: Resultados Examen Estatal 
+      pageRef: /2026/resultados
       weight: 2
     - name: Concurso preuniversitario
       pageRef: /2026/cnp
