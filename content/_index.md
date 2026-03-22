@@ -7,7 +7,9 @@ author: 'Pedro Sanchez'
 ---
 
 {{< cards >}}
-  {{< card link="2026/cnp" title="Listas e instrucciones" image="g23.png" >}}
+  {{< card link="2026/ganadores-ommeb-2026.pdf" title="Alumnos ganadores del proceso de Primaria y Secundaria 2025-2026" image="g23.png" subtitle="Examen del 14 de marzo de 2026>}}
+  
+  {{< card link="2026/ganadores-cnp-2026.pdf" title="Alumnos ganadores del 40º Concurso Estatal Preuniversitario 2026" image="g23.png" subtitle="Examen del 21 de marzo de 2026>}}
 {{< /cards >}}
 
 
