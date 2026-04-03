@@ -7,8 +7,8 @@ author: 'Pedro Sanchez'
 ---
 
 ## Reunión informativa:
-Se invita a todos los ganadores a una reunión informativa el sábado 18 de abril a las 9:00 en la Facultad de
-Matemáticas sobre el programa de entrenamiento y los concursos nacionales correspondientes
+Se invita a todos los ganadores a una reunión informativa el **sábado 18 de abril a las 9:00 en la Facultad de
+Matemáticas** sobre el programa de entrenamiento y los concursos nacionales correspondientes
 
 {{< cards >}}
   {{< card link="/2026/resultados/ganadores-ommeb-2026.pdf" title="Alumnos ganadores del proceso de Primaria y Secundaria 2025-2026" image="/2026/resultados/boton-ommeb.png" subtitle="Examen del 14 de marzo de 2026">}}
