@@ -17,9 +17,6 @@ menu:
     - name: Resultados Examen Estatal 
       pageRef: /2026/resultados
       weight: 2
-    - name: Concurso preuniversitario
-      pageRef: /2026/cnp
-      weight: 2
     - name: Búsqueda
       weight: 4
       params:
