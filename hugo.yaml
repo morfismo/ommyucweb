@@ -14,8 +14,8 @@ menu:
     - name: Exámenes previos
       pageRef: /examenes
       weight: 1
-    - name: Resultados Examen Estatal 
-      pageRef: /2026/resultados
+    - name: Registro Examen Escuela 2026 
+      pageRef: /2026/etapaescuela
       weight: 2
     - name: Búsqueda
       weight: 4
