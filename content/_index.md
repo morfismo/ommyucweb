@@ -11,7 +11,7 @@ author: 'Pedro Sanchez'
 
 **Olimpiada de Matemáticas para Educación Básica**
 
-La plataforma para registrar a los alumnos seleccionados en la etapa escuela se abre el día 15 de octubre (el dia siguiente al examen) y permanecerá abierta una semana, hasta el día 21 de octubre.  **No se aceptaran registros fuera de esas fechas**
+La plataforma para registrar a los alumnos seleccionados en la etapa escuela se abrirá del  **15 de octubre (el dia siguiente al examen)  hasta el día 21 de octubre.  No se aceptaran registros fuera de esas fechas**
 
 ### Contacto
 
