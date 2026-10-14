@@ -1,15 +1,11 @@
 ---
 date: '2025-10-01T21:33:20-06:00'
 draft: false
-title: 'Olimpiada Mexicana de Matemáticas en Yucatán'
+title: ''
 toc: true
 author: 'Pedro Sanchez'
 ---
 
-
-## La Olimpiada de Matemáticas
-
-La Olimpiada de Matemáticas es un programa de difusión y promoción del estudio de las matemáticas desde un punto de vista creativo y razonado.
 
 ## Registro de alumnos (ciclo 2026-2027)
 
