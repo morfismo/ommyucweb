@@ -2,6 +2,8 @@
 title : 'Material de entrenamientos de febrero'
 date : 2026-01-26T14:43:36-06:00
 draft : false
+sidebar: 
+  exclude: true
 ---
 
 ## Descarga

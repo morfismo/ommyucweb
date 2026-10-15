@@ -4,6 +4,8 @@ draft: false
 title: 'Resultados de los Concursos Estatales'
 toc: true
 author: 'Pedro Sanchez'
+sidebar: 
+  exclude: true
 ---
 
 ## Reunión informativa:
