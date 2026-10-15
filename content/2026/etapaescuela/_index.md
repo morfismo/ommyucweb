@@ -11,8 +11,8 @@ El registro de alumnos está disponible desde el 15 de octubre (el dia posterior
 
 
 
-{{< hextra/hero-button text="Olimpiada de Matemáticas - Primaria" link="" >}}
+{{< hextra/hero-button text="Olimpiada de Matemáticas - Primaria" link="https://registro.ommyuc.org" >}}
 
 
 
-{{< hextra/hero-button text="Olimpiada de Matemáticas - Secundaria" link="" >}}
+{{< hextra/hero-button text="Olimpiada de Matemáticas - Secundaria" link="https://registro.ommyuc.org" >}}
