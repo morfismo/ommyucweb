@@ -6,6 +6,11 @@ title = 'Exámenes de años recientes'
 
 Nota: En el [ canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc) puedes revisar varias soluciones detalladas.
 
+## 2026-2027
+
+* {{< badge color="blue" link="2026-10-ETAPA-ESCUELA-2022-2027.pdf"  content="Primaria y Secundaria 2025-2026 - Etapa Escuela " icon="document-text" >}}
+
+
 ## 2025-2026
 
 * {{< badge color="blue" link="2025-10-PRIMARIA-ESCUELA-2025-2026.pdf"  content="Primaria 2025-2026 - Etapa Escuela " icon="document-text" >}}
