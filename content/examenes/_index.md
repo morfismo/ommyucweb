@@ -8,12 +8,12 @@ Nota: En el [ canal de YouTube de la Olimpiada](https://www.youtube.com/@ommyuc)
 
 ## 2026-2027
 
-* {{< badge color="blue" link="2026-10-ETAPA-ESCUELA-2022-2027.pdf"  content="Primaria y Secundaria 2026-2027 - Etapa Escuela " icon="document-text" >}}
+* {{< badge color="blue" link="2026-10-ETAPA-ESCUELA-2022-2027.pdf"  content="Primaria y Secundaria 2026-2027 - Etapa Escuela " icon="document-text" >}} {{< badge color="blue" link="https://youtu.be/C8X86PljFPE"  content="soluciones " icon="youtube" >}}
 
 
 ## 2025-2026
 
-* {{< badge color="blue" link="2025-10-PRIMARIA-ESCUELA-2025-2026.pdf"  content="Primaria 2025-2026 - Etapa Escuela " icon="document-text" >}} {{< badge color="blue" link="https://youtu.be/C8X86PljFPE"  content="soluciones " icon="youtube" >}}
+* {{< badge color="blue" link="2025-10-PRIMARIA-ESCUELA-2025-2026.pdf"  content="Primaria 2025-2026 - Etapa Escuela " icon="document-text" >}} 
 
 * {{< badge color="blue" link="2025-10-SECUNDARIA-ESCUELA-2025-2026.pdf"  content="Secundaria 2025-2026 - Etapa Escuela " icon="document-text" >}}
 
