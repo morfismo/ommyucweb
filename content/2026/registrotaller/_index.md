@@ -12,7 +12,7 @@ El taller "Resolución de problemas para competencias estatales de matemáticas"
 
 Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes Mérida, Tekax y Valladolid.
 
-Es gratuito, pero dado a que el cupo es limitado, se hará un pre-registro y se enviará confirmación de inscripción conforme de valide.
+Es gratuito, pero dado a que el cupo es limitado, se hará un pre-registro y se enviará confirmación de inscripción conforme se valide.
 
 
 {{< hextra/hero-button text="PRE-REGISTRO (se abre en breve)" link="" >}}
