@@ -1,5 +1,5 @@
 ---
-title : 'Registro al taller de docentes'
+title : 'Pre-registro a Taller de Docentes'
 date : 2026-01-26T14:43:36-06:00
 draft : false
 sidebar: 
@@ -7,7 +7,6 @@ sidebar:
 toc: false
 ---
 
-## Pre-registro para el taller para docentes
 
 El taller "Resolución de problemas para competencias estatales de matemáticas" está abierto a docentes y directivos de escuelas del estado de Yucatán.
 
