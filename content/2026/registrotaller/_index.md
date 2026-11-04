@@ -14,5 +14,6 @@ Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes Mér
 
 Es gratuito, pero dado a que el cupo es limitado, se hará un pre-registro y se enviará confirmación de inscripción conforme se valide.
 
+EL PRE-REGISTRO se abrirá el 5 de noviembre.
 
-{{< hextra/hero-button text="PRE-REGISTRO (se abre en breve)" link="" >}}
+{{< hextra/hero-button text="PRE-REGISTRO (se abre 5 de nov)" link="" >}}
