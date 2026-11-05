@@ -1,6 +1,6 @@
 ---
-title : 'Pre-registro a Taller de Docentes'
-date : 2026-01-26T14:43:36-06:00
+title : 'Pre-registro Taller de Docentes'
+date : 2026-11-4T14:43:36-06:00
 draft : false
 sidebar: 
   exclude: true
