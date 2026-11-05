@@ -18,5 +18,4 @@ Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes:
 
 El taller es gratuito, pero debido al espacio limitado, se hará un pre-registro y se enviará posteriormente la confirmación tras validar la solicitud.
 
-
 {{< hextra/hero-button text="PRE-REGISTRO" link="https://taller.ommyuc.org" >}}
