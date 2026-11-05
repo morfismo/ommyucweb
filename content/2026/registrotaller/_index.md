@@ -8,12 +8,15 @@ toc: false
 ---
 
 
-El taller "Resolución de problemas para competencias estatales de matemáticas" está abierto a docentes y directivos de escuelas del estado de Yucatán.
+El taller **"Resolución de problemas para competencias estatales de matemáticas"** está abierto a docentes, directivos y ATPs del estado de Yucatán.
 
-Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes Mérida, Tekax y Valladolid.
+Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes:
 
-Es gratuito, pero dado a que el cupo es limitado, se hará un pre-registro y se enviará confirmación de inscripción conforme se valide.
+* Mérida (Escuela Secundaria Técnica 56, cupo 100 personas)
+* Tekax (CEDE, cupo 50 personas)
+* Vallaodlid (CEDE, cupo 50 personas) 
 
-EL PRE-REGISTRO se abrirá el 5 de noviembre.
+El taller es gratuito, pero debido al espacio limitado, se hará un pre-registro y se enviará posteriormente la confirmación tras validar la solicitud.
 
-{{< hextra/hero-button text="PRE-REGISTRO (se abre 5 de nov)" link="" >}}
+
+{{< hextra/hero-button text="PRE-REGISTRO" link="https://taller.ommyuc.org" >}}
