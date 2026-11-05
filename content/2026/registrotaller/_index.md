@@ -7,7 +7,6 @@ sidebar:
 toc: false
 ---
 
-
 El taller **"Resolución de problemas para competencias estatales de matemáticas"** está abierto a docentes, directivos y ATPs del estado de Yucatán.
 
 Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes:
