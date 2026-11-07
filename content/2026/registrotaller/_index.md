@@ -13,7 +13,7 @@ Se realizará en 3 sesiones, los sábados 14, 21 y 28 de noviembre en sedes:
 
 * Mérida (Escuela Secundaria Técnica 56)
 * Tekax (CEDE)
-* Vallaodlid (CEDE) 
+* ~Vallaodlid (CEDE)~  (El cupo está lleno, no hay espacios disponibles) 
 
 El taller es gratuito, pero debido al espacio limitado, se hará un pre-registro y se enviará posteriormente la confirmación tras validar la solicitud.
 
