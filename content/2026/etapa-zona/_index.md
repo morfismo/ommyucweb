@@ -7,14 +7,20 @@ sidebar:
 toc: false
 ---
 
-## Registro de alumnos seleccionados por escuela 
 
 
 El registro de alumnos está disponible desde el 13 de noviembre (el dia posterior al examen) hasta el día 20 de noviembre 
 
+{{< callout  >}}
 
-* REGLA: Se registran como máximo **3 ALUMNOS POR GRADO**, con la única excepción de que si hay alumnos empatados con el tercer lugar, se incluyen todos los empatados.
+Se registran como máximo **3 ALUMNOS POR GRADO**, con la única excepción de que si hay alumnos empatados con el tercer lugar, se incluyen todos los empatados.
+{{< /callout >}}
 
-* Todos los alumnos registrados **tienen que encontrarse en el listado de alumnos seleccionados en la etapa previa**, de lo contrario serán filtrados cuando se valide la información y no aparecerán en la lista de la siguiente etapa (es decir: *no es posible agregar alumnos que no hayan sido seleccionados en la etapa anterior*, dichos registros serán descartados). 
+
+{{< callout type="warning" >}}
+  Todos los alumnos registrados **tienen que encontrarse en el listado de alumnos seleccionados en la etapa previa**, de lo contrario serán filtrados cuando se valide la información y no aparecerán en la lista de la siguiente etapa
+{{< /callout >}}
+
+En otras palabras: no se considerarán como válidos registros de alumnos que no hayan presentado o no hayan sido seleccionados en la etapa previa.
 
 {{< hextra/hero-button text="REGISTRAR ALUMNOS" link="" >}}
