@@ -18,9 +18,11 @@ Se registran como máximo **3 ALUMNOS POR GRADO**, con la única excepción de q
 
 
 {{< callout type="warning" >}}
-  Todos los alumnos registrados **tienen que encontrarse en el listado de alumnos seleccionados en la etapa previa**, de lo contrario serán filtrados cuando se valide la información y no aparecerán en la lista de la siguiente etapa
+  Todos los alumnos registrados **tienen que encontrarse en el listado de alumnos seleccionados en la etapa previa**, de lo contrario serán filtrados cuando se valide la información y no aparecerán en la lista de la siguiente etapa.
+  
+  Es decir: *no se considerarán como válidos registros de alumnos que no hayan presentado o no hayan sido seleccionados en la etapa previa.*
+
 {{< /callout >}}
 
-En otras palabras: no se considerarán como válidos registros de alumnos que no hayan presentado o no hayan sido seleccionados en la etapa previa.
 
 {{< hextra/hero-button text="REGISTRAR ALUMNOS" link="" >}}
