@@ -13,16 +13,18 @@ El registro de alumnos está disponible desde el 13 de noviembre (el dia posteri
 
 {{< callout  >}}
 
-Se registran como máximo **3 ALUMNOS POR GRADO**, con la única excepción de que si hay alumnos empatados con el tercer lugar, se incluyen todos los empatados.
+Se registran hasta **3 alumnos por grado**, con la única excepción de que si hay alumnos empatados con el tercer lugar, **se incluyen también los empatados**.
 {{< /callout >}}
 
 
 {{< callout type="warning" >}}
-  Todos los alumnos registrados **tienen que encontrarse en el listado de alumnos seleccionados en la etapa previa**, de lo contrario serán filtrados cuando se valide la información y no aparecerán en la lista de la siguiente etapa.
-  
-  Es decir: *no se considerarán como válidos registros de alumnos que no hayan presentado o no hayan sido seleccionados en la etapa previa.*
+  Para poder clasificar en esta etapa, cada alumno debe haber sido registrado en la primera etapa.
+
+  Al cierre del registro se hará un cotejo de las listas y únicamente los alumnos que estén en ambas aparecerán en las listas de la tercera etapa.
+
+En otras palabras, *no se considerarán como válidos registros de alumnos que no hayan presentado o no hayan sido seleccionados en la etapa previa.*
 
 {{< /callout >}}
 
 
-{{< hextra/hero-button text="REGISTRAR ALUMNOS" link="" >}}
+{{< hextra/hero-button text="REGISTRAR ALUMNOS" link="https://zona.ommyuc.org" >}}
